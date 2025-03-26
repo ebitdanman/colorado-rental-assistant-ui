@@ -11,38 +11,40 @@ dotenv.config();
 const app = express();
 
 // Define allowed origins with more comprehensive list
-const allowedOrigins = [
-  'https://colorado-rental-assistant-ui.vercel.app',
-  'https://colorado-rental-assistant-1ahehiciv-dans-projects-d49e63a0.vercel.app',
-  'http://localhost:3000',
-  'http://localhost:5173',
-  'https://colorado-rental-assistant-ui-production.up.railway.app'
-];
-
-// Comprehensive CORS configuration
 const corsOptions: cors.CorsOptions = {
   origin: function (origin, callback) {
-    console.log('Checking CORS origin:', origin);  // New logging line
+    console.log('CORS request from origin:', origin);
     
-    // Allow requests with no origin (like mobile apps or curl requests)
+    // Always allow the requests while in development
+    callback(null, true);
+    
+    // Alternatively, use this for stricter checking once it's working:
+    /*
     if (!origin || allowedOrigins.indexOf(origin) !== -1) {
       callback(null, true);
     } else {
-      console.log('Origin not allowed:', origin);  // New logging line
+      console.log('Origin rejected by CORS:', origin);
       callback(new Error('Not allowed by CORS'));
     }
+    */
   },
-  methods: ['GET', 'POST', 'OPTIONS'],
-  allowedHeaders: [
-    'Content-Type', 
-    'Authorization', 
-    'Accept', 
-    'Origin',
-    'X-Requested-With'
-  ],
   credentials: true,
-  optionsSuccessStatus: 200
+  methods: ['GET', 'POST', 'OPTIONS', 'PUT', 'DELETE'],
+  allowedHeaders: ['Content-Type', 'Authorization', 'Accept', 'Origin', 'X-Requested-With'],
+  exposedHeaders: ['Access-Control-Allow-Origin'],
+  optionsSuccessStatus: 200,
+  preflightContinue: false
 };
+
+// Add this debugging middleware before your other middleware
+app.use((req, res, next) => {
+  console.log('Incoming request:');
+  console.log(`  Path: ${req.path}`);
+  console.log(`  Method: ${req.method}`);
+  console.log(`  Origin: ${req.headers.origin}`);
+  console.log(`  Headers: ${JSON.stringify(req.headers)}`);
+  next();
+});
 
 // Apply CORS middleware
 app.use(cors(corsOptions));
