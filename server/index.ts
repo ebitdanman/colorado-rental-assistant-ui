@@ -1,6 +1,7 @@
-console.log('Current working directory:', process.cwd());
-console.log('Data directory path:', path.join(process.cwd(), 'data'));
-console.log('Alternative data path:', path.join(process.cwd(), '..', 'data'));
+console.error('==== SERVER STARTUP ====');
+console.error('Current working directory:', process.cwd());
+console.error('Data directory path:', path.join(process.cwd(), 'data'));
+console.error('Alternative data path:', path.join(process.cwd(), '..', 'data'));
 
 import express from 'express';
 import type { Request, Response, RequestHandler } from 'express';
@@ -8,37 +9,11 @@ import * as dotenv from 'dotenv';
 import { DocumentProcessor } from './src/utils/documentProcessor';
 import path from 'path';
 import fs from 'fs';
-import cors from 'cors';
 
 dotenv.config();
 
 const app = express();
 
-// Define allowed origins with more comprehensive list
-const corsOptions: cors.CorsOptions = {
-  origin: function (origin, callback) {
-    console.log('CORS request from origin:', origin);
-    
-    // List of allowed origins - include your Vercel frontend
-    const allowedOrigins = [
-      'https://colorado-rental-assistant-ui.vercel.app',
-      'http://localhost:3000',
-      'http://localhost:5173'
-    ];
-    
-    // When using credentials, we need to specify the exact origin (not '*')
-    if (!origin || allowedOrigins.includes(origin)) {
-      callback(null, true);
-    } else {
-      console.log('Origin rejected by CORS:', origin);
-      callback(new Error('Not allowed by CORS'));
-    }
-  },
-  credentials: true,
-  methods: ['GET', 'POST', 'OPTIONS', 'PUT', 'DELETE'],
-  allowedHeaders: ['Content-Type', 'Authorization', 'Accept', 'Origin', 'X-Requested-With'],
-  optionsSuccessStatus: 200
-};
 
 // Add this debugging middleware before your other middleware
 app.use((req, res, next) => {
@@ -50,12 +25,34 @@ app.use((req, res, next) => {
   next();
 });
 
-// Apply CORS middleware
-app.use(cors(corsOptions));
+// Simple, direct CORS middleware at the top of your middleware chain
+app.use((req, res, next) => {
+  // Log request details
+  console.log('Processing request:', {
+    method: req.method,
+    path: req.path,
+    origin: req.headers.origin
+  });
 
-// Preflight request handler
-app.options('*', cors(corsOptions));
-
+  // Set CORS headers directly
+  const allowedOrigin = 'https://colorado-rental-assistant-ui.vercel.app';
+  
+  // Set the origin
+  res.header('Access-Control-Allow-Origin', allowedOrigin);
+  
+  // Set other CORS headers
+  res.header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, DELETE');
+  res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, Accept, Origin, X-Requested-With');
+  res.header('Access-Control-Allow-Credentials', 'true');
+  
+  // Handle preflight requests
+  if (req.method === 'OPTIONS') {
+    console.log('Handling OPTIONS preflight request');
+    return res.status(204).end();
+  }
+  
+  next();
+});
 // Body parser middleware
 app.use(express.json());
 
