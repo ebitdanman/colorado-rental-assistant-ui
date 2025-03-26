@@ -11,7 +11,16 @@ const app = express();
 
 // CORS headers middleware
 app.use((req, res, next) => {
-  res.setHeader('Access-Control-Allow-Origin', 'https://colorado-rental-assistant-ui.vercel.app');
+  const allowedOrigins = [
+    'https://colorado-rental-assistant-ui.vercel.app',
+    'https://colorado-rental-assistant-1ahehiciv-dans-projects-d49e63a0.vercel.app'
+  ];
+  
+  const origin = req.headers.origin;
+  if (origin && allowedOrigins.includes(origin)) {
+    res.setHeader('Access-Control-Allow-Origin', origin);
+  }
+  
   res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
   res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization, Accept, Origin');
   res.setHeader('Access-Control-Allow-Credentials', 'true');
@@ -21,6 +30,20 @@ app.use((req, res, next) => {
 
 // Handle preflight requests
 app.options('*', (req, res) => {
+  const allowedOrigins = [
+    'https://colorado-rental-assistant-ui.vercel.app',
+    'https://colorado-rental-assistant-1ahehiciv-dans-projects-d49e63a0.vercel.app'
+  ];
+  
+  const origin = req.headers.origin;
+  if (origin && allowedOrigins.includes(origin)) {
+    res.setHeader('Access-Control-Allow-Origin', origin);
+  }
+  
+  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization, Accept, Origin');
+  res.setHeader('Access-Control-Allow-Credentials', 'true');
+  res.setHeader('Access-Control-Max-Age', '86400');
   res.status(204).end();
 });
 
