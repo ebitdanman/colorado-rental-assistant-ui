@@ -1,6 +1,5 @@
 import express from 'express';
 import type { Request, Response, RequestHandler } from 'express';
-import cors from 'cors';
 import * as dotenv from 'dotenv';
 import { DocumentProcessor } from './src/utils/documentProcessor';
 import path from 'path';
@@ -10,16 +9,19 @@ dotenv.config();
 
 const app = express();
 
-// Simple CORS configuration
-const corsOptions = {
-  origin: 'https://colorado-rental-assistant-ui.vercel.app',
-  methods: ['GET', 'POST', 'OPTIONS'],
-  allowedHeaders: ['Content-Type', 'Authorization', 'Accept', 'Origin'],
-  credentials: true
-};
+// CORS middleware
+app.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', 'https://colorado-rental-assistant-ui.vercel.app');
+  res.header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
+  res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, Accept, Origin');
+  res.header('Access-Control-Allow-Credentials', 'true');
+  next();
+});
 
-// Enable CORS for all routes
-app.use(cors(corsOptions));
+// Handle preflight requests
+app.options('*', (req, res) => {
+  res.status(200).end();
+});
 
 app.use(express.json());
 
