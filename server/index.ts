@@ -95,6 +95,17 @@ app.all('/api/echo', (req, res) => {
   });
 });
 
+// Add diagnostic test endpoint
+app.get('/api/diagnostic-test', (req, res) => {
+  console.log('GET /api/diagnostic-test received');
+  res.json({ 
+    message: 'Diagnostic test endpoint working', 
+    method: 'GET',
+    timestamp: new Date().toISOString(),
+    headers: req.headers
+  });
+});
+
 // Serve article files
 app.get('/articles/:slug.md', (req, res) => {
   try {
