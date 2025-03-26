@@ -27,7 +27,14 @@ app.use((req, res, next) => {
 
 // Use the cors package with specific configuration
 app.use(cors({
-  origin: "https://colorado-rental-assistant-ui.vercel.app",
+  origin: function(origin, callback) {
+    // Allow any origin that includes "colorado-rental-assistant-ui" 
+    if (!origin || origin.includes("colorado-rental-assistant-ui")) {
+      callback(null, true);
+    } else {
+      callback(new Error('Not allowed by CORS'));
+    }
+  },
   methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
   allowedHeaders: ["Content-Type", "Authorization", "Accept", "Origin", "X-Requested-With"],
   credentials: true
