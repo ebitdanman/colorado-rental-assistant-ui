@@ -1,3 +1,7 @@
+console.log("=================================================================");
+console.log("SERVER STARTING - THIS SHOULD APPEAR IN RAILWAY LOGS");
+console.log("=================================================================");
+
 console.error('==== SERVER STARTUP ====');
 console.error('Current working directory:', process.cwd());
 console.error('Data directory path:', path.join(process.cwd(), 'data'));
