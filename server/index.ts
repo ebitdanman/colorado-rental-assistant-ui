@@ -4,6 +4,7 @@ console.error('Data directory path:', path.join(process.cwd(), 'data'));
 console.error('Alternative data path:', path.join(process.cwd(), '..', 'data'));
 
 import express from 'express';
+import cors from 'cors';
 import type { Request, Response, RequestHandler } from 'express';
 import * as dotenv from 'dotenv';
 import { DocumentProcessor } from './src/utils/documentProcessor';
@@ -14,7 +15,7 @@ dotenv.config();
 
 const app = express();
 
-// Add this debugging middleware before your other middleware
+// Debug middleware
 app.use((req, res, next) => {
   console.error('Incoming request:');
   console.error(`  Path: ${req.path}`);
@@ -24,43 +25,16 @@ app.use((req, res, next) => {
   next();
 });
 
-// Global CORS middleware
-app.use((req, res, next) => {
-  // Log all requests
-  console.error(`CORS Request: ${req.method} ${req.path} from ${req.headers.origin}`);
-  
-  // Set CORS headers for all responses
-  const origin = req.headers.origin || '';
-  res.header('Access-Control-Allow-Origin', origin);
-  res.header('Access-Control-Allow-Credentials', 'true');
-  res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, Accept, Origin, X-Requested-With');
-  res.header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
-  
-  // Continue to the next middleware
-  next();
-});
+// Use the cors package with specific configuration
+app.use(cors({
+  origin: "https://colorado-rental-assistant-ui.vercel.app",
+  methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+  allowedHeaders: ["Content-Type", "Authorization", "Accept", "Origin", "X-Requested-With"],
+  credentials: true
+}));
 
-// Specific handling for OPTIONS requests to /api/search
-app.options('/api/search', (req, res) => {
-  console.error('Handling specific OPTIONS request for /api/search');
-  
-  // Set required CORS headers
-  const origin = req.headers.origin || '';
-  res.header('Access-Control-Allow-Origin', origin);
-  res.header('Access-Control-Allow-Methods', 'POST, OPTIONS');
-  res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, Accept');
-  res.header('Access-Control-Allow-Credentials', 'true');
-  res.header('Access-Control-Max-Age', '86400');
-  
-  // Respond with a 204 No Content
-  res.status(204).end();
-});
-
-// Handle all OPTIONS requests with 204 No Content
-app.options('*', (req, res) => {
-  console.error(`Handling OPTIONS request for ${req.path}`);
-  res.status(204).end();
-});
+// Explicitly handle OPTIONS requests
+app.options('*', cors());
 
 // Body parser middleware
 app.use(express.json());
@@ -133,7 +107,7 @@ const searchHandler: RequestHandler = async (req, res) => {
   }
 };
 
-// Define the search endpoint with explicit method support
+// Define search endpoint
 app.post('/api/search', searchHandler);
 
 const PORT = process.env.PORT || 3000;
