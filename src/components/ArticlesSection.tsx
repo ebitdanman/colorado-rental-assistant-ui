@@ -8,15 +8,26 @@ import {
   Card,
   CardHeader,
   CardBody,
+  Spinner,
+  Center,
 } from "@chakra-ui/react";
 import { ArticleMetadata } from '../types/article';
 
 interface ArticlesSectionProps {
   articles: ArticleMetadata[];
   onArticleClick: (slug: string) => void;
+  isLoading?: boolean;
 }
 
-const ArticlesSection: React.FC<ArticlesSectionProps> = ({ articles, onArticleClick }) => {
+const ArticlesSection: React.FC<ArticlesSectionProps> = ({ articles, onArticleClick, isLoading = false }) => {
+  if (isLoading) {
+    return (
+      <Center h="200px">
+        <Spinner size="xl" color="blue.500" />
+      </Center>
+    );
+  }
+
   // Group articles by category
   const articlesByCategory = articles.reduce((acc, article) => {
     if (!acc[article.category]) {

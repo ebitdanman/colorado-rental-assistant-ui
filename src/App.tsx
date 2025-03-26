@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import {
   Box,
   Button,
@@ -17,16 +17,42 @@ import {
 import ArticlesSection from "./components/ArticlesSection";
 import ArticleView from "./components/ArticleView";
 import { getArticles } from "./utils/articleLoader";
+import { ArticleMetadata } from "./types/article";
 
 function App() {
   const [result, setResult] = useState("");
   const [isLoading, setIsLoading] = useState(false);
   const [selectedArticle, setSelectedArticle] = useState<string | null>(null);
+  const [articles, setArticles] = useState<ArticleMetadata[]>([]);
+  const [isLoadingArticles, setIsLoadingArticles] = useState(true);
   const toast = useToast();
+
+  useEffect(() => {
+    const loadArticles = async () => {
+      try {
+        const fetchedArticles = await getArticles();
+        setArticles(fetchedArticles);
+      } catch (error) {
+        console.error('Error loading articles:', error);
+        toast({
+          title: "Error",
+          description: "Failed to load articles. Please refresh the page.",
+          status: "error",
+          duration: 5000,
+          isClosable: true,
+        });
+      } finally {
+        setIsLoadingArticles(false);
+      }
+    };
+
+    loadArticles();
+  }, [toast]);
 
   const handleSearch = async (query: string) => {
     setIsLoading(true);
     try {
+      console.log('About to fetch from:', '/api/search');
       const response = await fetch(`/api/search`, {
         method: "POST",
         headers: {
@@ -38,6 +64,7 @@ function App() {
       if (!response.ok) {
         throw new Error("Search request failed");
       }
+      console.log('Response from:', response.url);
 
       const data = await response.json();
       setResult(data.answer);
@@ -165,8 +192,9 @@ function App() {
         ) : (
           <Container maxW="container.xl" py={10}>
             <ArticlesSection 
-              articles={getArticles()} 
-              onArticleClick={handleArticleClick} 
+              articles={articles}
+              onArticleClick={handleArticleClick}
+              isLoading={isLoadingArticles}
             />
           </Container>
         )}
