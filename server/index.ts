@@ -25,29 +25,32 @@ app.use((req, res, next) => {
   next();
 });
 
-// Simple, direct CORS middleware at the top of your middleware chain
+// More permissive CORS handling
 app.use((req, res, next) => {
-  // Log request details
-  console.log('Processing request:', {
-    method: req.method,
-    path: req.path,
-    origin: req.headers.origin
-  });
-
-  // Set CORS headers directly
-  const allowedOrigin = 'https://colorado-rental-assistant-ui.vercel.app';
+  // Log all requests
+  console.error(`CORS Request: ${req.method} ${req.path} from ${req.headers.origin}`);
   
-  // Set the origin
-  res.header('Access-Control-Allow-Origin', allowedOrigin);
+  // Allow requests from any origin in development
+  const origin = req.headers.origin || '';
+  res.header('Access-Control-Allow-Origin', origin);
   
-  // Set other CORS headers
-  res.header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, DELETE');
-  res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, Accept, Origin, X-Requested-With');
+  // Allow credentials
   res.header('Access-Control-Allow-Credentials', 'true');
   
-  // Handle preflight requests
+  // Allow all requested headers
+  const requestedHeaders = req.headers['access-control-request-headers'];
+  if (requestedHeaders) {
+    res.header('Access-Control-Allow-Headers', requestedHeaders.toString());
+  } else {
+    res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, Accept, Origin, X-Requested-With');
+  }
+  
+  // Allow all methods
+  res.header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
+  
+  // Handle preflight
   if (req.method === 'OPTIONS') {
-    console.log('Handling OPTIONS preflight request');
+    console.error('Handling OPTIONS preflight request');
     return res.status(204).end();
   }
   
