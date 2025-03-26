@@ -15,6 +15,12 @@ dotenv.config();
 
 const app = express();
 
+// Request logger middleware - add this BEFORE other middleware
+app.use((req, res, next) => {
+  console.log(`Incoming request: ${req.method} ${req.path}`);
+  next();
+});
+
 // Debug middleware
 app.use((req, res, next) => {
   console.error('Incoming request:');
@@ -54,10 +60,39 @@ app.use((err: Error, req: Request, res: Response, next: any) => {
   res.status(500).json({ error: 'Internal server error', details: err.message });
 });
 
-// Simple test endpoint
+// Simple GET test endpoint
 app.get('/api/test', (req, res) => {
-  console.error('Test endpoint called');
-  res.json({ message: 'CORS test successful' });
+  console.log('GET /api/test received');
+  res.json({ 
+    message: 'GET test endpoint working', 
+    method: 'GET',
+    headers: req.headers
+  });
+});
+
+// Simple POST test endpoint
+app.post('/api/test', (req, res) => {
+  console.log('POST /api/test received');
+  console.log('Request body:', req.body);
+  res.json({ 
+    message: 'POST test endpoint working', 
+    method: 'POST',
+    body: req.body,
+    headers: req.headers
+  });
+});
+
+// Echo endpoint that returns info about the request
+app.all('/api/echo', (req, res) => {
+  console.log(`${req.method} /api/echo received`);
+  res.json({
+    message: 'Echo endpoint',
+    method: req.method,
+    path: req.path,
+    query: req.query,
+    body: req.body,
+    headers: req.headers
+  });
 });
 
 // Serve article files
