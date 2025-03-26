@@ -4,46 +4,51 @@ import * as dotenv from 'dotenv';
 import { DocumentProcessor } from './src/utils/documentProcessor';
 import path from 'path';
 import fs from 'fs';
+import cors from 'cors';
 
 dotenv.config();
 
 const app = express();
 
-// Define allowed origins
+// Define allowed origins with more comprehensive list
 const allowedOrigins = [
   'https://colorado-rental-assistant-ui.vercel.app',
-  'https://colorado-rental-assistant-1ahehiciv-dans-projects-d49e63a0.vercel.app'
+  'https://colorado-rental-assistant-1ahehiciv-dans-projects-d49e63a0.vercel.app',
+  'http://localhost:3000',
+  'http://localhost:5173',
+  'https://colorado-rental-assistant-ui-production.up.railway.app'
 ];
 
-// CORS middleware - must be first
-app.use((req, res, next) => {
-  const origin = req.headers.origin;
-  
-  // Log the request details for debugging
-  console.log('Request:', {
-    method: req.method,
-    path: req.path,
-    origin: origin,
-    headers: req.headers
-  });
+// Comprehensive CORS configuration
+const corsOptions: cors.CorsOptions = {
+  origin: function (origin, callback) {
+    console.log('Checking CORS origin:', origin);  // New logging line
+    
+    // Allow requests with no origin (like mobile apps or curl requests)
+    if (!origin || allowedOrigins.indexOf(origin) !== -1) {
+      callback(null, true);
+    } else {
+      console.log('Origin not allowed:', origin);  // New logging line
+      callback(new Error('Not allowed by CORS'));
+    }
+  },
+  methods: ['GET', 'POST', 'OPTIONS'],
+  allowedHeaders: [
+    'Content-Type', 
+    'Authorization', 
+    'Accept', 
+    'Origin',
+    'X-Requested-With'
+  ],
+  credentials: true,
+  optionsSuccessStatus: 200
+};
 
-  // Set CORS headers
-  if (origin && allowedOrigins.includes(origin)) {
-    res.setHeader('Access-Control-Allow-Origin', origin);
-    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
-    res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization, Accept, Origin');
-    res.setHeader('Access-Control-Allow-Credentials', 'true');
-    res.setHeader('Access-Control-Max-Age', '86400');
-  }
+// Apply CORS middleware
+app.use(cors(corsOptions));
 
-  // Handle preflight requests
-  if (req.method === 'OPTIONS') {
-    res.status(204).end();
-    return;
-  }
-
-  next();
-});
+// Preflight request handler
+app.options('*', cors(corsOptions));
 
 // Body parser middleware
 app.use(express.json());
