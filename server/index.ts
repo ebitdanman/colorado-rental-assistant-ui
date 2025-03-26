@@ -87,6 +87,11 @@ const searchHandler: RequestHandler = async (req, res) => {
   }
 };
 
+// Handle OPTIONS request for /api/search
+app.options('/api/search', (req, res) => {
+  res.status(200).end();
+});
+
 app.post('/api/search', searchHandler);
 
 const PORT = process.env.PORT || 3000;
