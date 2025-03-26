@@ -59,15 +59,18 @@ const ArticleView: React.FC<ArticleViewProps> = ({ slug, onBack }) => {
     const fetchArticle = async () => {
       try {
         setLoading(true);
-        const articleData = await getArticleBySlug(slug);
+        const [articleData, allArticles] = await Promise.all([
+          getArticleBySlug(slug),
+          getArticles()
+        ]);
+        
         if (articleData) {
           setArticle(articleData);
           setHeadings(extractHeadings(articleData.content));
           
-          // Get related articles from the same category
-          const allArticles = getArticles();
+          // Filter related articles from the same category
           const categoryArticles = allArticles.filter(
-            a => a.category === articleData.category
+            a => a.category === articleData.category && a.slug !== slug
           );
           setRelatedArticles(categoryArticles);
         } else {

@@ -1,4 +1,4 @@
-import { Article, ArticleMetadata } from '../types/article';
+import { ArticleMetadata } from '../types/article';
 
 // Remove API_URL constant since we're using relative paths
 // const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3000';
@@ -39,7 +39,7 @@ const articles: ArticleMetadata[] = [
   }
 ];
 
-export async function getArticles() {
+export async function getArticles(): Promise<ArticleMetadata[]> {
   try {
     const response = await fetch(`/api/articles`);
     if (!response.ok) {
@@ -52,7 +52,7 @@ export async function getArticles() {
   }
 }
 
-export async function getArticle(slug: string) {
+export async function getArticleBySlug(slug: string) {
   try {
     const response = await fetch(`/api/articles/${slug}`);
     if (!response.ok) {
