@@ -15,6 +15,11 @@ dotenv.config();
 
 const app = express();
 
+// Simple test endpoint - placed at the very top
+app.get('/api-test-xyz', (req, res) => {
+  res.send('API TEST WORKING');
+});
+
 // Request logger middleware - add this BEFORE other middleware
 app.use((req, res, next) => {
   console.log(`Incoming request: ${req.method} ${req.path}`);
