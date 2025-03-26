@@ -1,5 +1,6 @@
-import express, { Request, Response, NextFunction } from 'express';
-import type { RequestHandler, ErrorRequestHandler } from 'express';
+import express from 'express';
+import type { Request, Response, RequestHandler } from 'express';
+import cors from 'cors';
 import * as dotenv from 'dotenv';
 import { DocumentProcessor } from './src/utils/documentProcessor';
 import path from 'path';
@@ -9,34 +10,32 @@ dotenv.config();
 
 const app = express();
 
-// Basic CORS middleware - must be first
-const corsMiddleware: RequestHandler = (req, res, next) => {
-  // Allow requests from your Vercel frontend
-  res.header('Access-Control-Allow-Origin', 'https://colorado-rental-assistant-ui.vercel.app');
-  res.header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
-  res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, Accept, Origin');
-  res.header('Access-Control-Allow-Credentials', 'true');
-  
-  // Handle preflight requests
-  if (req.method === 'OPTIONS') {
-    return res.status(200).end();
-  }
-  
-  next();
+// Configure CORS with specific options
+const corsOptions = {
+  origin: 'https://colorado-rental-assistant-ui.vercel.app',
+  methods: ['GET', 'POST', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization', 'Accept', 'Origin'],
+  credentials: true,
+  preflightContinue: false,
+  optionsSuccessStatus: 204,
+  maxAge: 86400 // 24 hours
 };
 
-app.use(corsMiddleware);
+// Enable CORS for all routes
+app.use(cors(corsOptions));
+
+// Handle preflight requests explicitly
+app.options('*', cors(corsOptions));
+
 app.use(express.json());
 
 const documentProcessor = new DocumentProcessor();
 
 // Add error logging middleware
-const errorHandler: ErrorRequestHandler = (err, req, res, next) => {
+app.use((err: Error, req: Request, res: Response, next: any) => {
   console.error('Error:', err.message);
   res.status(500).json({ error: 'Internal server error', details: err.message });
-};
-
-app.use(errorHandler);
+});
 
 // Serve article files
 app.get('/articles/:slug.md', (req, res) => {
@@ -91,6 +90,9 @@ const searchHandler: RequestHandler = async (req, res) => {
     res.status(500).json({ error: 'Internal server error' });
   }
 };
+
+// Handle OPTIONS request for /api/search specifically
+app.options('/api/search', cors(corsOptions));
 
 app.post('/api/search', searchHandler);
 
