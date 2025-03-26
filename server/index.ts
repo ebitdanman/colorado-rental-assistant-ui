@@ -14,48 +14,54 @@ dotenv.config();
 
 const app = express();
 
-
 // Add this debugging middleware before your other middleware
 app.use((req, res, next) => {
-  console.log('Incoming request:');
-  console.log(`  Path: ${req.path}`);
-  console.log(`  Method: ${req.method}`);
-  console.log(`  Origin: ${req.headers.origin}`);
-  console.log(`  Headers: ${JSON.stringify(req.headers)}`);
+  console.error('Incoming request:');
+  console.error(`  Path: ${req.path}`);
+  console.error(`  Method: ${req.method}`);
+  console.error(`  Origin: ${req.headers.origin}`);
+  console.error(`  Headers: ${JSON.stringify(req.headers)}`);
   next();
 });
 
-// More permissive CORS handling
+// Global CORS middleware
 app.use((req, res, next) => {
   // Log all requests
   console.error(`CORS Request: ${req.method} ${req.path} from ${req.headers.origin}`);
   
-  // Allow requests from any origin in development
+  // Set CORS headers for all responses
   const origin = req.headers.origin || '';
   res.header('Access-Control-Allow-Origin', origin);
-  
-  // Allow credentials
   res.header('Access-Control-Allow-Credentials', 'true');
-  
-  // Allow all requested headers
-  const requestedHeaders = req.headers['access-control-request-headers'];
-  if (requestedHeaders) {
-    res.header('Access-Control-Allow-Headers', requestedHeaders.toString());
-  } else {
-    res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, Accept, Origin, X-Requested-With');
-  }
-  
-  // Allow all methods
+  res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, Accept, Origin, X-Requested-With');
   res.header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
   
-  // Handle preflight
-  if (req.method === 'OPTIONS') {
-    console.error('Handling OPTIONS preflight request');
-    return res.status(204).end();
-  }
-  
+  // Continue to the next middleware
   next();
 });
+
+// Specific handling for OPTIONS requests to /api/search
+app.options('/api/search', (req, res) => {
+  console.error('Handling specific OPTIONS request for /api/search');
+  
+  // Set required CORS headers
+  const origin = req.headers.origin || '';
+  res.header('Access-Control-Allow-Origin', origin);
+  res.header('Access-Control-Allow-Methods', 'POST, OPTIONS');
+  res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, Accept');
+  res.header('Access-Control-Allow-Credentials', 'true');
+  res.header('Access-Control-Max-Age', '86400');
+  
+  // Respond with a 204 No Content
+  res.status(204).end();
+});
+
+// Handle all OPTIONS requests with 204 No Content
+app.options('*', (req, res) => {
+  console.error(`Handling OPTIONS request for ${req.path}`);
+  res.status(204).end();
+});
+
 // Body parser middleware
 app.use(express.json());
 
@@ -65,6 +71,12 @@ const documentProcessor = new DocumentProcessor();
 app.use((err: Error, req: Request, res: Response, next: any) => {
   console.error('Error:', err.message);
   res.status(500).json({ error: 'Internal server error', details: err.message });
+});
+
+// Simple test endpoint
+app.get('/api/test', (req, res) => {
+  console.error('Test endpoint called');
+  res.json({ message: 'CORS test successful' });
 });
 
 // Serve article files
@@ -121,10 +133,11 @@ const searchHandler: RequestHandler = async (req, res) => {
   }
 };
 
+// Define the search endpoint with explicit method support
 app.post('/api/search', searchHandler);
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
-  console.log(`Environment: ${process.env.NODE_ENV}`);
+  console.error(`Server running on port ${PORT}`);
+  console.error(`Environment: ${process.env.NODE_ENV}`);
 });
