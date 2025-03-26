@@ -1,6 +1,5 @@
 import express from 'express';
 import type { Request, Response, RequestHandler } from 'express';
-import cors from 'cors';
 import * as dotenv from 'dotenv';
 import { DocumentProcessor } from './src/utils/documentProcessor';
 import path from 'path';
@@ -10,22 +9,20 @@ dotenv.config();
 
 const app = express();
 
-// Configure CORS with specific options
-const corsOptions = {
-  origin: 'https://colorado-rental-assistant-ui.vercel.app',
-  methods: ['GET', 'POST', 'OPTIONS'],
-  allowedHeaders: ['Content-Type', 'Authorization', 'Accept', 'Origin'],
-  credentials: true,
-  preflightContinue: false,
-  optionsSuccessStatus: 204,
-  maxAge: 86400 // 24 hours
-};
+// CORS headers middleware
+app.use((req, res, next) => {
+  res.setHeader('Access-Control-Allow-Origin', 'https://colorado-rental-assistant-ui.vercel.app');
+  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization, Accept, Origin');
+  res.setHeader('Access-Control-Allow-Credentials', 'true');
+  res.setHeader('Access-Control-Max-Age', '86400');
+  next();
+});
 
-// Enable CORS for all routes
-app.use(cors(corsOptions));
-
-// Handle preflight requests explicitly
-app.options('*', cors(corsOptions));
+// Handle preflight requests
+app.options('*', (req, res) => {
+  res.status(204).end();
+});
 
 app.use(express.json());
 
@@ -90,9 +87,6 @@ const searchHandler: RequestHandler = async (req, res) => {
     res.status(500).json({ error: 'Internal server error' });
   }
 };
-
-// Handle OPTIONS request for /api/search specifically
-app.options('/api/search', cors(corsOptions));
 
 app.post('/api/search', searchHandler);
 
