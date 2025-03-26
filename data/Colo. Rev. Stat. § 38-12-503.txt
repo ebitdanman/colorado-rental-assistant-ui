@@ -1,0 +1,122 @@
+Colo. Rev. Stat. § 38-12-503
+
+Current through 11/5/2024 election
+Section 38-12-503 - Warranty of habitability - notice - landlord obligations
+(1) In every rental agreement, the landlord is deemed to warrant that the residential premises is fit for human habitation at the inception of the tenant's occupancy and that the landlord will maintain the residential premises as fit for human habitation throughout the entire period that the tenant lawfully occupies the residential premises or dwelling unit.
+(2) A landlord breaches the warranty of habitability set forth in subsection (1) of this section if:
+(a) A residential premises is:
+(I) Uninhabitable as described in section 38-12-505; or
+(II) In a condition that materially interferes with the tenant's life, health, or safety; and
+(b) The landlord has notice, as described in subsection (3)(e) of this section, of the condition described in subsection (2)(a) of this section and:
+(I) Has failed to commence remedial action in accordance with subsection (4) of this section within the following period after having notice:
+(A) Twenty-four hours, where the condition materially interferes with the tenant's life, health, or safety; or
+(B) Seventy-two hours, where the residential premises are uninhabitable as described in section 38-12-505 or otherwise;
+(II) Has commenced remedial action, in accordance with subsection (4) of this section, within the period described in subsection (2)(b)(I) of this section, but failed to continue performing the remedial action as needed until the condition was remedied or repaired;
+(III) Has failed to completely remedy or repair the condition within a reasonable time after commencing remedial action;
+(IV) Has failed to comply with subsection (8) of this section concerning a residential premises that has been damaged due to an environmental public health event; or
+(V) Leases a residential premises to a tenant and the residential premises is in an uninhabitable condition at the inception of the tenant's occupancy.
+(3)
+(a) There is a rebuttable presumption that a landlord has failed to commence remedial action, continue performing remedial action, or completely remedy or repair a condition that renders the residential premises uninhabitable within a reasonable time if the tenant establishes that the residential premises is uninhabitable, as described in subsection (2)(a) of this section, the tenant establishes that the landlord has notice of the uninhabitable condition, as described in subsection (3)(e) of this section, and:
+(I) The landlord has failed to communicate with the tenant after having notice of a condition within the time frame required under subsection (6) of this section; or
+(II) The condition continues to exist:
+(A) Fourteen calendar days after the landlord received notice of the condition, where the residential premises are uninhabitable as described in section 38-12-505 or otherwise; or
+(B) Seven calendar days after the landlord received notice of the condition, where the condition materially interferes with the tenant's life, health, or safety.
+(b)
+(I) A landlord may rebut the presumption described in subsection (3)(a) of this section by establishing, by a preponderance of the evidence, that:
+(A) The landlord commenced and continued performing remedial action but the condition could not be completely remedied or repaired due to circumstances outside the landlord's reasonable control;
+(B) Remedial action would require entry to the tenant's dwelling unit and the tenant unreasonably denied the landlord entry to the dwelling unit; or
+(C) The tenant engaged in conduct that unreasonably delayed or otherwise prevented the landlord from commencing remedial action within the time period described in subsection (2)(b)(I) of this section, from continuing to perform remedial action, or from completely remedying or repairing the condition within a reasonable time.
+(II) A tenant otherwise has the burden of proof to establish a breach of the warranty of habitability.
+(c) Notwithstanding the circumstances described in subsection (3)(b)(I) of this section, a landlord must reasonably continue to make efforts to commence or continue performing remedial action to remedy or repair a condition that renders the tenant's residential premises uninhabitable and for which the landlord has notice. These efforts to commence or continue performing remedial action shall include prompt correspondence and good faith cooperation with the tenant and may require prompt correspondence and good faith cooperation with maintenance staff, third-party contractors, a government official, or any other person whose involvement is necessary to remedy or repair the condition.
+(d) If a tenant denies entry to the dwelling unit and entry to the dwelling unit is necessary to commence or continue performing remedial action, the presumptive time periods described in subsection (3)(a)(II) of this section are tolled until the date that the tenant proposes as a reasonable alternative date and time for entry or another date and time that the landlord proposes and to which the tenant agrees in accordance with subsection (6)(b) of this section.
+(e) A landlord has notice of a condition described in subsection (2)(a) of this section if there is any writing that provides a basis for the landlord to substantially know that the condition exists or may exist, including:
+(I) Written notice from a governmental entity regarding the condition;
+(II) Written notice from a third party regarding the condition;
+(III) Written notice from a tenant concerning a condition that may affect multiple tenants;
+(IV) A tenant's written correspondence with maintenance staff or a maintenance service provided by the landlord, including a maintenance service provided by a third party;
+(V) Written observations or written reports that the landlord has obtained personally, directly, or indirectly; or
+(VI) Written notice from the tenant regarding the condition, which notice is sent in a manner that the landlord typically uses to communicate with the tenant.
+(f)
+(I) Any notice provided by a tenant is sufficient if the notice is provided to the landlord in a manner that is required or permitted by the rental agreement or by any property rules or regulations pertaining to the tenancy or residential premises.
+(II) A rental agreement or property rule or regulation pertaining to a tenancy or residential premises that states that a tenant may or must give notice of an uninhabitable condition to the landlord verbally waives the landlord's right to receive written notice under subsection (3)(e) of this section.
+(4)
+(a)
+(I) Upon having notice of a condition described in subsection (2)(a) of this section, a landlord shall commence remedial action within the time period described in subsection (2)(b) of this section unless the circumstances described in subsection (3)(b)(I) of this section prevented the landlord from commencing remedial action.
+(II) If the condition materially interferes with the tenant's life, health, or safety or is a condition described in section 38-12-505 (4)(l), remedial action must include a landlord providing the tenant, at the request of the tenant and within twenty-four hours after the tenant's request:
+(A) A comparable dwelling unit, as selected by the landlord, at no cost to the tenant; or
+(B) A hotel room, as selected by the landlord, at no cost to the tenant.
+(b)
+(I) A comparable dwelling unit or hotel room must include at least the same number of beds as there are beds used in a tenant's dwelling unit.
+(II) If a tenant requires a comparable dwelling unit or hotel room for more than forty-eight hours:
+(A) The comparable dwelling unit or hotel room must include a refrigerator with a freezer and a range stove or oven; or
+(B) The landlord must provide a per diem for daily meals and incidentals for each tenant in an amount that is at least equal to the Colorado state employee per diem for intrastate travel as established by the department of personnel. The landlord must provide the per diem to the tenant at the time the landlord reasonably expects the tenant to be in a comparable dwelling unit or hotel room for more than forty-eight hours and for every twenty-four-hour period thereafter.
+(III)
+(A) A comparable dwelling unit or hotel room must be habitable, accessible to an individual with disabilities if the tenant has a disability, and located within five miles of the tenant's dwelling unit, unless the tenant consents at the time of the request or after the request to a comparable dwelling unit or hotel room that is further than five miles from the tenant's dwelling unit.
+(B) The landlord may select a comparable dwelling unit or hotel room that is further than five miles but less than ten miles from the tenant's dwelling unit if the comparable dwelling unit or hotel room that is further away from the tenant's dwelling unit is substantially less expensive than other options that are available within five miles of the tenant's dwelling unit.
+(C) If a comparable dwelling unit or hotel room within five or ten miles of the tenant's dwelling unit is not available for the tenant's use in accordance with subsections (4)(b)(III)(A) and (4)(b)(III)(B) of this section, the landlord must select the nearest available comparable dwelling unit or hotel room.
+(IV) If a tenant is relocated pursuant to subsection (4)(a) of this section, a landlord is required to pay for only the following expenses that arise from relocating the tenant:
+(A) A per diem allowance pursuant to subsection (4)(b)(II)(B) of this section; and
+(B) Reasonable costs that are incurred due to the tenant's relocation, including storage and transportation costs.
+(V) A relocated tenant remains responsible for any portion of the rent payment owed under the rental agreement during the period of any temporary relocation and for the remainder of the term of the rental agreement following remediation.
+(c) If a tenant is provided a hotel room due to a condition described in subsection (4)(a)(II) of this section and the condition cannot be remedied or repaired within sixty consecutive days due to circumstances outside the landlord's reasonable control, the landlord is required to provide the hotel room to the tenant for only up to sixty consecutive days. The landlord is relieved of the landlord's obligation to provide hotel accommodations to the tenant if the landlord:
+(I) Determines that the condition at the residential premises cannot be remedied or repaired within sixty consecutive days due to circumstances outside the landlord's reasonable control;
+(II) Provides the tenant, at the earliest opportunity, written notice that specifies:
+(A) That the uninhabitable condition at the residential premises cannot be remedied or repaired to a condition that no longer materially interferes with a tenant's life, health, or safety within sixty consecutive days from the start of the tenant's hotel stay;
+(B) The date that the tenant's hotel accommodations will no longer be provided to the tenant at the landlord's expense, which date must be no earlier than sixty consecutive days after the start of the tenant's hotel stay at the landlord's expense; and
+(C) That the tenant may terminate their rental agreement with no liability or financial penalty to the tenant; and
+(III) Returns to the tenant the tenant's full security deposit on or before the date that the landlord provides the tenant notice in accordance with subsection (4)(c)(II) of this section.
+(5)
+(a) A landlord shall maintain accurate and complete records of all written notices and correspondence, as described in subsection (3)(e) of this section, and all documentation relevant to any uninhabitable condition or remedial action taken to remedy or repair a condition that renders a tenant's dwelling unit uninhabitable.
+(b) A landlord must maintain the records described in subsection (5)(a) of this section for the entire period of the tenant's occupancy of the dwelling unit and for at least three years thereafter.
+(c) A landlord shall provide to a tenant, upon request by the tenant, any record, notice, correspondence, or other documentation related to a condition or remedial action within ten calendar days after the tenant's request.
+(6)
+(a) A landlord that has notice of a condition described in subsection (2)(a) of this section shall:
+(I) Contact the tenant not more than twenty-four hours after receiving the notice; except that a landlord may take up to seventy-two hours to contact the tenant after the landlord has notice that the residential premises is inaccessible because of an environmental public health event. The communication must indicate the landlord's intentions to remedy or repair the condition, including an estimate of when the remedial action will commence and when it will be completed.
+(II) Inform the tenant of the landlord's responsibilities under subsection (4) of this section, including the landlord's obligation to provide the tenant a comparable dwelling unit or hotel room at no cost to the tenant; and
+(III) Provide the tenant with written notice at least twenty-four hours in advance of entry to the dwelling unit if entry to the dwelling unit is necessary to commence or maintain remedial action; except that the landlord is not required to provide advance notice when the condition materially and imminently threatens an individual's life, health, or safety or when the condition poses an active and ongoing threat of causing, and, without immediate remediation, would cause, substantial and material damage to the residential premises.
+(b)
+(I) A landlord shall provide the date and time the landlord intends to enter a tenant's dwelling unit and a reasonable estimate of the duration the landlord, or any other party acting on behalf of the landlord, will need to be in the tenant's dwelling unit.
+(II) Except as provided in subsection (6)(a)(III) of this section, a tenant may reasonably deny entry to the dwelling unit at the date and time the landlord requests entry. The landlord must then propose and the tenant may accept or propose a reasonable alternative date and time for the landlord to enter the tenant's dwelling unit.
+(III) A tenant may permit the landlord to enter the dwelling unit with less than twenty-four hours advance notice.
+(7) A landlord that has notice of a condition, as described in subsection (2)(a) of this section, at the tenant's dwelling unit or the residential premises is responsible for remedying and repairing the dwelling unit or residential premises to a habitable standard at the landlord's expense, except as described in subsection (9) of this section.
+(8)
+(a) A landlord that has notice of a condition, as described in subsection (2)(a) of this section, at a residential premises that has been damaged due to an environmental public health event shall comply with the standards described in section 38-12-505 (1)(b)(XIII) within a reasonable amount of time given the condition of the premises and at the landlord's expense.
+(b) Once a governmental entity, government official, law enforcement officer, or public safety officer deems a tenant's dwelling unit safe for reentry after an environmental public health event, the landlord must grant the tenant or tenant's representative access to the dwelling unit for the purposes of retrieving the tenant's personal property, even if the residential premises that includes the tenant's dwelling unit is considered uninhabitable under this section.
+(c) A landlord that has remedied or repaired a residential premises to a habitable standard following an environmental public health event shall provide the tenant with documentation that demonstrates compliance with the standards described in section 38-12-505 (1)(b)(XIII).
+(d) A landlord's submission of an insurance claim for an uninhabitable or a contaminated residential premises after the landlord has notice of a condition that renders the residential premises uninhabitable after an environmental public health event is not considered evidence of remediation.
+(9) When a condition described in subsection (2)(a) of this section is substantially caused by the misconduct of the tenant, a member of the tenant's household, a guest or an invitee of the tenant, or a person under the tenant's direction or control, the condition does not constitute a basis for a breach of the warranty of habitability under subsection (2) of this section. It is not misconduct under this subsection (9) by a victim of domestic violence; domestic abuse; unlawful sexual behavior, as described in section 16-22-102 (9); or stalking if the condition is the result of domestic violence; domestic abuse; unlawful sexual behavior, as described in section 16-22-102 (9); or stalking and the landlord has notice at any time of the domestic violence; domestic abuse; unlawful sexual behavior, as described in section 16-22-102 (9); or stalking, as described in section 38-12-402 (2)(a).
+(10) Except as set forth in this part 5, any agreement waiving or modifying any right, remedy, obligation, or prohibition provided in this part 5 is void as contrary to public policy.
+(11) A landlord may terminate a rental agreement, if permitted by the rental agreement and without further liability to the landlord or tenant, if the residential premises is damaged as a result of a sudden environmental public health event or an action taken by a governmental authority that renders continued occupancy of the residential premises impossible or unlawful and:
+(a) The landlord was not already in breach of the warranty of habitability prior to the sudden environmental public health event or government action;
+(b) It would be impracticable for the landlord to remedy or repair the residential premises into compliance with the warranty of habitability due to the sudden environmental public health event or government action;
+(c) The landlord gives a minimum of thirty days' written notice to the tenant concerning the termination of the rental agreement due to the sudden environmental public health event or government action and complies with all landlord obligations under this part 5 through the date of termination;
+(d) The landlord grants the tenant or tenant's representative access to the tenant's dwelling unit for the purpose of retrieving the tenant's personal property prior to the termination of the rental agreement; except that, if it is unsafe to enter the dwelling unit prior to termination of the rental agreement, the landlord shall agree in a signed writing to grant the tenant or tenant's representative access to the dwelling unit to retrieve personal property at the earliest possible time that it is safe to do so;
+(e) Notwithstanding section 38-12-103, the landlord returns the tenant's security deposit prior to or on the date of the termination of the rental agreement; and
+(f) The landlord provides a prorated discount or refund for any portion of rent paid during the time that the dwelling unit is uninhabitable and for which a comparable dwelling unit or hotel room was not provided to the tenant.
+(12)
+(a) Unless the circumstances described in subsection (3)(b)(I) of this section prevented a landlord from commencing remedial action, the landlord shall commence remedial action within the period described in subsection (2)(b) of this section upon having notice of:
+(I) Mold associated with dampness in a dwelling unit; or
+(II) Any other condition causing the residential premises to be damp, which condition, if unremedied or unrepaired, could create mold or would materially interfere with the life, health, or safety of a tenant.
+(b) The remedial action required pursuant to subsection (12)(a) of this section must include performing all of the following applicable tasks within a reasonable amount of time:
+(I) Mitigating immediate risk from mold by installing a containment, stopping active sources of water contributing to the mold, installing a high-efficiency particulate air filtration device to reduce a tenant's exposure to mold, and performing all of these tasks within seventy-two hours after receiving notice of the condition;
+(II) Maintaining the containment described in subsection (12)(b)(I) of this section throughout the remediation and repair process;
+(III) Establishing any additional protections for workers and occupants that may be appropriate given the condition;
+(IV) Eliminating or limiting moisture sources and drying all materials impacted by the mold or dampness;
+(V) Decontaminating or removing materials damaged by mold or dampness;
+(VI) Evaluating whether the residential premises has been successfully remediated, including post-remediation testing for the existence of mold; and
+(VII) Reassembling the residential premises to control sources of moisture to prevent or limit the recurrence of mold or dampness.
+(c) If the condition described in subsection (12)(a) of this section would interfere with the tenant's life, health, or safety, the landlord must provide, at the request of the tenant, a comparable dwelling unit or hotel room in accordance with subsection (4) of this section.
+(13)
+(a) A landlord shall not require a tenant to submit an insurance claim with the tenant's rental insurance carrier to cover a cost or expense related to remedial action that the landlord is responsible for paying under this part 5.
+(b) A landlord is prohibited from filing a claim with a tenant's rental insurance carrier to cover a cost or expense related to remedial action that the landlord is responsible for paying under this part 5 without express written permission from the tenant provided at the time the claim is submitted.
+(14) A landlord shall hire a professional, as defined in section 38-12-104 (3), to remedy or repair a hazardous condition related to gas piping, gas facilities, gas appliances, or other gas equipment at a residential premises.
+C.R.S. § 38-12-503
+Amended by 2024 Ch. 158,§ 3, eff. 5/3/2024, app. to actions related to violations of part 5 of article 12 of title 38 that are filed on or after the effective date.
+Amended by 2023 Ch. 356,§ 4, eff. 8/7/2023.
+Amended by 2023 Ch. 169,§ 3, eff. 5/12/2023.
+Amended by 2019 Ch. 229, § 3, eff. 8/2/2019.
+Amended by 2017 Ch. 276, § 2, eff. 6/1/2017.
+L. 2008: Entire part added, p. 1821, § 3, effective September 1. L. 2017: (3) amended, (HB 17-1035), ch. 1515, p. 1515, § 2, effective June 1. L. 2019: (2), (3), and (4) amended and (2.2), (2.3), and (2.5) added, (HB 19-1170), ch. 2306, p. 2306, § 3, effective August 2.
+Section 15 of chapter 158 (SB 24-094), Session Laws of Colorado 2024, provides that the act changing this section applies to actions related to violations of this part 5 that are filed on or after May 3, 2024.
+2023 Ch. 356, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+For the legislative declaration in SB 23-206, see section 1 of chapter 356, Session Laws of Colorado 2023. For the legislative declaration in HB 23-1254, see section 1 of chapter 169, Session Laws of Colorado 2023.

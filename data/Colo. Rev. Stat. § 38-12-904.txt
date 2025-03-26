@@ -1,0 +1,51 @@
+Colo. Rev. Stat. § 38-12-904
+
+Current through 11/5/2024 election
+Section 38-12-904 - Consideration of rental applications - limitations - portable tenant screening report - notice to prospective tenants - denial notice
+(1)
+(a) If a landlord uses rental history or credit history as criteria in consideration of an application, the landlord shall not consider any rental history or credit history beyond seven years immediately preceding the date of the application, and the landlord must comply with subsections (1)(c) and (1)(d) of this section.
+(b) If a landlord uses criminal history as a criterion in consideration of an application, the landlord shall not consider an arrest record of a prospective tenant from any time or any conviction of a prospective tenant that occurred more than five years before the date of the application; except that a landlord may consider any criminal conviction record or deferred judgment relating to:
+(I) The unlawful distribution, manufacturing, dispensing, or sale of a material, compound, mixture, or preparation that contains methamphetamine, as described in section 18-18-405;
+(II) The unlawful possession of materials to make methamphetamine and amphetamine, as described in section 18-18-412.5;
+(III) Any offense that required the prospective tenant to register as a sex offender pursuant to section 16-22-103; or
+(IV) Any offense described in part 1 or part 6 of article 3 of title 18.
+(c) If a landlord uses financial information, including rental history or credit history, as a criterion in consideration of a rental application from a prospective tenant who is seeking to rent with the assistance of a housing subsidy, the landlord shall not consider or inquire about the prospective tenant's:
+(I) Amount of income, except for the purpose of determining that the prospective tenant's annual amount of income equals or exceeds two hundred percent of the portion of the annual cost of rent that is to be paid by the prospective tenant; or
+(II) Credit score, adverse credit event, or lack of credit score unless the landlord is required by federal law to consider a credit score or a lack of a credit score.
+(d) If a landlord uses financial information, including rental history or credit history, as a criterion in consideration of a rental application from any prospective tenant who is seeking to rent without the assistance of a housing subsidy, the landlord shall not consider or inquire about the prospective tenant's amount of income, except for the purpose of determining that the prospective tenant's annual amount of income equals or exceeds two hundred percent of the annual cost of rent. A landlord shall not require a prospective tenant to have an annual amount of income that exceeds two hundred percent of the annual cost of rent.
+(e) Notwithstanding subsections (1)(c) and (1)(d) of this section, nothing in said subsections precludes a landlord who is receiving funding from a governmental entity, quasi-governmental entity, or nonprofit organization that requires landlords to income-qualify tenants for income-restricted rental units from gathering any financial information about a prospective tenant for the purpose of determining the prospective tenant's eligibility for an income-restricted rental unit if the funding source requires the landlord to collect such information as a condition for the receipt of funding.
+(1.5)
+(a) Except as provided in subsection (1.5)(f) of this section, a landlord shall accept a portable tenant screening report from a prospective tenant.
+(b) A landlord receiving a portable tenant screening report may require:
+(I) That the screening report was completed within the previous thirty days;
+(II) That the screening report is made directly available to the landlord by the consumer reporting agency for use in the rental application process or provided through a third-party website that regularly engages in the business of providing consumer reports and complies with all state and federal laws pertaining to use and disclosure of information contained in a consumer report by a consumer reporting agency;
+(III) That the screening report is made available to the landlord at no cost to access or use in the rental application process; and
+(IV) A statement from the prospective tenant that there has not been a material change in the information in the screening report, including the prospective tenant's name, address, bankruptcy status, criminal history, or eviction history, since the report was generated.
+(c) A landlord shall not charge a prospective tenant a fee to access or use the screening report.
+(d) Prior to taking any action relating to tenant screening for which a landlord would expect to collect an application fee, a landlord shall advise a prospective tenant of the following, using substantially similar language:
+1. The prospective tenant has the right to provide to the landlord a portable tenant screening report, as defined in section 38-12-902 (2.5), Colorado Revised Statutes; and
+2. If the prospective tenant provides the landlord with a portable tenant screening report, the landlord is prohibited from: Charging the prospective tenant a rental application fee; or Charging the prospective tenant a fee for the landlord to access or use the portable tenant screening report.
+(e) A landlord shall provide the advisement required in subsection (1.5)(d) of this section in a location and using a method reasonably likely to reach prospective tenants, including:
+(I) In advertisements and other public notices of the dwelling unit's availability, displayed in at least twelve-point, bold-faced type unless the size, format, or display requirements of the advertisement or other public notice make this requirement impracticable, in which case the font and size of the advisement must match the rest of the advertisement or other public notice;
+(II) On the home page of a website maintained by the landlord or the landlord's agent, including a property management company, displayed in at least twelve-point, bold-faced type;
+(III) In a paper or an online rental application for the dwelling unit, displayed in at least twelve-point, bold-faced type; or
+(IV) Orally, directly to a prospective tenant, with a written confirmation of receipt by the prospective tenant of the advisement.
+(f) A landlord is exempt from the requirements set forth in subsections (1.5)(a) to (1.5)(e) of this section if the landlord:
+(I) Does not accept more than one application fee at a time for a dwelling unit or, if a dwelling unit is rented to more than one occupant, does not accept more than one application fee at a time from each prospective tenant or tenant group for the dwelling unit; and
+(II) Refunds the total amount of the application fee to each prospective tenant within twenty calendar days after written communication from either the landlord or landlord's agent or the prospective tenant declining to enter into a lease agreement for the dwelling unit.
+(1.8) A violation of subsection (1)(c) or (1)(d) of this section constitutes unlawful discrimination against an individual on the basis of the individual's amount of income in violation of section 24-34-502 (1)(q), for which violation enforcement, penalties, and other relief is provided pursuant to parts 3 and 5 of article 34 of title 24 in addition to any relief provided under this part 9.
+(2)
+(a)
+(I)
+(A) If a landlord denies a rental application, the landlord shall provide to the prospective tenant a written notice of the denial that states the reasons for the denial.
+(B) If the prospective tenant submits an application that results in a landlord obtaining a consumer report relating to the prospective tenant, the landlord shall also provide a copy of the consumer report relating to the prospective tenant and an advisement of the prospective tenant's right to dispute the accuracy of the consumer report with the consumer reporting agency pursuant to section 5-18-106.
+(II) If the specific screening criteria cannot be directly cited because of the use of a proprietary screening system, the landlord shall instead provide the prospective tenant a copy of the report from the screening company that uses the proprietary screening system, with only the proprietary information redacted.
+(III) A landlord may provide a prospective tenant an electronic version of the denial notice required in this subsection (2) unless the prospective tenant requests a paper denial notice, in which case the landlord shall provide the prospective tenant a paper denial notice.
+(b) A landlord who is required to provide a notice of denial to a prospective tenant as described in subsection (2)(a) of this section shall make a good-faith effort to do so not more than twenty calendar days after making the decision to deny the prospective tenant's rental application.
+C.R.S. § 38-12-904
+Amended by 2023 Ch. 402,§ 1, eff. 8/7/2023.
+Amended by 2023 Ch. 151,§ 3, eff. 8/7/2023.
+Added by 2019 Ch. 129, § 1, eff. 8/2/2019.
+L. 2019: Entire part added, (HB 19-1106), ch. 583, p. 583, § 1, effective August 2.
+2023 Ch. 402, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+2023 Ch. 151, was passed without a safety clause. See Colo. Const. art. V, § 1(3).

@@ -1,0 +1,42 @@
+Colo. Rev. Stat. § 38-12-601
+
+Current through 11/5/2024 election
+Section 38-12-601 - Unreasonable restrictions on electric vehicle charging systems and electric vehicle parking - definitions
+(1) Notwithstanding any provision in the lease to the contrary, and subject to subsection (2) of this section:
+(a) A tenant may install, at the tenant's expense for the tenant's own use, a level 1 or level 2 electric vehicle charging system on or in:
+(I) The leased premises;
+(II) An assigned or deeded parking space that is part of or assigned to the leased premises; or
+(III) A parking space that is accessible to both the tenant and other tenants;
+(b) A landlord shall not assess or charge a tenant any fee for the placement or use of an electric vehicle charging system; except that:
+(I) The landlord may require reimbursement for the actual cost of electricity provided by the landlord that was used by the charging system or, alternatively, may charge a reasonable fee for access. If the charging system is part of a network for which a network fee is charged, the landlord's reimbursement may include the amount of the network fee. Nothing in this section requires a landlord to impose upon a tenant any fee or charge other than the rental payments specified in the lease.
+(II) The landlord may require reimbursement for the cost of the installation of the charging system, including any additions or upgrades to existing wiring directly attributable to the requirements of the charging system, if the landlord places or causes the electric vehicle charging system to be placed at the request of the tenant; and
+(III) If the tenant desires to place an electric vehicle charging system in an area accessible to other tenants, the landlord may assess or charge the tenant a reasonable fee to reserve a specific parking spot in which to install the charging system.
+(c) A landlord shall not restrict parking based on a vehicle being a plug-in hybrid vehicle or plug-in electric vehicle.
+(2) A landlord may require a tenant to comply with:
+(a) Bona fide safety requirements, consistent with an applicable building code or recognized safety standard, for the protection of persons and property;
+(b) A requirement that the charging system be registered with the landlord within thirty days after installation; or
+(c) Reasonable aesthetic provisions that govern the dimensions, placement, or external appearance of an electric vehicle charging system.
+(3) A tenant may place an electric vehicle charging system in an area accessible to other tenants if:
+(a) The charging system is in compliance with all applicable requirements adopted pursuant to subsection (2) of this section; and
+(b) The tenant agrees in writing to:
+(I) Comply with the landlord's design specifications for the installation of the charging system;
+(II) Engage the services of a duly licensed and registered electrical contractor familiar with the installation and code requirements of an electric vehicle charging system; and
+(III)
+(A) Provide, within fourteen days after receiving the landlord's consent for the installation, a certificate of insurance naming the landlord as an additional insured on the tenant's renters' insurance policy for any claim related to the installation, maintenance, or use of the system or, at the landlord's option, reimbursement to the landlord for the actual cost of any increased insurance premium amount attributable to the system, notwithstanding any provision to the contrary in the lease.
+(B) A certificate of insurance under sub-subparagraph (A) of this subparagraph (III) must be provided within fourteen days after the tenant receives the landlord's consent for the installation. Reimbursement for an increased insurance premium amount under sub-subparagraph (A) of this subparagraph (III) must be provided within fourteen days after the tenant receives the landlord's invoice for the amount attributable to the system.
+(4) If the landlord consents to a tenant's installation of an electric vehicle charging system on property accessible to other tenants, including a parking space, carport, or garage stall, then, unless otherwise specified in a written agreement with the landlord:
+(a) The tenant, and each successive tenant with exclusive rights to the area where the charging system is installed, is responsible for any costs for damages to the charging system and to any other property of the landlord or of another tenant that arise or result from the installation, maintenance, repair, removal, or replacement of the charging system;
+(b) Each successive tenant with exclusive rights to the area where the charging system is installed shall assume responsibility for the repair, maintenance, removal, and replacement of the charging system until the system has been removed;
+(c) The tenant and each successive tenant with exclusive rights to the area where the system is installed shall at all times have and maintain an insurance policy covering the obligations of the tenant under this subsection (4) and shall name the landlord as an additional insured under the policy; and
+(d) The tenant and each successive tenant with exclusive rights to the area where the system is installed is responsible for removing the system if reasonably necessary or convenient for the repair, maintenance, or replacement of any property of the landlord, whether or not leased to another tenant.
+(5) A charging system installed at the tenant's cost is property of the tenant. Upon termination of the lease, if the charging system is removable, the tenant may either remove it or sell it to the landlord or another tenant for an agreed price. Nothing in this subsection (5) requires the landlord or another tenant to purchase the charging system.
+(6) As used in this section:
+(a) "Electric vehicle charging system" or "charging system" means a device that is used to provide electricity to a plug-in electric vehicle or plug-in hybrid vehicle, is designed to ensure that a safe connection has been made between the electric grid and the vehicle, and is able to communicate with the vehicle's control system so that electricity flows at an appropriate voltage and current level. An electric vehicle charging system may be wall-mounted or pedestal style and may provide multiple cords to connect with electric vehicles. An electric vehicle charging system must be certified by underwriters laboratories or an equivalent certification and must comply with the current version of article 625 of the national electrical code.
+(b) "Level 1" means a charging system that provides charging through a one-hundred-twenty volt AC plug with a cord connector that meets the SAE international J1772 standard or a successor standard.
+(c) "Level 2" means a charging system that provides charging through a two-hundred-eight to two-hundred-forty volt AC plug with a cord connector that meets the SAE international J1772 standard or a successor standard.
+(7) This section applies to residential rental properties and commercial rental properties.
+C.R.S. § 38-12-601
+Amended by 2023 Ch. 245,§ 3, eff. 5/23/2023.
+Added by 2013 Ch. 165, § 1, eff. 5/3/2013.
+L. 2013: Entire part added, (SB 13-126), ch. 165, p. 532, § 1, effective May 3.
+For the legislative declaration in HB 23-1233, see section 1 of chapter 245, Session Laws of Colorado 2023.

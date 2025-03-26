@@ -1,0 +1,932 @@
+Colo. Rev. Stat. § 38-12-200.1
+
+Current through 11/5/2024 election
+Section 38-12-200.1 - Short title
+This part 2 shall be known and may be cited as the "Mobile Home Park Act".
+C.R.S. § 38-12-200.1
+L. 85: Entire section added, p. 1198, § 1, effective June 6.
+
+Colo. Rev. Stat. § 38-12-200.2
+Current through 11/5/2024 election
+Section 38-12-200.2 - Legislative declaration
+The general assembly hereby declares that the purpose of this part 2 is to establish the relationship between the owner of a mobile home park, the owner of a mobile home situated in such park, and residents in the park.
+
+C.R.S. § 38-12-200.2
+
+Amended by 2022 Ch. 255,§2, eff. 10/1/2022.
+L. 85: Entire section added, p. 1198, § 1, effective June 6.
+2022 Ch. 255, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+
+Colo. Rev. Stat. § 38-12-201
+Current through 11/5/2024 election
+Section 38-12-201 - Application of part 2
+(1) This part 2 applies only to manufactured homes as defined in section 42-1-102 (48.8).
+(2) Repealed.
+C.R.S. § 38-12-201
+
+Amended by 2022 Ch. 421, § 84, eff. 8/10/2022.
+L. 73: p. 641, § 1. C.R.S. 1963: § 58-2-1. L. 75: (1) amended, p. 1467, § 10, effective July 18. L. 81: (1) amended and (2) repealed, pp. 1813, 1817, §§ 1, 10, effective June 9. L. 89: (1) amended, p. 729, § 34, effective July 1. L. 94: (1) amended, p. 706, § 13, effective April 19. L. 95: (1) amended, p. 951, § 2, effective May 25.
+2022 Ch. 421, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+
+Colo. Rev. Stat. § 38-12-201.3
+Current through 11/5/2024 election
+Section 38-12-201.3 - Legislative declaration - increased availability of mobile home parks
+The general assembly hereby finds and declares that mobile homes, manufactured housing, and factory-built housing are important and effective ways to meet Colorado's affordable housing needs. The general assembly further finds and declares that, because of the unique aspects of mobile homes and mobile home park ownership, there is a need to protect mobile home owners from eviction with short notice so as to prevent mobile home owners from losing their shelter as well as any equity in their mobile homes. The general assembly encourages local governments to allow and protect mobile home parks in their jurisdictions and to enact plans to increase the number of mobile home parks in their jurisdictions. The general assembly further encourages local governments to provide incentives to mobile home park owners to attract additional mobile home parks and to increase the viability of current parks.
+
+C.R.S. § 38-12-201.3
+
+L. 2005: Entire section added, p. 110, § 4, effective August 8. L. 2010: Entire section amended, (SB 10-156), ch. 343, p. 1584, §1, effective July 1.
+
+Colo. Rev. Stat. § 38-12-201.5
+Current through 11/5/2024 election
+Section 38-12-201.5 - Definitions
+As used in this part 2 and in parts 11 and 14 of this article 12, unless the context otherwise requires:
+
+(1) "Division" means the division of housing in the department of local affairs.
+(1.5) "Entry fee" means any fee paid to or received from an owner of a mobile home park or an agent thereof except for:
+(a) Rent;
+(b) A security deposit to pay for actual damages to the premises or to secure rental payments;
+(c) Fees charged by any governmental agency of the state, a county, a town, or a city;
+(d) Utilities;
+(e) Incidental reasonable charges for services actually performed by the mobile home park owner or the mobile home park owner's agent and agreed to in writing by the home owner;
+(f) Late fees; and
+(g) Membership fees paid to join a resident or home owner cooperative that owns the mobile home park or other parks qualifying as common interest communities pursuant to the "Colorado Common Interest Ownership Act", article 33.3 of this title 38.
+(2) "Home owner" means any person or family of a person who owns a mobile home that is subject to a tenancy in a mobile home park under a rental agreement. "Home owner" includes a resident who is under a rent-to-own contract pursuant to part 14 of this article 12 that has not been terminated.
+(2.5) "Late fee" has the meaning set forth in section 38-12-102 (3).
+(3) "Management" or "landlord" means the owner of a mobile home park or person responsible for operating and managing a mobile home park or an agent, employee, or representative authorized to act on the management's behalf in connection with matters relating to tenancy in the park.
+(4) "Management visit" means an entry by management on a mobile home lot.
+(5) "Mobile home" means:
+(a) A single-family dwelling that is built on a permanent chassis; is designed for long-term residential occupancy; contains complete electrical, plumbing, and sanitary facilities; is designed to be installed in a permanent or semipermanent manner with or without a permanent foundation; and is capable of being drawn over public highways as a unit or in sections by special permit;
+(b) A manufactured home, as defined in section 38-29-102 (6), if the manufactured home is situated in a mobile home park; or
+(c) A tiny home, as defined in section 24-32-3302 (35), that is used as a long-term residence in the mobile home park.
+(6) "Mobile home park" or "park" means a parcel of land used for the accommodation of five or more mobile homes for which the management or landlord has a rental agreement with a tenant for a mobile home or lot or is receiving rent payments for a mobile home or lot from a tenant or a third party. "Mobile home park" does not include mobile home subdivisions or property zoned for manufactured home subdivisions. For purposes of this definition, the parcel of land comprising the mobile home park does not need to be contiguous, but must be in the same neighborhood as determined by the division.
+(6.5) "Mobile home space", "space", "mobile home lot", or "lot" means a parcel of land within a mobile home park designated by the management to accommodate one mobile home and its accessory buildings and to which the required sewer and utility connections are provided by the park.
+(7) "Mobile home subdivision" or "manufactured home subdivision" means any parcel of land that is divided into two or more parcels, separate interests, or interests in common, where each parcel or interest is owned by an individual or entity who owns both a mobile home and the land underneath the mobile home; except that a parcel is not a "mobile home subdivision" or "manufactured home subdivision" when the same owner owns a parcel or subdivided parcels or interests that are collectively used for the continuous accommodation of five or more occupied mobile homes and operated for the pecuniary benefit of the landowner or their agents, lessees, or assignees.
+(8) "Premises" means a mobile home park and existing facilities and appurtenances of the park, including furniture and utilities where applicable, and grounds, areas, and existing facilities held out for the use of home owners generally or the use of which is promised to home owners.
+(9) "Rent" means any money or other consideration to be paid to the management for the right of use, possession, and occupation of the premises.
+(10) "Rental agreement" means an agreement, written or implied by law, between the management and a home owner establishing the terms and conditions of a tenancy, including reasonable rules and regulations promulgated by the park management. A lease is a rental agreement.
+(11) "Resident" means an individual who resides in a mobile home that is located in a mobile home park, regardless of whether the individual is the home owner.
+(12) "Retaliatory action" includes:
+(a) Increasing rent or decreasing services in a selective or excessive manner, or in a nonuniform manner to the extent that the nonuniform increase or decrease is unrelated to a legitimate business purpose;
+(b) Issuing mandatory fees in a selective or excessive manner, or in a nonuniform manner to the extent that the nonuniform issuance of the fees is unrelated to a legitimate business purpose;
+(c) Issuing warnings, citations, or fines that are not lawful;
+(d) Serving notices or threatening eviction when the notices or threats are not reasonably justified;
+(e) Billing a home owner in a selective or excessive manner, or in a nonuniform manner to the extent that the nonuniform billing is unrelated to a legitimate business purpose, for an item or service for which the home owner has not previously been billed;
+(f) Creating or modifying rules and regulations of the park that are not reasonably related to a legitimate purpose;
+(g) Selectively enforcing rules or requirements of the park;
+(h) Conducting management visits that are selective, nonuniform, or excessive; except that this subsection (12)(h) does not include management visits that are conducted for the purpose of providing notices that are required by law or by a rental agreement;
+(i) Altering or refusing to renew an existing rental agreement;
+(j) Surveilling a home owner who submits an oral or written complaint about a mobile home park to the management or to any federal, state, or local government agency; except that this subsection (12)(j) does not include routine, nonexcessive community inspections or documenting, photographing, or recording of violations of law, the rental agreement, or the rules and regulations of the park; or
+(k) Reporting or publicizing damaging information about a home owner who submits an oral or written complaint about a mobile home park to the management or to any federal, state, or local government agency.
+(13) "Tenancy" means the right of a home owner to:
+(a) Locate, maintain, and occupy a mobile home, including accessory structures for human habitation, on a space within a park;
+(b) Make improvements to the space; and
+(c) Use the services and facilities of the park.
+C.R.S. § 38-12-201.5
+
+Amended by 2024 Ch. 399,§ 1, eff. 6/4/2024.
+Amended by 2023 Ch. 303,§ 84, eff. 8/7/2023.
+Amended by 2023 Ch. 376,§ 6, eff. 6/5/2023.
+Amended by 2022 Ch. 255, § 3, eff. 10/1/2022.
+Amended by 2022 Ch. 172, § 33, eff. 8/10/2022.
+Amended by 2021 Ch. 349, § 9, eff. 10/1/2021.
+Amended by 2021 Ch. 423, § 36, eff. 7/2/2021.
+Amended by 2020 Ch. 195, § 1, eff. 6/30/2020.
+Amended by 2019 Ch. 281, § 5, eff. 5/23/2019.
+L. 81: Entire section added, p. 1813, § 2, effective June 9. L. 87: (1) R&RE, (1.5) added, (5), (7), and (9) amended, and (8) repealed, pp. 1310, 1315, §§ 2, 1, 15, effective May 8. L. 2010: (2) amended, (SB 10-156), ch. 1584, p. 1584, § 2, effective July 1. L. 2019: IP amended, (HB 19-1309), ch. 2629, p. 2629, § 5, effective May 23. L. 2020: Entire section R&RE, (HB 20-1196), ch. 910, p. 910, § 1, effective June 30. L. 2021: (1)(e) amended, (SB 21-266), ch. 2805, p. 2805, § 36, effective July 2; IP, (1)(d), and (1)(e) amended and (1)(f) and (2.5) added, (SB 21-173), ch. 2267, p. 2267, § 9, effective October 1.
+Amendments to subsection (1)(e) by SB 21-173 and SB 21-266 were harmonized.
+
+2023 Ch. 303, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+2022 Ch. 255, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+2022 Ch. 172, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+For the legislative declaration in HB 19-1309, see section 1 of chapter 281, Session Laws of Colorado 2019.
+
+Colo. Rev. Stat. § 38-12-202
+Current through 11/5/2024 election
+Section 38-12-202 - Tenancy - notice to terminate tenancy
+(1)
+(a) Tenancy or other lease or rental occupancy of space in a mobile home park may not commence without a written lease or rental agreement, and tenancy in a mobile home park shall not be terminated until a notice to terminate tenancy or notice of nonpayment of rent has been served. A notice to terminate tenancy must be in writing and include a description of the property. The property description is legally sufficient if it states:
+(I) The name of the landlord or the mobile home park;
+(II) The mailing address of the property;
+(III) The location or space number upon which the mobile home is situate; and
+(IV) The county in which the mobile home is situate.
+(b) Service of the notice to terminate tenancy must be as specified in section 13-40-108. Service by posting is deemed legally sufficient within the meaning of section 13-40-108 if the notice is affixed to the main entrance of the mobile home.
+(c)
+(I) Except as otherwise provided in section 38-12-204 (1) or subsections (1)(c)(II) and (3) of this section, the management shall give a home owner at least ninety days after the date the notice is served or posted to sell the mobile home or remove it from the premises.
+(II) If management terminates a tenancy on grounds described in section 38-12-203 (1)(f), the management shall give the home owner at least ten days after the date the notice is served or posted to sell the mobile home or remove it from the premises.
+(2) Repealed.
+(3) In any notice provided by the management as required by this section, the management shall specify the reason for the termination, as described in section 38-12-203, of the tenancy that is the subject of the notice. If the management is terminating the tenancy because the mobile home or mobile home lot is out of compliance with local ordinances or state laws or rules relating to mobile homes and mobile home lots, as described in section 38-12-203 (1)(a), or out of compliance with written rules and regulations of the mobile home park, as described in section 38-12-203 (1)(c), the notice must include a statement advising the home owner that the home owner has a right to cure the noncompliance within ninety days after the date of service or posting of the notice to terminate tenancy. This ninety-day period runs concurrently with the ninety-day period to sell the mobile home or remove it from the premises as set forth in subsection (1)(c)(I) of this section. Rent payment and other agreed tenant obligations remain in effect during this ninety-day period, and acceptance of rent by a landlord during this ninety-day period does not constitute a waiver of the landlord's right to terminate the tenancy for any noncompliance described in section 38-12-203 (1)(a) or (1)(c).
+(4) Notwithstanding any other provision of this section, in any action to terminate a home owner's tenancy based on a violation described in section 38-12-203 (1)(a), the periods of time set forth in this section to provide home owners notice or a right to cure are superseded by any local ordinances, state laws or rules, or court orders that require a home owner's compliance within a shorter time period.
+
+C.R.S. § 38-12-202
+
+Amended by 2024 Ch. 113,§ 9, eff. 4/19/2024.
+Amended by 2022 Ch. 255, § 4, eff. 10/1/2022.
+Amended by 2020 Ch. 195, § 2, eff. 6/30/2020.
+L. 73: p. 641, § 1. C.R.S. 1963: § 58-2-2. L. 79: (1) amended, p. 1384, § 1, effective July 1. L. 81: IP(1)(a) R&RE, p. 1814, § 3, effective June 9. L. 87: (1)(c) and (1)(d) amended, p. 1311, § 3, effective May 8. L. 94: (1)(c) amended, p. 703, § 1, effective April 19. L. 96: (2) amended, p. 670, § 2, effective July 1. L. 99: (3) added, p. 65, § 1, effective August 4. L. 2000: (3) repealed, p. 148, § 2, effective July 1. L. 2010: Entire section amended, (SB 10-156), ch. 1585, p. 1585, § 3, effective July 1. L. 2020: (1)(c) and (3) amended, (2) repealed, and (4) added, (HB 20-1196), ch. 913, p. 913, § 2, effective June 30.
+2022 Ch. 255, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+(1) For the form specified for notice to terminate a tenancy, see § 13-40-107 (2). (2) For the legislative declaration in HB 24-1098, see section 1 of chapter 113, Session Laws of Colorado 2024.
+
+Colo. Rev. Stat. § 38-12-202.5
+Current through 11/5/2024 election
+Section 38-12-202.5 - Action for termination
+(1) The action for termination shall be commenced in the manner described in section 13-40-110, C.R.S. The property description shall be deemed legally sufficient and within the meaning of section 13-40-110, C.R.S., if it states:
+(a) The name of the landlord or the mobile home park;
+(b) The mailing address of the property;
+(c) The location or space number upon which the mobile home is situate; and
+(d) The county in which the mobile home is situate.
+(2) Service of summons shall be as specified in section 13-40-112, C.R.S. Service by posting shall be deemed legally sufficient within the meaning of section 13-40-112, C.R.S., if the summons is affixed to the main entrance of the mobile home.
+(3) Jurisdiction of courts in cases of forcible entry, forcible detainer, or unlawful detainer shall be as specified in section 13-40-109, C.R.S. Trial on the issue of possession shall be timely as specified in section 13-40-114, C.R.S., with no delay allowed for the determination of other issues or claims which may be severed at the discretion of the trial court.
+(4) After commencement of the action and before judgment, any person not already a party to the action who is discovered to have a property interest in the mobile home shall be allowed to enter into a stipulation with the landlord and be bound thereby.
+(5) The provisions of section 13-40-110.5 concerning suppression of court records apply to an action for termination.
+C.R.S. § 38-12-202.5
+
+Amended by 2020 Ch. 37,§3, eff. 12/1/2020.
+L. 79: Entire section added, p. 1385, § 2, effective July 1.
+Section 4(2) of chapter 37 (HB 20-1009), Session Laws of Colorado 2020, provides that the act changing this section applies to actions commenced on or after December 1, 2020.
+
+Colo. Rev. Stat. § 38-12-202
+Current through 11/5/2024 election
+Section 38-12-202 - Tenancy - notice to terminate tenancy
+(1)
+(a) Tenancy or other lease or rental occupancy of space in a mobile home park may not commence without a written lease or rental agreement, and tenancy in a mobile home park shall not be terminated until a notice to terminate tenancy or notice of nonpayment of rent has been served. A notice to terminate tenancy must be in writing and include a description of the property. The property description is legally sufficient if it states:
+(I) The name of the landlord or the mobile home park;
+(II) The mailing address of the property;
+(III) The location or space number upon which the mobile home is situate; and
+(IV) The county in which the mobile home is situate.
+(b) Service of the notice to terminate tenancy must be as specified in section 13-40-108. Service by posting is deemed legally sufficient within the meaning of section 13-40-108 if the notice is affixed to the main entrance of the mobile home.
+(c)
+(I) Except as otherwise provided in section 38-12-204 (1) or subsections (1)(c)(II) and (3) of this section, the management shall give a home owner at least ninety days after the date the notice is served or posted to sell the mobile home or remove it from the premises.
+(II) If management terminates a tenancy on grounds described in section 38-12-203 (1)(f), the management shall give the home owner at least ten days after the date the notice is served or posted to sell the mobile home or remove it from the premises.
+(2) Repealed.
+(3) In any notice provided by the management as required by this section, the management shall specify the reason for the termination, as described in section 38-12-203, of the tenancy that is the subject of the notice. If the management is terminating the tenancy because the mobile home or mobile home lot is out of compliance with local ordinances or state laws or rules relating to mobile homes and mobile home lots, as described in section 38-12-203 (1)(a), or out of compliance with written rules and regulations of the mobile home park, as described in section 38-12-203 (1)(c), the notice must include a statement advising the home owner that the home owner has a right to cure the noncompliance within ninety days after the date of service or posting of the notice to terminate tenancy. This ninety-day period runs concurrently with the ninety-day period to sell the mobile home or remove it from the premises as set forth in subsection (1)(c)(I) of this section. Rent payment and other agreed tenant obligations remain in effect during this ninety-day period, and acceptance of rent by a landlord during this ninety-day period does not constitute a waiver of the landlord's right to terminate the tenancy for any noncompliance described in section 38-12-203 (1)(a) or (1)(c).
+(4) Notwithstanding any other provision of this section, in any action to terminate a home owner's tenancy based on a violation described in section 38-12-203 (1)(a), the periods of time set forth in this section to provide home owners notice or a right to cure are superseded by any local ordinances, state laws or rules, or court orders that require a home owner's compliance within a shorter time period.
+C.R.S. § 38-12-202
+
+Amended by 2024 Ch. 113,§ 9, eff. 4/19/2024.
+Amended by 2022 Ch. 255, § 4, eff. 10/1/2022.
+Amended by 2020 Ch. 195, § 2, eff. 6/30/2020.
+L. 73: p. 641, § 1. C.R.S. 1963: § 58-2-2. L. 79: (1) amended, p. 1384, § 1, effective July 1. L. 81: IP(1)(a) R&RE, p. 1814, § 3, effective June 9. L. 87: (1)(c) and (1)(d) amended, p. 1311, § 3, effective May 8. L. 94: (1)(c) amended, p. 703, § 1, effective April 19. L. 96: (2) amended, p. 670, § 2, effective July 1. L. 99: (3) added, p. 65, § 1, effective August 4. L. 2000: (3) repealed, p. 148, § 2, effective July 1. L. 2010: Entire section amended, (SB 10-156), ch. 1585, p. 1585, § 3, effective July 1. L. 2020: (1)(c) and (3) amended, (2) repealed, and (4) added, (HB 20-1196), ch. 913, p. 913, § 2, effective June 30.
+2022 Ch. 255, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+(1) For the form specified for notice to terminate a tenancy, see § 13-40-107 (2). (2) For the legislative declaration in HB 24-1098, see section 1 of chapter 113, Session Laws of Colorado 2024.
+
+Colo. Rev. Stat. § 38-12-202.5
+Current through 11/5/2024 election
+Section 38-12-202.5 - Action for termination
+(1) The action for termination shall be commenced in the manner described in section 13-40-110, C.R.S. The property description shall be deemed legally sufficient and within the meaning of section 13-40-110, C.R.S., if it states:
+(a) The name of the landlord or the mobile home park;
+(b) The mailing address of the property;
+(c) The location or space number upon which the mobile home is situate; and
+(d) The county in which the mobile home is situate.
+(2) Service of summons shall be as specified in section 13-40-112, C.R.S. Service by posting shall be deemed legally sufficient within the meaning of section 13-40-112, C.R.S., if the summons is affixed to the main entrance of the mobile home.
+(3) Jurisdiction of courts in cases of forcible entry, forcible detainer, or unlawful detainer shall be as specified in section 13-40-109, C.R.S. Trial on the issue of possession shall be timely as specified in section 13-40-114, C.R.S., with no delay allowed for the determination of other issues or claims which may be severed at the discretion of the trial court.
+(4) After commencement of the action and before judgment, any person not already a party to the action who is discovered to have a property interest in the mobile home shall be allowed to enter into a stipulation with the landlord and be bound thereby.
+(5) The provisions of section 13-40-110.5 concerning suppression of court records apply to an action for termination.
+C.R.S. § 38-12-202.5
+
+Amended by 2020 Ch. 37,§3, eff. 12/1/2020.
+L. 79: Entire section added, p. 1385, § 2, effective July 1.
+Section 4(2) of chapter 37 (HB 20-1009), Session Laws of Colorado 2020, provides that the act changing this section applies to actions commenced on or after December 1, 2020.
+
+Colo. Rev. Stat. § 38-12-203
+Current through 11/5/2024 election
+Section 38-12-203 - Reasons for termination
+(1) The management of a mobile home park may terminate a tenancy only for one or more of the following reasons:
+(a) Except in the case of a home owner who cures a noncompliance as described in section 38-12-202 (3), failure of the home owner to comply with local ordinances and state laws and rules relating to mobile homes and mobile home lots;
+(b) Repealed.
+(c) Except in the case of a home owner who cures a noncompliance as described in section 38-12-202 (3), failure of the home owner to comply with written rules and regulations of the mobile home park that are enforceable pursuant to section 38-12-214, are necessary to prevent material damage to real or personal property or to the health or safety of one or more individuals, and were:
+(I) Established by the management in the rental agreement at the inception of the tenancy;
+(II) Amended after the inception of the tenancy with the consent of the home owner; or
+(III) Amended after the inception of the tenancy without the consent of the home owner after providing sixty days' prior written notice to the home owner.
+(d)
+(I) Condemnation or change of use of the mobile home park. When the owner of a mobile home park is formally notified by a notice of intent to acquire pursuant to section 38-1-121 (1) or other similar provision of law, or a complaint in a condemnation action from an appropriate governmental agency that the mobile home park, or any portion thereof, is to be acquired by the governmental agency or may be the subject of a condemnation proceeding, the landlord shall, within seventeen days, notify the home owners in writing of the terms of the notice of intent to acquire or complaint received by the landlord.
+(II) If a landlord wants to change the use of a mobile home park, and the change of use has been approved by the local or state authority or does not require approval, and the change of use would result in the eviction of inhabited mobile homes, the landlord shall give the owner of each mobile home that is subject to the eviction a written notice of the landlord's intent to evict not less than twelve months before the change of use of the land, which notice must be mailed to each home owner. The notice must advise the home owner of the home owner's right to compensation pursuant to subsection (3) of this section.
+(e) The making or causing to be made, with knowledge, of materially false or misleading statements on an application for tenancy;
+(f) Conduct of the home owner or any lessee of the home owner or any guest, agent, invitee, or associate of the home owner or lessee of the home owner that:
+(I) Occurs on the mobile home park premises and unreasonably endangers the life of the landlord, any home owner or lessee of the mobile home park, any person living in the park, or any guest, agent, invitee, or associate of the home owner or lessee of the home owner;
+(II) Occurs on the mobile home park premises and constitutes willful, wanton, or malicious damage to or destruction of property of the landlord, any home owner or lessee of the mobile home park, any person living in the park, or any guest, agent, invitee, or associate of the home owner or lessee of the home owner;
+(III) Occurs on the mobile home park premises, materially harms or threatens real or personal property or the health, safety, or welfare of one or more individuals or animals, including pet animals, as defined in section 35-80-102 (10), and constitutes a felony prohibited under article 3, 4, 6, 7, 9, 10, 12, or 18 of title 18; or
+(IV) Was the basis for an action that declared the mobile home or any of its contents a class 1 public nuisance under section 16-13-303.
+(2) In an action pursuant to this part 2, the landlord shall have the burden of proving that the landlord complied with the relevant notice requirements and that the landlord provided the home owner with a statement of reasons for the termination. In addition to any other defenses a home owner may have, it shall be a defense that the landlord's allegations are false or that the reasons for termination are invalid.
+(3) A landlord shall not make any oral or written statement threatening eviction for a violation or action that is not grounds for terminating a tenancy under subsection (1) of this section. A home owner may file a complaint pursuant to section 38-12-1105 or a civil action pursuant to section 38-12-220 for a violation of this subsection (3). If the court determines that the landlord violated this subsection (3), the court shall award a statutory penalty of up to twenty thousand dollars to the plaintiff in addition to any other remedies authorized by section 38-12-220.
+C.R.S. § 38-12-203
+
+Amended by 2024 Ch. 399,§ 2, eff. 6/30/2024.
+Amended by 2022 Ch. 255, § 5, eff. 10/1/2022.
+Amended by 2020 Ch. 195, § 3, eff. 6/30/2020.
+L. 73: p. 642, § 1. C.R.S. 1963: § 58-2-3. L. 79: (1)(d) amended, p. 1386, § 3, effective July 1. L. 81: (1)(c) amended, p. 1814, § 4, effective June 9. L. 84: (1)(c) amended, p. 976, § 1, effective July 1. L. 87: (1)(a), (1)(b), (1)(c), (1)(d), and (2) amended, p. 1311, § 4, effective May 8. L. 94: (1)(f) added, p. 703, § 2, effective April 19. L. 96: IP(1), (1)(a), (1)(c), and (2) amended, p. 671, § 3, effective July 1. L. 2010: (1)(c) and (1)(d) amended, (SB 10-156), ch. 1586, p. 1586, § 4, effective July 1. L. 2020: IP(1), (1)(a), (1)(c), (1)(d)(II), (1)(e), (1)(f)(III), and (1)(f)(IV) amended and (1)(b) repealed, (HB 20-1196), ch. 914, p. 914, § 3, effective June 30.
+2022 Ch. 255, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+
+Colo. Rev. Stat. § 38-12-203.5
+Current through 11/5/2024 election
+Section 38-12-203.5 - Change in use of the park - remedies for home owners - definitions
+(1) As used in this section, unless the context otherwise requires:
+(a) "In-place fair market value" means the fair market value of the mobile home and any attached appurtenances and structures on the lot owned by the home owner such as porches, decks, skirting, awnings, and sheds, taking into account the actual cost of all improvements made to the mobile home by the home owner. Fair market value is determined based on the value of the mobile home in its current location prior to the decision to change the use of the park.
+(b) "Relocation costs" includes:
+(I) Any reasonable costs incurred to move the mobile home, furniture, and personal belongings therein to a replacement site;
+(II) The reasonable cost of disassembling, moving, and reassembling any attached appurtenances and structures on the lot owned by the home owner such as porches, decks, skirting, awnings, and sheds, which were not acquired by the landlord;
+(III) The costs of anchoring the unit;
+(IV) The costs of connecting or disconnecting the mobile home to utilities;
+(V) Insurance coverage during transport; and
+(VI) The cost to disassemble and reinstall any accessibility improvements such as wheelchair ramps, lifts, and grab bars.
+(2) If a landlord intends to change the use of the land comprising a mobile home park or part of a mobile home park or the mobile home park is condemned for reasons that are the responsibility of the park owner and the change in use or condemnation would result in the displacement of one or more mobile homes in the park, for each displaced mobile home, the landlord shall provide the home owner or home owners one of the following at the home owner's or home owners' choosing within thirty days of receiving a written demand by the home owner or home owners:
+(a) Payment of relocation costs to relocate the mobile home to a location of the home owner's choosing within one hundred miles by road of the park. Relocation costs are determined based on the lowest estimate obtained by the home owner from a mobile home mover. The landlord may request a copy of the estimate to support the request for payment of relocation costs. If the home owner exercises this option, the home owner must actually relocate the mobile home and all personal belongings in accordance with the estimate used to determine relocation costs prior to the date of the change in use set forth in the notice required by section 38-12-203 (1)(d)(II). The home owner is responsible for additional mileage costs to move the mobile home to a location more than one hundred miles from the park.
+(b) Submission of a binding offer to purchase the mobile home for the greater of:
+(I) Seven thousand five hundred dollars for a single-section mobile home or ten thousand dollars for a multi-section mobile home; or
+(II) One hundred percent of the in-place fair market value as determined through the appraisal process set forth in this subsection (2)(b)(II). Within thirty days of submitting the offer, the landlord shall hire a licensed, certified residential, or certified general appraiser from the active appraisers list published by the division of real estate in the department of regulatory agencies to conduct the appraisal. If the home owner disputes the appraised value of the mobile home, the home owner may hire a licensed, certified residential, or certified general appraiser from the active appraisers list to obtain a second appraisal at the home owner's expense. To be considered, the home owner must obtain the appraisal within sixty days of receipt of the landlord's appraisal. The results of all appraisals shall be provided in writing by the appraiser to both landlord and home owner. If a second appraisal is obtained, the home owner is entitled to the average of the appraisals obtained by the landlord and the home owner. If the home owner is not satisfied with the appraisal or appraisals received, the home owner may submit a request for payment of relocation costs as set forth in subsection (2)(a) of this section. If the home owner exercises the option for purchase under this subsection (2)(b)(II), the sale closing must occur prior to the date of the change in use set forth in the notice provided pursuant to section 38-12-203 (1)(d)(II).
+(3) If an appraiser conducting an appraisal pursuant to subsection (2)(b)(II) of this section identifies lack of maintenance, deferred maintenance, or deterioration of the mobile home park beyond normal wear and tear that negatively affects the value of a mobile home, the appraiser shall determine the value of the home with an upward adjustment in value if necessary to eliminate the negative effect in value caused by the lack of maintenance, deferred maintenance, or deterioration of the park beyond normal wear and tear.
+(4) On July 1, 2024, and on July 1 of each year thereafter, the department shall adjust the amount specified in subsection (2)(b)(I) of this section in accordance with the percentage change for the previous twelve months at the time of the calculation in the United States department of labor, bureau of labor statistics, consumer price index for Denver-Aurora-Lakewood for all items and all urban consumers, or its successor index. The department shall publish the adjusted amount on the department's website.
+(5) A home owner is entitled to the remedies provided under this section only if the home owner has not given notice to terminate the home owner's lease or rental agreement as of the date of the notice of the change in use.
+(6) Any agreement made with a home owner to waive any rights under this section is invalid and ineffective for any purpose.
+C.R.S. § 38-12-203.5
+
+Amended by 2024 Ch. 399,§ 3, eff. 6/30/2024.
+Added by 2022 Ch. 255, § 6, eff. 10/1/2022.
+2022 Ch. 255, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+Section 38-12-203 - Reasons for termination
+Section 38-12-204 - Nonpayment of rent - notice required for rent increase - limitation on rent increases - definition
+
+Colo. Rev. Stat. § 38-12-204
+Current through 11/5/2024 election
+Section 38-12-204 - Nonpayment of rent - notice required for rent increase - limitation on rent increases - definition
+(1) Any tenancy or other estate at will or lease in a mobile home park may be terminated upon the landlord's written notice to the home owner provided pursuant to section 38-12-212.9 requiring, in the alternative, payment of rent or the removal of the home owner's unit from the premises, within a period of not less than ten days after the date notice is served or posted, for failure to pay rent when due.
+(2) Rent shall not be increased without sixty days' written notice to the home owner provided pursuant to section 38-12-212.9. In addition to the amount and the effective date of the rent increase, such written notice shall include the name, address, and telephone number of the mobile home park management, if such management is a principal owner, or owner of the mobile home park and, if the owner is other than a natural person, the name, address, and telephone number of the owner's chief executive officer or managing partner; except that such ownership information need not be given if it was disclosed in the rental agreement made pursuant to section 38-12-213.
+(3) A landlord shall not increase rent more than one time in any twelve-month period of consecutive occupancy by the tenant, regardless of:
+(a) Whether there is a written rental agreement for the tenancy;
+(b) The length of the tenancy; and
+(c) Whether the tenant's rental agreement is for a fixed tenancy, a month-to-month tenancy, or an indefinite term.
+(4) A landlord shall not increase rent on a resident of a mobile home park lot or issue a notice of rent increase if the park:
+(a) Does not have a current, active registration filed with the division of housing in accordance with section 38-12-1106;
+(b) Has any unpaid penalties owed to the division of housing;
+(c)
+(I) Has not fully complied with any government order.
+(II) As used in subsection (4)(c)(I) of this section, "government order" means any final federal, state, or local administrative order or judicial order.
+(d) Has failed to comply with a provision of section 25-8-1003 (2) and the applicable deadline to comply with the provision has passed.
+(e) Has been found by the division in a final agency order or by a court, within the twelve months prior to the final agency or court order, to have failed to comply with a landlord's responsibilities pursuant to section 38-12-212.3. This subsection (4)(e) shall not apply to a negotiated settlement that precedes a final agency or court order.
+(5) A notice of a rent increase issued in violation of this section is invalid and has no force and effect.
+C.R.S. § 38-12-204
+
+Amended by 2024 Ch. 399,§ 4, eff. 6/30/2024.
+Amended by 2023 Ch. 376,§ 7, eff. 6/5/2023.
+Amended by 2022 Ch. 255, § 7, eff. 10/1/2022.
+Amended by 2021 Ch. 348, § 3, eff. 6/25/2021.
+Amended by 2019 Ch. 281, § 6, eff. 5/23/2019.
+L. 73: p. 642, § 1. C.R.S. 1963: § 58-2-4. L. 77: Entire section amended, p. 1708, § 1, effective July 7. L. 85: Entire section amended, p. 1199, § 1, effective July 1. L. 87: Entire section amended, p. 1312, § 5, effective May 8. L. 2019: (1) amended, (HB 19-1309), ch. 2629, p. 2629, § 6, effective May 23. L. 2021: (3) added, (HB 21-1121), ch. 2260, p. 2260, § 3, effective June 25.
+2022 Ch. 255, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+For the legislative declaration in HB 19-1309, see section 1 of chapter 281, Session Laws of Colorado 2019.
+
+Colo. Rev. Stat. § 38-12-204.3
+Current through 11/5/2024 election
+Section 38-12-204.3 - Notice required for termination
+(1) Where the tenancy of a mobile home owner is being terminated under section 38-12-202 or section 38-12-204, the landlord or mobile home park owner shall provide such mobile home owner with written notice as provided for in subsection (2) of this section. Service of such notice must occur at the same time and in the same manner as service of:
+(a) The notice to terminate tenancy as provided in section 38-12-202 (1); or
+(b) The notice of nonpayment of rent as provided in section 38-12-204 (1).
+(2) The notice required under this section must be provided pursuant to section 38-12-212.9 in at least twelve-point type and must read as follows:
+IMPORTANT NOTICE TO THE HOME OWNER:
+
+This notice and the accompanying notice to terminate tenancy/notice of nonpayment of rent are the first steps in the eviction process. Any dispute you may have regarding the grounds for eviction should be addressed with your landlord or the management of the mobile home park or in the courts if an eviction action is filed. Please be advised that the "Mobile Home Park Act", part 2 of article 12 of title 38, Colorado Revised Statutes, and the "Mobile Home Park Act Dispute Resolution and Enforcement Program" created in section 38-12-1104, Colorado Revised Statutes, may provide you with legal protection.
+
+NOTICE TO TERMINATE TENANCY: In order to terminate a home owner's tenancy, the landlord or management of a mobile home park must serve to a home owner a notice to terminate tenancy. The notice must be in writing and must contain certain information, including:
+
+. The grounds for the termination of the tenancy;
+
+. Whether or not the home owner has a right to cure under the "Mobile Home Park Act"; and
+
+. That the home owner has the option of mediation pursuant to section 38-12-216, Colorado Revised Statutes, of the "Mobile Home Park Act" and the option of filing a complaint through the "Mobile Home Park Act Dispute Resolution and Enforcement Program" created in section 38-12-1104, Colorado Revised Statutes.
+
+NOTICE OF NONPAYMENT OF RENT: In order to terminate a home owner's tenancy due to nonpayment of rent, the landlord or management of a mobile home park must serve to a home owner a notice of nonpayment of rent. The notice must be in writing and must require that the home owner either make payment of rent or sell the owner's unit or remove it from the premises within a period of not less than ten days after the date the notice is served or posted, for failure to pay rent when due.
+
+CURE PERIODS: If the home owner has a right to cure under the "Mobile Home Park Act", the landlord or management of a mobile home park cannot terminate a home owner's tenancy without first providing the home owner with a time period to cure the noncompliance. "Cure" refers to a home owner remedying, fixing, or otherwise correcting the situation or problem that made the tenancy subject to termination pursuant to sections 38-12-202, 38-12-203, or 38-12-204, Colorado Revised Statutes.
+
+COMMENCEMENT OF LEGAL ACTION TO TERMINATE THE TENANCY: After the last day of the applicable notice period required by section 38-12-202 (1)(c), Colorado Revised Statutes, a legal action may be commenced to take possession of the space leased by the home owner. In order to evict a home owner, the landlord or management of the mobile home park must prove:
+
+. The landlord or management complied with the notice requirements of the "Mobile Home Park Act";
+
+. The landlord or management provided the home owner with a statement of reasons for termination of the tenancy; and
+
+. The reasons for termination of the tenancy are true and valid under the "Mobile Home Park Act".
+
+To defend against an eviction action, a home owner must appear in court. If the court rules in favor of the landlord or management of the mobile home park, the home owner has not less than thirty days from the time of the ruling to either remove or sell the mobile home and to vacate the premises. If the home owner wishes to extend such period beyond thirty days but not more than sixty days from the date of the ruling, the home owner shall prepay to the landlord an amount equal to a pro rata share of rent for each day following the expiration of the initial thirty-day period after the court's ruling that the mobile home owner will remain on the premises. All prepayments shall be paid no later than thirty days after the court ruling. This section does not preclude earlier removal by law enforcement officers of a mobile home or one or more mobile home owners or occupants from the mobile home park if a mobile home owner violates article 3, 4, 6, 7, 9, 10, 12, or 18 of title 18 or section 16-13-303, Colorado Revised Statutes.
+
+C.R.S. § 38-12-204.3
+
+Amended by 2024 Ch. 399,§ 5, eff. 6/30/2024.
+Amended by 2024 Ch. 113,§ 10, eff. 4/19/2024.
+Amended by 2020 Ch. 195, § 4, eff. 6/30/2020.
+Amended by 2019 Ch. 281, § 7, eff. 5/23/2019.
+L. 2000: Entire section added, p. 146, § 1, effective July 1. L. 2010: (2) amended, (SB 10-156), ch. 1587, p. 1587, § 5, effective July 1. L. 2019: (2) amended, (HB 19-1309), ch. 2629, p. 2629, § 7, effective May 23. L. 2020: (2) amended, (HB 20-1196), ch. 915, p. 915, § 4, effective June 30.
+Amendments to subsection (2) by HB 24-1098 and HB 24-1294 were harmonized.
+
+For the legislative declaration in HB 19-1309, see section 1 of chapter 281, Session Laws of Colorado 2019. For the legislative declaration in HB 24-1098, see section 1 of chapter 113, Session Laws of Colorado 2024.
+
+Colo. Rev. Stat. § 38-12-204.5
+Current through 11/5/2024 election
+Section 38-12-204.5 - Eviction for rule violation - stay of eviction proceeding - rules challenge
+If a resident is a defendant in a forcible entry and detainer complaint filed in either county or district court, and the resident has also submitted a pending complaint through the "Mobile Home Park Act Dispute Resolution and Enforcement Program", created in section 38-12-1104, that is related to the forcible entry and detainer action, the resident may provide a copy of their administrative complaint to the appropriate court of jurisdiction. Upon receiving confirmation of the pending administrative complaint, the court shall automatically stay any hearing on the forcible entry and detainer complaint for at least twenty-one calendar days, during which the division is encouraged to review and conduct an initial assessment of the complaint. The court at its discretion may stay the forcible entry and detainer complaint for longer than twenty-one calendar days to allow for appropriate investigation and adjudication of the pending administrative complaint. The resident shall also make reasonable efforts to inform administrators of the dispute resolution program of the pending forcible entry and detainer action, for the dispute resolution program to prioritize expedient resolution of the pending administrative complaint. This section does not apply to evictions filed pursuant to section 38-12-203 (1)(f).
+
+C.R.S. § 38-12-204.5
+
+Added by 2024 Ch. 399,§ 6, eff. 6/4/2024.
+
+Colo. Rev. Stat. § 38-12-205
+Current through 11/5/2024 election
+Section 38-12-205 - Termination prohibited
+A tenancy or other estate at will or lease in a mobile home park may not be terminated solely for the purpose of making the home owner's space in the park available for another mobile home or trailer coach.
+
+C.R.S. § 38-12-205
+
+L. 73: p. 642, § 1. C.R.S. 1963: § 58-2-5. L. 87: Entire section amended, p. 1312, § 6, effective May 8.
+
+Colo. Rev. Stat. § 38-12-206
+Current through 11/5/2024 election
+Section 38-12-206 - Home owner meetings - assembly in common areas - meeting hosted by landlord
+(1) Home owners shall have the right to meet and establish a homeowners' association. Meetings of home owners or the homeowners' association relating to mobile home living and affairs in their park common area, community hall, or recreation hall, if such a facility or similar facility exists, shall not be subject to prohibition by the park management if the common area or hall is reserved according to the park rules and such meetings are held at reasonable hours and when the facility is not otherwise in use; except that no such meetings shall be held in the streets or thoroughfares of the mobile home park.
+(2) The management shall not charge home owners or residents a fee to meet in common buildings or spaces in the park, including any common area, community hall, or recreation hall; except that the management may charge for the reasonable costs of cleaning or repairing actual damages incurred. The management may recuperate the cost of repairs for actual damages beyond normal wear and tear that were caused by a home owner by retaining a portion of a home owner's security deposit.
+(3) If requested by a home owner or resident, the landlord of a mobile home park shall, within thirty days of receiving the request, host and attend a free, public, accessible meeting for residents of the park; except that a landlord is not required to host and attend more than two meetings in a calendar year. Notice of the date, time, and location of the meeting must be posted in English, Spanish, and any other language reasonably known to be spoken by more than one resident in the park in a clearly visible location in common areas of the mobile home park, including any community hall or recreation hall, for a period of seven days before the meeting and must be provided by mail at least fourteen days before the meeting to each home owners' association, residents' association, or similar body that represents the residents of the park. In addition to mailing the notice as required by this section, the landlord shall provide notice of the meeting by e-mail to each home owner and resident who has an e-mail address on file with the landlord. Upon the reasonable request of a home owner or resident that is made at least seven days before the scheduled meeting, a landlord shall provide an interpreter for any meeting that is held pursuant to this section pursuant to section 38-12-212.9. If an interpreter is provided, the landlord shall provide any documents or materials for the meeting pursuant to section 38-12-212.9. The landlord shall bear the costs of providing the interpreter and for translating any documents or materials provided for the meeting. A landlord may use a virtual language line or other means of providing live interpretation virtually or online to satisfy the requirements of this section. The division is encouraged to publish a list of available virtual, online, and remote interpretation services that are offered by trained interpreters.
+C.R.S. § 38-12-206
+
+Amended by 2024 Ch. 399,§ 7, eff. 6/30/2024.
+Amended by 2022 Ch. 255, § 8, eff. 10/1/2022.
+L. 73: p. 642, § 1. C.R.S. 1963: § 58-2-6. L. 87: Entire section amended, p. 1313, § 7, effective May 8. L. 2005: Entire section amended, p. 109, § 1, effective August 8. L. 2010: Entire section amended, (SB 10 -156), ch. 343, p. 1588, § 6, effective July 1.
+2022 Ch. 255, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+Section 38-12-205 - Termination prohibited
+Section 38-12-207 - Security deposits - legal process
+
+Colo. Rev. Stat. § 38-12-207
+Current through 11/5/2024 election
+Section 38-12-207 - Security deposits - legal process
+(1) The owner of a mobile home park or the owner's agents may charge a security deposit in an amount not greater than one month's rent.
+(2) Legal process, other than eviction, shall be used for the collection of utility charges and incidental service charges other than those provided by the rental agreement.
+(3) A security deposit remains the property of the home owner, and a landlord shall deposit each security deposit into a separate trust account to be administered by the landlord as a private trustee. For the purpose of preserving the corpus, the landlord shall not commingle the trust funds with other money; however, the landlord may keep the interest and profits earned from the corpus as compensation for administering the trust account.
+C.R.S. § 38-12-207
+
+Amended by 2020 Ch. 195,§ 5, eff. 6/30/2020.
+L. 73: p. 642, § 1. C.R.S. 1963: § 58-2-7. L. 81: (1) R&RE, p. 1815, § 5, effective June 9.
+
+Colo. Rev. Stat. § 38-12-208
+Current through 11/5/2024 election
+Section 38-12-208 - Remedies
+(1)
+(a) Upon granting judgment for possession by the landlord in a forcible entry and detainer action, the court shall immediately issue a writ of restitution which the landlord shall take to the sheriff. In addition, if a money judgment has been requested in the complaint and if service was accomplished by personal service, the court shall determine and enter judgment for any amounts due to the landlord and shall calculate a pro rata daily rent amount that must be paid for the home to remain in the park. The court may rely upon information provided by the landlord or the landlord's attorney when determining the pro rata daily rent amount to be paid by the home owner. Upon receipt of the writ of restitution, the sheriff shall serve notice in accordance with the requirements of section 13-40-108, C.R.S., to the home owner of the court's decision and entry of judgment.
+(b) The notice of judgment must state that, at a specified time not less than thirty days from the entry of judgment, which may be extended to not more than sixty days after the entry of judgment if the home owner has prepaid no later than thirty days after the court ruling to the landlord an amount equal to a pro rata share of rent for each day following the expiration of the initial thirty-day period after the court's ruling that the mobile home owner will remain on the premises, and in instances where the mobile home must be removed from the mobile home lot, the sheriff shall return to serve a writ of restitution and superintend the peaceful and orderly removal of the mobile home under that order of court. The notice of judgment must also advise the home owner, in instances where the mobile home must be removed from the mobile home lot, to prepare the mobile home for removal from the premises by removing the skirting, disconnecting utilities, attaching tires, and otherwise making the mobile home safe and ready for highway travel.
+(c) Should the home owner fail to have the mobile home safe and ready for physical removal from the premises or should inclement weather or other unforeseen problems occur at the time specified in the notice of judgment, the landlord and the sheriff may, by written agreement, extend the time for the execution of the writ of restitution to allow time for the landlord to arrange to have the necessary work done or to permit the sheriff's execution of the writ of restitution at a time when weather or other conditions will make removal less hazardous to the mobile home.
+(d) If the mobile home is not removed from the landlord's land on behalf of the mobile home owner within the time permitted by the writ of restitution, then the landlord and the sheriff shall have the right to take possession of the mobile home for the purposes of removal and storage. The liability of the landlord and the sheriff in such event shall be limited to gross negligence or willful and wanton disregard of the property rights of the home owner. The responsibility to prevent freezing and to prevent wind and weather damage to the mobile home lies exclusively with those persons who have a property interest in the mobile home; except that the landlord may take appropriate action to prevent freezing, to prevent wind and weather damage, and to prevent damage caused by vandals.
+(e) Reasonable removal and storage charges and the costs associated with preventing damage caused by wind, weather, or vandals can be paid by any party in interest. Those charges will run with the mobile home, and whoever ultimately claims the mobile home will owe that sum to the person who paid it.
+(2)
+(a) Prior to the issuance of said writ of restitution, the court shall make a finding of fact based upon evidence or statements of counsel that there is or is not a security agreement on the mobile home being subjected to the writ of restitution. A written statement on the mobile home owner's application for tenancy with the landlord that there is no security agreement on the mobile home shall be prima facie evidence of the nonexistence of such security agreement.
+(b) In those cases where the court finds there is a security agreement on the mobile home subject to the writ of restitution and where that holder of the security agreement can be identified with reasonable certainty, then, upon receipt of the writ of restitution, the plaintiff shall promptly inform the holder of such security agreement as to the location of the mobile home, the name of the landlord who obtained the writ of restitution, and the time when the mobile home will be subject to removal by the sheriff and the landlord.
+(3) The remedies provided in part 1 of this article and article 40 of title 13, C.R.S., except as inconsistent with this part 2, shall be applicable to this part 2.
+C.R.S. § 38-12-208
+
+Amended by 2019 Ch. 281, § 8, eff. 5/23/2019.
+L. 73: p. 643, § 1. C.R.S. 1963: § 58-2-8. L. 79: Entire section R&RE, p. 1386, § 4, effective July 1. L. 87: (1)(a) to (1)(d) amended, p. 1313, § 8, effective May 8. L. 91: (1)(d) and (1)(e) amended, p. 1695, § 3, effective July 1. L. 2010: (1)(a) and (1)(b) amended, (SB 10-156), ch. 1589, p. 1589, § 7, effective July 1. L. 2019: (1)(b) amended, (HB 19-1309), ch. 2630, p. 2630, § 8, effective May 23.
+(1) For security deposits to secure the performance of a rental agreement and the wrongful withholding of such, see §§ 38-12-101 to 38-12-104; for the general provisions for forcible entry and detainer, see §§ 13-40-101 to 13-40-123 and § 13-40-127. (2) For the legislative declaration in HB 19-1309, see section 1 of chapter 281, Session Laws of Colorado 2019.
+
+Section 38-12-207 - Security deposits - legal process
+Section 38-12-209 - Entry fees prohibited
+
+Colo. Rev. Stat. § 38-12-209
+Current through 11/5/2024 election
+Section 38-12-209 - Entry fees prohibited
+(1) The owner of a mobile home park, or the agent of such owner, shall neither pay to nor receive from an owner or a seller of a mobile home an entry fee of any type as a condition of tenancy in a mobile home park.
+(2) to (4) Repealed.
+(5) A landlord shall not charge a resident or a home owner any fee, penalty, or any other cost for refusing to sign a new lease or for residing under a month-to-month or other periodic tenancy.
+C.R.S. § 38-12-209
+
+Amended by 2024 Ch. 399,§ 8, eff. 6/4/2024.
+Amended by 2022 Ch. 255, § 9, eff. 10/1/2022.
+Amended by 2020 Ch. 195, § 6, eff. 6/30/2020.
+L. 75: Entire section added, p. 1414, § 1, effective July 1. L. 79: (1), IP(2), and (2)(b) amended and (3) added, p. 1387, § 5, effective July 1. L. 81: (2)(b) amended and (4) added, p. 1815, §§ 6, 7, effective June 9. L. 87: (2)(b) and (2)(e) amended, p. 1313, § 9, effective May 8. L. 2020: (2) repealed and (4) amended, (HB 20-1196), ch. 917, p. 917, § 6, effective June 30.
+2022 Ch. 255, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+
+Colo. Rev. Stat. § 38-12-210
+Current through 11/5/2024 election
+Section 38-12-210 - Closed parks prohibited
+(1) Neither the owner of a mobile home park nor the owner's agent may require as a condition of tenancy in a mobile home park that a prospective home owner has purchased a mobile home from any particular seller or from any one of a particular group of sellers.
+(2) Such owner or agent shall not give any special preference in renting to a prospective home owner who has purchased a mobile home from a particular seller.
+(3) A seller of mobile homes shall not require as a condition of sale that a purchaser locate in a particular mobile home park or in any one of a particular group of mobile home parks.
+(4) The owner or operator of a mobile home park shall treat all persons equally in renting or leasing available space. Notwithstanding the foregoing, nothing in this subsection (4) shall be construed to preclude owners and operators of mobile home parks from providing housing for older persons as defined in section 24-34-502(7)(b), C.R.S.
+C.R.S. § 38-12-210
+
+Amended by 2020 Ch. 195,§ 7, eff. 6/30/2020.
+L. 75: Entire section added, p. 1414, § 1, effective July 1. L. 81: (4) added, p. 1815, § 8, effective June 9. L. 87: (1) and (2) amended, p. 1314, § 10, effective May 8. L. 92: (4) amended, p. 1128, § 12, effective July 1. L. 2020: (1) amended, (HB 20-1196), ch. 918, p. 918, § 7, effective June 30.
+
+Colo. Rev. Stat. § 38-12-211
+Current through 11/5/2024 election
+Section 38-12-211 - Selling and transfer fees prohibited - "for sale" signs permitted
+(1) A landlord shall not require payment of any type of selling fee or transfer fee by a home owner in the park wishing to sell the home owner's mobile home to another party, a home owner wishing to remove the home owner's mobile home from the park, or any party wishing to buy a mobile home from a home owner in the park as a condition of tenancy in a park for the prospective buyer. This subsection (1) does not prohibit the landlord from charging a rental application fee that complies with section 38-12-903 if the prospective buyer is buying the mobile home in place and is applying for tenancy in the park.
+(2)
+(a) This section does not prevent the owner of a mobile home park or the owner's agent from applying the normal park standards to prospective buyers before granting or denying tenancy or from charging a reasonable selling fee or transfer fee for services actually performed and agreed to in writing by a home owner.
+(b) Nothing in this section shall be construed to affect the rent charged by a landlord to a home owner pursuant to a rental agreement.
+(3) The owner of a mobile home may place a "for sale" sign on or in the owner's mobile home. The size, placement, and character of the sign is subject to reasonable rules and regulations of the mobile home park.
+C.R.S. § 38-12-211
+
+Amended by 2022 Ch. 255,§10, eff. 10/1/2022.
+Amended by 2020 Ch. 195,§8, eff. 6/30/2020.
+L. 75: Entire section added, p. 1415, § 1, effective July 1. L. 79: Entire section amended, p. 1388, § 6, effective July 1. L. 87: Entire section amended, p. 1314, § 11, effective May 8. L. 2020: Entire section amended, (HB 20-1196), ch. 918, p. 918, § 8, effective June 30.
+2022 Ch. 255, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+
+Colo. Rev. Stat. § 38-12-212
+Current through 11/5/2024 election
+Section 38-12-212 - Certain types of landlord-seller agreements prohibited
+A seller of mobile homes shall not pay or offer cash or other consideration to the owner of a mobile home park or the park owner's agent for the purpose of reserving spaces or otherwise inducing acceptance of one or more mobile homes in a mobile home park.
+
+C.R.S. § 38-12-212
+
+Amended by 2020 Ch. 195,§ 9, eff. 6/30/2020.
+L. 75: Entire section added, p. 1415, § 1, effective July 1.
+
+Colo. Rev. Stat. § 38-12-212.3
+Current through 11/5/2024 election
+Section 38-12-212.3 - Responsibilities of landlord - acts prohibited
+(1)
+(a) Except as otherwise provided in this section:
+(I) In any rental agreement, the landlord is deemed to covenant, warrant, and maintain, throughout the period of the tenancy described in the rental agreement, premises that are safe, clean, fit for human habitation and reasonable use, and accessible to people with disabilities;
+(II) A landlord is responsible for and shall pay the cost of the maintenance and repair of any sewer lines, water lines, utility service lines, or related connections owned and provided by the landlord to the utility pedestal or pad space for a mobile home located in the park; and
+(III) A landlord shall ensure that:
+(A) All plumbing lines and other utility connections owned and provided by the landlord to the utility pedestal or pad space for each mobile home in the park have plumbing and utility connections that conformed to applicable law in effect at the time they were installed and are maintained in good working order;
+(B) Each pad space is connected to a sewage disposal system approved under applicable law; and
+(C) Running water and reasonable amounts of water are furnished at all times to each utility pedestal or pad space; except that a landlord need not satisfy the conditions described in this subsection (1)(a)(III)(C) if a mobile home is individually metered and the tenant occupying the mobile home fails to pay for water services; the local government in which the mobile home park is situated shuts off water service to a mobile home for any reason; a third-party water provider shuts off water for the mobile home park for any reason that is unrelated to the landlord's actions or inactions; weather conditions present a likelihood that water pipes will freeze, water pipes to a mobile home are wrapped in heated pipe tape, and the utility company has shut off electrical service to a mobile home for any reason or the heat tape malfunctions for any reason; running water is not available for any other reason outside the landlord's control to prevent through reasonable and timely maintenance; or the landlord is making repairs or improvements to the items described in subsection (1)(a)(II) of this section, the landlord has provided reasonable advance notice to the mobile home residents of a service disruption that is required in connection with the repairs or improvements, and the service disruption continues for no longer than twenty-four hours.
+(b) If a landlord fails to maintain or repair the items described in subsection (1)(a)(II) or (2)(b) of this section:
+(I) The landlord is responsible for and shall pay the cost of repairing any damage to a mobile home or mobile home lot that results from the failure;
+(II) The landlord is responsible for and shall pay the cost of providing alternative sources of potable water reasonably sufficient for drinking and cooking no later than twelve hours after a service disruption begins and reasonably sufficient for bathing and all other essential hygiene for all members of the household no later than seventy-two hours after a service disruption begins and for maintaining portable toilets that are located reasonably near affected mobile homes in a manner that renders them accessible to people with disabilities no later than twelve hours after the service disruption begins unless conditions beyond the landlord's control reasonably prevent compliance with this subsection (1)(b)(II); and
+(III) The landlord shall reimburse residents for any damages to their persons or property, for any loss of use of their property, and for any expenses that they reasonably incur as a result of the failure.
+(c) A landlord shall give a minimum of forty-eight hours' notice to residents if water service will be disrupted for more than two hours for planned improvements, maintenance, or repairs. The landlord shall attempt to give a reasonable amount of notice to residents if water service will be disrupted for any other reasons unless conditions are such that providing the notice would result in property damage, health, or safety concerns or when conditions otherwise require emergency repair.
+(d) In addition to the requirements of subsection (1)(b) of this section, a landlord must also provide a resident with potable water reasonably sufficient for drinking, cooking, bathing, and all other essential hygiene within the time frames specified in subsection (1)(b)(II) of this section if the mobile home park or the resident or home owner's lot in the park is subject to a boil water advisory that was caused due to maintenance or repairs to the park performed or ordered by a park owner or a park owner's agent or contractor until the advisory has been rescinded by the issuing agency. A landlord shall also provide a notice, posted in a conspicuous place on each mobile home lot in both English and Spanish, of a boil water advisory as soon as possible but not later than twenty-four hours after the landlord receives the boil water advisory. Notices that are required to be reissued must also be posted in compliance with this subsection (1)(d).
+(2) In addition to the responsibilities described in subsection (1)(a) of this section, a landlord is responsible for:
+(a) Any accessory buildings or structures, including sheds and carports, that are owned by the landlord and provided for the use of the residents; and
+(b) The premises, including:
+(I) Maintaining all common areas in clean condition, good repair, and in compliance with applicable health and safety laws; keeping common areas and facilities generally available for use by park residents; and keeping common areas accessible to people with disabilities;
+(II) Maintaining roads, existing or constructed sidewalks, and other pavement owned by the landlord in a passable, safe condition that is sufficient to provide access for residents' vehicles, emergency vehicles, vans providing transportation services to persons who are elderly or disabled, and school buses, if applicable, which maintenance includes ensuring adequate drainage, maintaining pavement above water lines, and snow removal for all roadways and for all pedestrian sidewalks and other pavements that provide access to mailboxes, public notice areas, and public buildings;
+(III) Maintaining lot grades, regrading lots as necessary to prevent the accumulation of stagnant water and the detrimental effects of moving water, and taking reasonably necessary steps to maintain the integrity of the foundation of each mobile home's utility pedestal or pad space in order to prevent structural damage to the mobile home, except in circumstances where the need for such maintenance is caused by a resident's actions;
+(IV) Maintaining trees on the premises in a manner that protects the safety of residents of the park and their property, including the preservation of healthy, mature trees that home owners reasonably expected to remain on the premises when they signed their rental agreements, so long as such preservation does not pose a safety risk to any person, property, or infrastructure; and
+(V) Complying with the provisions of part 10 of article 8 of title 25.
+(3) A landlord shall not require a resident to assume any of the responsibilities described in subsection (1) or (2) of this section as a condition of tenancy in the park.
+(4) Nothing in this section may be construed as:
+(a) Limiting the liability of an individual for the cost of repairing any damage caused by the individual to the landlord's property or other property located in the park; or
+(b) Restricting a landlord from requiring a home owner or resident to comply with rules and regulations of the park that are enforceable pursuant to section 38-12-214 or with terms of the rental agreement and any covenants binding upon the landlord or home owner or resident, including covenants running with the land that pertain to the cleanliness of the home owner's or resident's lot and routine lawn and yard maintenance and excluding major landscaping projects.
+(5) A landlord shall establish and maintain an emergency contact number, post the number in common areas of the park, and communicate the number to home owners and residents in each rental agreement and each revision of the park rules and regulations. A home owner or resident who uses the emergency contact number in a timely manner to report a problem with a condition described in subsection (1) or (2) of this section is deemed to have provided notice to the landlord of the problem.
+(5.5) A landlord shall establish a unique mailing address and mailbox for each mobile home park lot to provide access to United States mail service and shall include the mailing address in the rental agreement. The mailboxes provided under this section may be located in one or more common areas located within the park or on individual lots. The requirements of this subsection (5.5) do not apply if United States mail service is not available in the geographic area where the park is located.
+(6) If a landlord fails to comply with the requirements of this section, a home owner of the park may file a complaint with the division of housing pursuant to the "Mobile Home Park Act Dispute Resolution and Enforcement Program" created in section 38-12-1104. On and after July 1, 2024, or earlier if allowed by the division, a resident who does not own a mobile home in the park, a local government, or a nonprofit may file such a complaint. If the division finds by a written determination that the landlord has violated this section, the division may:
+(a) Impose penalties, as described in section 38-12-1105 (5);
+(b) Issue an order to cease and desist, as described in section 38-12-1105 (6);
+(c) Require the landlord to reduce the rent owed by a home owner or resident on a prorated basis to reflect the home owner's or resident's loss of use of the mobile home space; or
+(d) Require the landlord to compensate a home owner or resident for housing expenses on a per diem basis if the home owner or resident is displaced from the mobile home as a result of the landlord's violation.
+C.R.S. § 38-12-212.3
+
+Amended by 2024 Ch. 399,§ 9, eff. 6/4/2024.
+Amended by 2023 Ch. 376,§ 8, eff. 6/5/2023.
+Amended by 2022 Ch. 255, § 11, eff. 10/1/2022.
+Amended by 2020 Ch. 195, § 10, eff. 6/30/2020.
+L. 91: Entire section added, p. 1679, § 1, effective April 19. L. 2010: (1)(a)(I) and (1)(b) amended and (1)(c) added, (SB 10-156), ch. 1589, p. 1589, § 8, effective July 1. L. 2020: Entire section amended, (HB 20-1196), ch. 919, p. 919, § 10, effective June 30.
+2022 Ch. 255, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+
+Colo. Rev. Stat. § 38-12-212.4
+Current through 11/5/2024 election
+Section 38-12-212.4 - Required disclosure and notice of water usage and billing - responsibility for leaks
+(1) If the management charges home owners or residents individually for water usage in the park, then, on or before January 31 of each year, the management shall provide to each home owner and resident and post in both English and Spanish in a clearly visible location in at least one common area of the mobile home park the following information:
+(a) The methodology by which the management calculates the amount charged to each home owner or resident for water usage on the home owner's or resident's lot;
+(b) The methodology by which the management calculates the amount charged to each home owner or resident for water usage in common areas of the mobile home park; and
+(c) The current residential water rate schedule of the water utility or municipal water service provider that supplies water to the park.
+(2) If the management charges home owners or residents for water usage in the park, whether individually or in an aggregate amount, the management shall provide to each home owner or resident a monthly water bill that indicates the amount owed by the home owner or resident, the total amount owed by all the residents in the mobile home park, and, if the management purchases the water from a provider, the total amount paid by the management to the provider.
+(3) The management shall not charge a home owner or resident for any costs in addition to the actual cost of water billed to the management.
+(4) The management shall use a methodology that is reasonable, equitable, and consistent for billing home owners or residents for any type of water usage.
+(5) If the management learns of a leak in a water line inside the park, the management shall notify each home owner and resident of the leak within twenty-four hours.
+(6) The management shall not bill a home owner or resident for any water usage that is caused by a leak in a water line inside the park.
+C.R.S. § 38-12-212.4
+
+Amended by 2022 Ch. 255,§12, eff. 10/1/2022.
+Added by 2020 Ch. 195,§11, eff. 6/30/2020.
+L. 2020: Entire section added, (HB 20-1196), ch. 922, p. 922, § 11, effective June 30.
+2022 Ch. 255, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+
+Colo. Rev. Stat. § 38-12-212.5
+Current through 11/5/2024 election
+Section 38-12-212.5 - Prohibition on retaliation and harassment - definition
+(1) The management shall not take retaliatory action against a home owner or resident who exercises any right conferred upon the home owner or resident by this part 2, part 11 of this article 12, or any other provision of law.
+(2) Except as described in subsection (3) of this section, in an action or administrative proceeding by or against a home owner or resident, the management's action is presumed to be retaliatory if, within the one hundred twenty days preceding the management's action, the home owner or resident:
+(a) Complained or expressed an intention to complain to a governmental agency about a matter relating to the mobile home park;
+(b) Submitted a complaint to the management about a violation described in this part 2;
+(c) Organized or became a member of a tenants' association or similar organization;
+(d) Made any other effort to secure or enforce any of the rights or remedies provided by this part 2 or any other provision of law;
+(e) Participated in a vote or decision-making process concerning the opportunity to purchase the mobile home park pursuant to section 38-12-217;
+(f) Filed a water quality complaint or requested remediation to address a water quality issue under part 10 of article 8 of title 25; or
+(g) Requested that the landlord provide communications required in this part 2 or part 11 or 14 of this article 12 in a language other than English.
+(3) The presumption of retaliatory action described in subsection (2) of this section does not apply to an action or administrative hearing where the management:
+(a) Addresses nonpayment of rent by a home owner or resident, as described in section 38-12-204; or
+(b) Was notified by a peace officer or otherwise became aware that the mobile home that is the basis of the administrative hearing was being operated as an illegal drug laboratory, as defined in section 25-18.5-101 (8).
+(4) The management may rebut a presumption of retaliation with sufficient evidence of a nonretaliatory purpose.
+(4.5) The management shall not:
+(a) Harass, intimidate, or threaten, or attempt to harass, intimidate, or threaten, any person for filing or attempting to file a complaint, joining or attempting to join an association of residents or home owners, engaging in activities to promote the organizing and education of residents and home owners, or voting or attempting to vote on a matter before the association of residents or home owners; or
+(b) Coerce or require a person to sign an agreement.
+(5) The rights and remedies provided by this section are available to home owners and residents in addition to the anti-retaliation protection provided in section 38-12-1105 (13).
+(6) As used in this section, unless the context otherwise requires, "organizing" includes:
+(a) Facilitating or attending a meeting for purposes of forming a tenants' organization or filing a complaint, even if the organization is not yet formed or the complaint has not yet been filed when the retaliation occurs; or
+(b) Distribution of flyers or other promotional or educational materials related to tenant organization efforts.
+C.R.S. § 38-12-212.5
+
+Amended by 2024 Ch. 399,§ 10, eff. 6/30/2024.
+Amended by 2023 Ch. 376,§ 9, eff. 6/5/2023.
+Amended by 2022 Ch. 255, § 13, eff. 10/1/2022.
+Added by 2020 Ch. 195, § 11, eff. 6/30/2020.
+L. 2020: Entire section added, (HB 20-1196), ch. 922, p. 922, § 11, effective June 30.
+2022 Ch. 255, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+
+Colo. Rev. Stat. § 38-12-212.7
+Current through 11/5/2024 election
+Section 38-12-212.7 - Landlord utilities account
+(1) Whenever a landlord contracts with a utility for service to be provided to a resident, the usage of which is to be measured by a master meter or other composite measurement device, such landlord shall remit to the utility all moneys collected from each resident as payment for the resident's share of the charges for such utility service within forty-five days of the landlord's receipt of payment.
+(2) If a landlord fails to timely remit utility moneys collected from residents as required by subsection (1) of this section, such utility may, after written demand therefor is served upon the landlord, require the landlord to deposit an amount equal to the average daily charge for the usage of such utility service for the preceding twelve months multiplied by the sum of ninety.
+(3) Any utility which prevails in an action brought to enforce the provisions of this section shall be entitled to an award of its reasonable attorney fees and court costs.
+C.R.S. § 38-12-212.7
+
+L. 91: Entire section added, p. 1679, § 1, effective April 19.
+
+Colo. Rev. Stat. § 38-12-212.9
+Current through 11/5/2024 election
+Section 38-12-212.9 - Language access requirements
+(1) Except as otherwise provided in this part 2 or part 11 or 14 of this article 12, a landlord shall provide any notice, disclosure, or other communication that a landlord is required to provide to a resident pursuant to this part 2 or part 11 or 14 of this article 12, in English and Spanish. At any time, a resident may request that a landlord provide a notice, disclosure, or other communication in one additional language, other than English or Spanish, spoken by the resident. If a landlord receives a request to provide a notice, disclosure, or communication in one additional language other than English or Spanish, the landlord shall provide any subsequent notices, disclosures, or communications required pursuant to this part 2 or part 11 or 14 of this article 12 to the resident in the requested language. A landlord may provide a translation pursuant to this section virtually or through the use of an online translation program, including programs that may be published by the division, so long as the translated written notice, disclosure, or communication satisfies all applicable legal requirements.
+(2) At any time, a resident may request that a landlord provide a written notice, disclosure, or other communication verbally in English one time to the resident in addition to providing the resident with a written notice, disclosure, or other communication. If the landlord receives a request to provide a notice, disclosure, or other communication verbally, the landlord shall read the notice, disclosure, or other communication aloud to the resident within seventy-two hours of the resident making the request. To satisfy the requirement of this subsection (2), a landlord may also provide an audio or video recording of the notice, disclosure, or other communication being read aloud.
+(3) A landlord shall ensure that any notice, disclosure, or other communication required pursuant to this part 2 or part 11 or 14 of this article 12 is written in clear and plain language and includes all information reasonably necessary for the resident to understand the resident's rights and responsibilities. A translated notice, disclosure, or other communication must accurately convey the meaning of the original English notice, disclosure, or other communication. Each notice, disclosure, or other communication, regardless of the language, must be clear and unambiguous to ensure that it is easily understood by all park residents. A landlord shall make reasonable efforts to provide a notice, disclosure, or other communication in the simplest language practicable to convey the required message.
+(4) A resident may respond in English or Spanish to any notice, disclosure, or other communication provided by a landlord. A resident who has requested that a landlord provide a notice, disclosure, or other communication in a language other than English or Spanish may respond to the notice, disclosure, or other communication in the requested language.
+(5) A resident may request that a landlord provide an interpreter in one language in addition to English and Spanish that the resident uses for any non-written notice, disclosure, or other communication with residents, including in a meeting required pursuant to section 38-12-206. A landlord shall provide an interpreter in the requested language and may provide the interpretation in person or virtually through an interpretation service, including a virtual or remote language line that provides live interpretation by a trained interpreter. Non-written language includes American sign language.
+C.R.S. § 38-12-212.9
+
+Added by 2024 Ch. 399,§ 11, eff. 6/30/2024.
+
+Colo. Rev. Stat. § 38-12-213
+Current through 11/5/2024 election
+Section 38-12-213 - Rental agreement - disclosure of terms in writing - prohibited provisions
+(1) The management shall adequately disclose the terms and conditions of a tenancy in writing in a rental agreement in English, or upon request in both English and Spanish, to any prospective home owner before the rental or occupancy of a mobile home space or lot. The disclosures must include:
+(a) The term of the tenancy and the amount of rent therefor, subject to the requirements of subsection (4) of this section;
+(b) The day rental payment is due and payable;
+(c) The day when unpaid rent is considered in default for the purpose of establishing a late fee, which day may not be less than ten calendar days after the day rent is due and payable;
+(d) The rules and regulations of the park then in effect;
+(e) The name and mailing address where a manager's decision can be appealed; and
+(f) All charges to the home owner other than rent, including late fees.
+(2) Said rental agreement shall be signed by both the management and the home owner, and each party shall receive a copy thereof.
+(3) The management and the home owner may include in a rental agreement terms and conditions not prohibited by this part 2.
+(4) The terms of tenancy shall be specified in a written rental agreement subject to the following conditions:
+(a) The standard rental agreement shall be for a month-to-month tenancy.
+(b) Upon written request by the home owner to the landlord, the landlord shall allow a rental agreement for a fixed tenancy of not less than one year if the home owner is current on all rent payments and is not in violation of the terms of the then-current rental agreement; except that an initial rental agreement for a fixed tenancy may be for less than one year in order to ensure conformity with a standard anniversary date. A landlord shall not evict or otherwise penalize a home owner for requesting a rental agreement for a fixed period.
+(c) A landlord may, in the landlord's discretion, allow a lease for a fixed period of longer than one year. In such circumstances, the requirements of paragraphs (a) and (b) of this subsection (4) shall not apply.
+(5) A rental agreement shall not include any provision:
+(a) By which a home owner waives any rights created by this part 2 or part 11 of this article 12;
+(b) That requires a home owner to agree to a possessory lien;
+(b.5) That requires a home owner to waive the opportunity to purchase the park allowed under section 38-12-217;
+(c) That binds a home owner to arbitration in lieu of a civil trial; or
+(d) That authorizes a third person to confess judgment on a claim that arises from the rental agreement, this part 2, or part 11 of this article 12.
+(6) Any provision of a rental agreement that is prohibited by subsection (5) of this section is against public policy, unenforceable, and void.
+(7) It is a violation of this part 2 for the management to require a home owner to sign a new lease or agreement in violation of this section or to mislead a home owner about the home owner's obligation to sign a new lease or agreement.
+C.R.S. § 38-12-213
+
+Amended by 2024 Ch. 399,§ 12, eff. 6/30/2024.
+Amended by 2022 Ch. 255, § 14, eff. 10/1/2022.
+Amended by 2021 Ch. 349, § 10, eff. 10/1/2021.
+Amended by 2021 Ch. 423, § 37, eff. 7/2/2021.
+Amended by 2020 Ch. 195, § 12, eff. 6/30/2020.
+L. 81: Entire section added, p. 1815, § 9, effective June 9. L. 87: IP(1), (1)(f), (2), and (3) amended, p. 1314, § 12, effective May 8. L. 2005: (1)(a) amended and (4) added, p. 109, § 2, effective August 8. L. 2020: (5) and (6) added, (HB 20-1196), ch. 924, p. 924, § 12, effective June 30. L. 2021: (6) amended, (SB 21-266), ch. 2806, p. 2806, § 37, effective July 2; IP(1), (1)(c), (1)(e), and (1)(f) amended, (SB 21-173), ch. 2268, p. 2268, § 10, effective October 1.
+2022 Ch. 255, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+2021 Ch. 349, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+
+Colo. Rev. Stat. § 38-12-214
+Current through 11/5/2024 election
+Section 38-12-214 - Rules and regulations - amendments - notice - complaints
+(1) The management shall adopt written rules and regulations concerning residents' or home owners' use and occupancy of the premises. The management shall provide a resident or home owner with a written copy of the adopted rules and regulations in English and Spanish. Except as otherwise provided in this section, such rules and regulations are enforceable against a resident or home owner only if:
+(a) Their purpose is to promote the safety or welfare of the home owners, protect and preserve the premises from abuse, or make a fair distribution of services and facilities held out for the home owners generally;
+(b) They are reasonably related to a legitimate purpose, for which they are adopted;
+(c) They are not arbitrary, capricious, unreasonable, retaliatory, or discriminatory in nature;
+(d) They are sufficiently explicit in prohibition, direction, or limitation of each home owner's conduct to fairly inform each home owner of what the home owner must do or not do to comply; and
+(e) They are established in the rental agreement at the inception of the tenancy, amended subsequently with the written consent of the home owner, or, except as described in subsection (2) of this section, amended subsequently without the written consent of the home owner after the management has provided written notice, in both English and Spanish, of the amendments to the home owner in a common area and in a conspicuous place on each home owner's mobile home lot at least sixty days before the amendments become effective, and, if applicable, enforced in compliance with subsection (3) of this section.
+(2)
+(a) When a mobile home or any accessory building or structure is owned by a person other than the owner of the mobile home park in which the mobile home is located, the mobile home and the accessory building or structure are each a separate unit of ownership. The accessory building or structure are each presumed to be owned by the owner of the mobile home unless there is a written agreement establishing ownership by another person.
+(b) If a rule or regulation requires a home owner to incur a cost or imposes restrictions or requirements on the home owner's right to control what happens in or to the mobile home or any accessory building or structure, the rule or regulation is presumed unreasonable pursuant to subsection (1)(c) of this section unless management demonstrates that the rule or regulation:
+(I) Is strictly necessary to protect the health and safety of park residents and the rule or regulation provides the protection at the lowest expense to home owners as is reasonably possible;
+(II) Is strictly necessary to comply with or enforce a federal, state, or local government requirement, including local nuisance laws enforced for the welfare of other residents;
+(III) Is voluntarily agreed to by the home owner, without coercion or misrepresentation by management, in which case the rule or regulation is only binding upon home owners who have communicated their written consent to the rule or regulation; or
+(IV) In a mobile home park managed by home owners, was established by the managing home owner organization in accordance with the organization's bylaws and more than fifty percent of the home owners are members of the organization.
+(c)
+(I) Rules or regulations that impose restrictions or requirements on the home owner's right to control what happens in or to a home owner's mobile home or any accessory building or structure include, but are not limited to, those that impose requirements related to the following:
+(A) The structure and appearance of the mobile home, building, or structure, including rules or regulations requiring aesthetic improvements;
+(B) Who may visit the mobile home, building, or structure, or who may reside at the mobile home;
+(C) Lawful activities taking place in the mobile home, building, or structure; and
+(D) Resident occupancy limits that are stricter than applicable federal, state, and local occupancy laws.
+(II) This subsection (2)(c) does not preclude a landlord from conducting any lawful screening of a rental application.
+(d) Beginning on June 4, 2024, any notice to quit served pursuant to section 38-12-204.3 or any complaint to terminate tenancy pursuant to section 38-12-203 (1)(c) shall include a statement that specifically sets forth the basis for enforceability pursuant to subsection (1) of this section and section 38-12-203 (1)(c), including the specific purpose required pursuant to subsection (1)(a) of this section and how the rule or regulation is reasonably related to the stated purpose as required pursuant to subsection (1)(b) of this section. A general statement that a rule or regulation promotes safety or welfare is not sufficient to meet the requirements of this subsection (2)(d) or section 38-12-203 (1)(c).
+(e) The division is authorized to promulgate rules that:
+(I) Specify additional park rules and regulations that are not strictly necessary pursuant to this section and are unenforceable or presumptively unenforceable; and
+(II) Specify additional park rules and regulations that are strictly necessary pursuant to this section and are enforceable or presumptively enforceable.
+(2.5)
+(a) Subsection (2) of this section does not prohibit the management from requiring compliance by a new home owner with park rules and regulations that were not enforceable against the previous home owner after the sale or transfer of a mobile home or accessory building or structure as described in subsection (2.5)(b) of this section if the rules or regulations comply with this section and have been duly noticed, in both English and Spanish, to all home owners and residents, including the seller, pursuant to subsection (1)(e) of this section; except that, as used in this subsection (2.5), "transfer" does not include a transfer of ownership pursuant to death or divorce or a transfer of ownership to a new co-owner who is an immediate family member, spouse, or domestic partner of the home owner.
+(b) The management shall not require a home owner selling a mobile home or accessory building or structure to ensure that the mobile home or accessory building or structure complies with any rules or regulations by the closing date of the sale or to bear the costs of compliance with any such rules or regulations. If the management requires all prospective buyers to comply with such rules and regulations as a condition of gaining tenancy in the park, the management shall promptly provide a written list of items for which the management requires action to the seller upon receiving notice that the mobile home is for sale. The seller shall provide the list to all prospective buyers, and the management shall provide the list to the buyer upon receiving an application for tenancy. The management shall allow a reasonable amount of time after closing for the buyer to bring the mobile home or accessory building or structure into compliance, which must be at least thirty days from the closing date. During the period in which the buyer may bring the mobile home or accessory building or structure into compliance, the management shall provide the buyer with reasonable access to the mobile home or accessory building or structure, including access to the mobile home or accessory building or structure for the purpose of storing belongings until the buyer is able to reside in the mobile home.
+(2.7)
+(a) Notwithstanding any rental agreement, the management shall not interfere with a home owner's right to sell a mobile home or accessory building or structure, in place or otherwise, to a buyer of the home owner's choosing, regardless of the age of the home, except as necessary for the management to ensure:
+(I) Compliance with park-wide affordability restrictions, including requirements for owner occupancy;
+(II) The financial ability of the home buyer to comply with the buyer's obligations as a new tenant pursuant to subsection (2.7)(c) of this section;
+(III) Compliance with applicable local, state, or federal law; and
+(IV) The absence of a home buyer's relevant criminal history that would indicate a reasonable chance of risk to other residents in accordance with section 38-12-904 (1)(b).
+(b) A provision in a rental agreement that limits or restricts a home owner's right to sell a mobile home or accessory building or structure to a buyer of the home owner's choosing other than as allowed by this subsection (2.7) is unenforceable.
+(c) A buyer demonstrates the buyer's financial ability to comply with the provisions of subsection (2.7)(a)(II) of this section if the buyer can demonstrate that:
+(I) The buyer has a monthly income that is at least two hundred percent of the seller's current monthly lot rent for one month; or
+(II) The buyer has other cash assets that are at least two hundred percent of the seller's current monthly lot rent for six months.
+(3)
+(a) If the management provides each home owner written notice, in both English and Spanish, of the management's intent to add or amend any written rule or regulation as described in subsection (1)(e) of this section, or if the management indicates that it will begin enforcing a rule or regulation that was previously unenforced, a home owner may file a complaint challenging the rule, regulation, or amendment pursuant to section 38-12-1105 within sixty days after receiving the notice. If a home owner files such a complaint and the new or amended rule or regulation will increase a cost to the home owner in an amount that equals or exceeds ten percent of the home owner's monthly rent obligation under the rental agreement, the management shall not enforce the rule, regulation, or amendment unless and until the parties reach an agreement concerning the rule, regulation, or amendment or the dispute resolution process concludes and the division issues a written determination, pursuant to section 38-12-1105 (4), that the rule, regulation, or amendment does not constitute a violation of this part 2 and may be enforced. Notwithstanding any provision of part 11 of this article 12 to the contrary, as part of the complaint process described in section 38-12-1105, the management has the burden of establishing that the rule, regulation, or amendment satisfies the requirements described in subsections (1) and (2) of this section.
+(b) Nothing in this section precludes a home owner from filing a complaint, pursuant to section 38-12-1105, concerning a rule or regulation at any time after the rule or regulation takes effect.
+(4) Rules and regulations that concern recreational facilities may be amended at the reasonable discretion of the management.
+C.R.S. § 38-12-214
+
+Amended by 2024 Ch. 399,§ 13, eff. 6/4/2024.
+Amended by 2022 Ch. 255, § 15, eff. 10/1/2022.
+Amended by 2020 Ch. 195, § 13, eff. 6/30/2020.
+L. 81: Entire section added, p. 1816, § 9, effective June 9. L. 87: IP(1), (1)(a), and (1)(d) amended, p. 1315, § 13, effective May 8. L. 92: (1)(c) amended, p. 1128, § 13, effective July 1. L. 2020: Entire section amended, (HB 20-1196), ch. 924, p. 924, § 13, effective June 30.
+2022 Ch. 255, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+
+
+Colo. Rev. Stat. § 38-12-215
+Current through 11/5/2024 election
+Section 38-12-215 - New developments and parks - rental of sites to dealers authorized
+(1) The management of a new mobile home park or manufactured housing community development may require as a condition of leasing a mobile home site or manufactured home site for the first time such site is offered for lease that the prospective lessee has purchased a mobile home or manufactured home from a particular seller or from any one of a particular group of sellers.
+(2) A licensed mobile home dealer or a manufactured home dealer may, by contract with the management of a new mobile home park or manufactured housing community development, be granted the exclusive right to first-time rental of one or more mobile home sites or manufactured home sites.
+C.R.S. § 38-12-215
+
+L. 81: Entire section added, p. 1816, § 9, effective June 9.
+
+Colo. Rev. Stat. § 38-12-216
+Current through 11/5/2024 election
+Section 38-12-216 - Mediation, when permitted - court actions
+(1) In any controversy between the management and a home owner of a mobile home park arising out of the provisions of this part 2, except for the nonpayment of rent or in cases in which the health or safety of other home owners is in imminent danger, such controversy may be submitted to mediation by either party prior to the filing of a forcible entry and detainer lawsuit upon agreement of the parties.
+(2) The agreement, if one is reached, shall be presented to the court as a stipulation. Either party to the mediation may terminate the mediation process at any time without prejudice.
+(3) If either party subsequently violates the stipulation, the other party may apply immediately to the court for relief.
+C.R.S. § 38-12-216
+
+L. 81: Entire section added, p. 1815, § 9, effective June 9; (2) amended, p. 2034, § 54, effective July 14. L. 87: (1) amended, p. 1315, § 14, effective May 8.
+
+Colo. Rev. Stat. § 38-12-217
+Current through 11/5/2024 election
+Section 38-12-217 - Notice of change of use - notice of sale or closure of park - opportunity for home owners to purchase - procedures - exemptions - enforcement - private right of action - definitions
+(1) Except as specified in subsection (12) of this section:
+(a)
+(I) A landlord shall provide notice of the landlord's intent to sell the park within fourteen days of a triggering event demonstrating the landlord's intent to sell. The notice must be given in accordance with the requirements of subsection (2) of this section.
+(II) A triggering event requiring notice under this subsection (1)(a) includes any time the landlord:
+(A) Signs a contract with a real estate broker or brokerage firm to list the park for sale or to sell or transfer the park;
+(B) Signs a letter of intent, option to sell or buy, or other conditional written agreement with a potential buyer for the sale or transfer of the park, which includes the estimated price, terms, and conditions of the proposed sale or transfer, even if such price, terms, or conditions are subject to change;
+(C) Signs a contract with a potential buyer's real estate broker or brokerage firm related to the potential sale or transfer of the park;
+(D) Accepts an earnest money promissory note or deposit from a potential buyer for the sale or transfer of the park;
+(E) Responds to a potential buyer's due diligence request for the park;
+(F) Provides a signed property disclosure form for the park to a potential buyer;
+(G) Lists the park for sale;
+(H) Makes a conditional acceptance of an offer for the sale or transfer of the park;
+(I) Takes any other action demonstrating an intent to sell the park; or
+(J) Receives a notice of election and demand or lis pendens related to foreclosure of the park pursuant to part 1 of article 38 of this title 38 or a notice that a certificate of levy has been filed related to the park pursuant to section 13-56-101.
+(b) A landlord shall provide notice of the landlord's intent to change the use of the land comprising the mobile home park in accordance with the requirements of subsection (2) of this section at least twelve months before the change in use will occur.
+(c) No earlier than ninety days after giving the notice required by subsection (1)(a) of this section, a landlord may post information in a public space in the mobile home park describing the method for providing a signed writing to the mobile home park owner related to the opportunity to purchase. The posting must include standard forms created by the department of local affairs related to the opportunity to purchase and the rights of mobile home park owners related to the opportunity to purchase, including a standardized form developed by the department of local affairs for the landlord to use to request the signatures of home owners who decline to participate in efforts to purchase a community. If, no earlier than ninety days after a landlord provides the notice required by subsection (1)(a) of this section, at least fifty percent of the home owners who reside in the park provide signed writings to the landlord declining to participate in purchasing the park, then the opportunity to purchase provided by subsection (4) of this section terminates even if the one-hundred-twenty-day period provided for in subsection (4)(a) of this section has not yet elapsed.
+(d) A landlord shall not solicit or request a home owner's intention or a signed writing related to the opportunity to purchase during the initial ninety days after giving notice pursuant to subsection (1)(a) of this section. During the time period for considering an opportunity to purchase, a landlord shall not attempt to coerce, threaten, or intimidate a home owner or provide any financial or in-kind incentives to a home owner to influence the home owner's vote or decision and shall not take retaliatory action against a home owner after the home owner's vote or decision. Any complaints alleging violation of this subsection (1) may be resolved under part 11 of this article 12 and subsection (15) of this section.
+(2)Notice - requirements.
+(a) To provide notice as required by subsection (1)(a) or (1)(b) of this section, the landlord shall mail the notice in both English and Spanish by certified mail to:
+(I) Each home owner, using the most recent address of the home owner, and shall post a copy of the notice in a conspicuous place on the mobile home or at the main point of entry to the lot;
+(II) The municipality or, if the park is in an unincorporated area, the county within which the park is located;
+(III) The division of housing in the department of local affairs; and
+(IV) Each home owners' association, residents' association, or similar body that represents the residents of the park.
+(b) In addition to mailing the notice, the landlord shall:
+(I) Provide the notice in both English and Spanish by e-mail to each resident who has an e-mail address on file with the landlord; and
+(II)
+(A) Post the notice in both English and Spanish in a clearly visible location in common areas of the mobile home park, including any community hall or recreation hall. The notice must remain publicly posted for a period of at least one hundred twenty days from the date it is posted or until the opportunity to purchase has expired.
+(B) The landlord shall make a good faith effort to comply with the notice requirement in subsection (2)(b)(II)(A) of this section. A good faith effort by the landlord to comply with the notice requirement in subsection (2)(b)(II)(A) of this section will not render a sale of a park to be out of compliance with this section.
+(3)Contents of notice. The notice given pursuant to subsection (1)(a) of this section must include notice of home owners' rights and remedies under this section. If the triggering event involves a potential sale, the notice must also include a description of the property to be purchased; the price, terms, and conditions of an acceptable offer the landlord has received to sell the mobile home park or the price or terms and conditions for which the landlord intends to sell the park; and any other terms or conditions which, if not met, would be sufficient grounds, in the landlord's discretion, to reject an offer from a group of home owners or their assignees. The price, terms, and conditions stated in the notice must be universal and applicable to all potential buyers and must not be specific to and prohibitive of a group or association of home owners or their assignees making a successful offer to purchase the park. The information regarding the proposed sale and the price, terms, and conditions of an acceptable offer may be shared for the purposes of evaluating or obtaining financing for the prospective transaction, but all persons who receive the information shall otherwise keep it confidential if the landlord or the landlord's agent so requests.
+(4)Offer to purchase - who may submit - time limits.
+(a) A group or association of home owners or their assignees have one hundred twenty days after the date that the landlord mails a notice required by subsection (1)(a) of this section to:
+(I) Submit to the landlord a proposed purchase and sale agreement and obtain an offer for any necessary financing or guarantees; or
+(II) Submit to the landlord an assignment agreement pursuant to subsection (8) of this section.
+(b) Notwithstanding subsection (4)(a) of this section, if a foreclosure sale of the park is scheduled for less than one hundred twenty days after the landlord mails a notice required by subsection (1)(a) of this section, the opportunity granted by subsection (4)(a) of this section terminates on the date of the foreclosure sale.
+(c) A group or association of home owners or their assignees has the opportunity granted by subsection (4)(a) of this section if the group or association of home owners or their assignees have the approval of at least fifty-one percent of the home owners in the park. The group or association of home owners or their assignees must submit to the landlord reasonable evidence that the home owners of at least fifty-one percent of the occupied homes in the park have approved the group or association purchasing the park.
+(5)Landlord's duty to consider offer. A landlord that has given notice as required by subsection (1)(a) of this section shall:
+(a) Provide documents, data, and other information in response to reasonable requests for information from a group or association of home owners or their assignees participating in the opportunity to purchase that would enable them to prepare an offer. The documents, data, and other information provided may be shared for the purposes of evaluating or obtaining financing for the prospective transaction, but all persons who receive the information shall otherwise keep it confidential if the landlord or the landlord's agent so requests.
+(b)
+(I) Negotiate in good faith with a group or association of home owners or their assignees.
+(II) For purposes of this subsection (5)(b), negotiating in good faith includes, but is not limited to, evaluating an offer to purchase from a group of home owners or their assignees without consideration of the time period for closing, the type of financing or payment method, whether or not the offer is contingent on financing or payment method or whether or not the offer is contingent on financing, an appraisal, or title work; and providing a written response within seven calendar days of receiving an offer from a group of home owners or their assignees. The written response must accept or reject the offer, and if the offer is rejected, must state:
+(A) The current price, terms, or conditions of an acceptable offer that the landlord has received to sell the mobile home park if the price, terms, or conditions have changed since the landlord gave notice to the home owners pursuant to subsection (3) of this section; and
+(B) Why the landlord is rejecting the offer from a group of home owners and what terms and conditions must be included in a subsequent offer for the landlord to potentially accept it.
+(III) The price, terms, and conditions of an acceptable offer stated in the response must be universal and applicable to all potential buyers and must not be specific to and prohibitive of a group or association of home owners or their assignees making a successful offer to purchase the park.
+(c) Schedule a closing date for a purchase and sale agreement.
+(6)Expiration of opportunity to purchase.
+(a) If the one-hundred-twenty-day period provided for in subsection (4)(a) of this section elapses and a group or association of home owners or their assignees have not submitted a proposed purchase and sale agreement or obtained a financial commitment, the group's or association's opportunities provided by this section terminate.
+(b) A landlord shall give a group or association of home owners or their assignees an additional one hundred twenty days after the one-hundred-twenty-day period provided by subsection (4)(a) of this section to close on the purchase of the mobile home park.
+(7)Extension or tolling of time.
+(a) The one-hundred-twenty-day periods described in subsections (4)(a) and (6)(b) of this section may be extended by written agreement between the landlord and the group or association of home owners or their assignees.
+(b) The group or association of home owners or their assignees are entitled to tolling of the time periods described in subsections (4)(a) and (6)(b) of this section in any of the following circumstances:
+(I) If there is a reasonable delay in obtaining financing or a required inspection or survey of the land that is outside the control of the group or association of home owners or their assignees, the time period is tolled for the duration of the delay;
+(II) If the group or association of home owners or their assignee files a nonfrivolous complaint with the department of local affairs alleging a violation of this section, the time period is tolled until the department of local affairs issues a written notice of violation or notice of nonviolation that has become a final agency order determining whether a violation has occurred or the parties reach a resolution by signing a settlement agreement approved by the department of local affairs; and
+(III) If the group or association of home owners has attempted to assign their rights pursuant to subsection (8) of this section, the time period is tolled from the time the group or association makes the offer of assignment until the potential assignee either confirms in writing that the offer is rejected or a written assignment contract is executed; except that the time period shall not be tolled for more than ninety days pursuant to this subsection (7)(b)(III).
+(8)Assignment of right to purchase.
+(a) A group or association of home owners or their assignees that have the opportunity to purchase under subsection (4) of this section may assign their purchase right to a local government, tribal government, housing authority, nonprofit with expertise related to housing, or the state or an agency of the state for the purpose of continuing the use of the park.
+(b)
+(I) If a group or association of home owners or their assignees comprising more than fifty percent of home owners in a park choose to assign their rights to a public entity under this subsection (8), the home owners or their assignees shall enter into a written assignment contract with the public entity. The assignment contract must include the terms and conditions of the assignment and for how the park will be operated if the public entity purchases the park. The assignment contract must provide that the terms and conditions are applicable to any designee selected by the public entity pursuant to subsection (8)(b)(II) of this section. The terms and conditions may include, but are not limited to:
+(A) Any deed restrictions that may be required or permitted regarding the lots or the houses in the park;
+(B) Any restrictions on rent or fee increases that apply if the public entity purchases the park;
+(C) Any required conditions, such as the required demonstration of approval from home owners, for redeveloping or changing the use of some or all of the park;
+(D) A management agreement for how the park will be operated if the public entity purchases the park;
+(E) Any changes to park rules or regulations that apply if the public entity purchases the park; and
+(F) Any agreement between the parties regarding the transfer of statutory responsibilities associated with managing the park, and any limitations or waivers of liability.
+(II) A public entity shall only exercise its right of first refusal for the purpose of preserving the mobile home park as long-term affordable housing. The public entity may designate a housing authority or other political subdivision to purchase the park pursuant to the public entity's right of first refusal for this purpose if the option for a designation is expressly agreed to in the assignment contract.
+(III) The public entity or its designee shall promptly provide notice of the assignment contract to the landlord.
+(c)
+(I) If a landlord receives notice that a group or association of home owners has entered an assignment contract with a public entity pursuant to subsection (8)(b) of this section, the landlord shall provide a right of first refusal to the public entity or its designee. Any purchase and sale agreement entered into by the landlord must be contingent upon the right of first refusal of the public entity or its designee to purchase the mobile home park.
+(II) Within thirty days after receiving notice of an assignment contract, the landlord shall provide the public entity or its designee with the terms upon which the landlord would accept an offer to sell the park or a contingent purchase and sale agreement that is effective upon its execution. The public entity has one hundred twenty days from the date the public entity or its designee receives the terms or contingent purchase and sale agreement to notify the landlord of the public entity's intent to purchase the mobile home park or of the public entity's intent to facilitate the purchase of the mobile home park by its designee.
+(III) The landlord shall sell the mobile home park to the public entity or its designee if, within the one-hundred-twenty-day period, the public entity or its designee:
+(A) Notifies the landlord of its intent to purchase the park or facilitate the purchase of the park by its designee;
+(B) Accepts the contingent purchase and sale agreement provided by the landlord or offers the landlord terms that are economically substantially identical to the terms of the contingent purchase and sale agreement or to the terms the landlord provided pursuant to subsection (8)(c)(II) of this section; and
+(C) Commits to close within one hundred twenty days from the date the public entity or its designee and the owner sign a purchase and sale agreement.
+(IV) For the purpose of determining whether the terms of an offer are economically substantially identical under subsection (8)(c)(III)(B) of this section, it is immaterial how the offer would be financed.
+(d) A landlord shall not take any action that would preclude the public entity or its designee from succeeding to the rights of and assuming the obligations of the designee of the terms of the contingency purchase and sale agreement or negotiating with the landlord for the purchase of the mobile home park during the notice periods identified in this section.
+(e) In addition to any other times, during the notice periods identified in this section, a public entity may pursue preservation of the mobile home park as affordable housing through negotiation for purchase or through condemnation.
+(f) As used in this subsection (8), "public entity" means the state, an agency of the state, a local government, a tribal government, or any political subdivision of the state, a local government, or a tribal government.
+(9)Independence of time limits and notice provisions.
+(a) Except as provided in subsection (9)(b) of this section, each occurrence of a triggering event listed in subsection (1)(a) of this section creates an independent, one-hundred-twenty-day opportunity to purchase for the group or association of home owners or their assignees. If a one-hundred-twenty-day opportunity to purchase is in effect and a new triggering event occurs, the ongoing one-hundred-twenty-day time period terminates and a new one-hundred-twenty-day time period begins on the latest date on which the landlord gives notice, as required by subsection (1)(a) or (2) of this section, of the new triggering event.
+(b) A landlord is not required to provide a new or subsequent notice of intent to sell for each triggering event listed in subsection (1)(a) of this section if:
+(I)
+(A) The new demonstration of intent occurs within sixty calendar days of the certified mailing of the most recent notice under subsection (2) of this section; and
+(B) There are no material changes to the identity of a potential buyer if the landlord has made a conditional agreement with a buyer; to the time when the park is listed for sale; or to the price, terms, and conditions of an acceptable offer the landlord has received to sell the mobile home park or for which the landlord intends to sell the park, which were included in the most recent notice provided pursuant to subsection (1)(a) of this section; or
+(II) The landlord is only considering an offer from a group or association of home owners who reside in the park; except that a landlord shall provide a new or subsequent notice if at any point there is a new triggering event specified in subsection (1)(a) of this section involving a different party.
+(b.5) Any material change to the price, terms, and conditions of an acceptable offer the landlord has received to sell the mobile home park or for which the landlord intends to sell the park is considered a new triggering event, requiring a new notice pursuant to subsection (1)(a) of this section and creating a new one-hundred-twenty-day time period.
+(c) A notice required under this section is in addition to, and does not substitute for or affect, any other notice requirement under this part 2.
+(10) A landlord shall not make a final, unconditional acceptance of any offer for the sale or transfer of the park until:
+(a) The landlord has considered an offer made by a group or association of home owners or their assignees pursuant to subsections (4), (5), and (8) of this section; or
+(b) The applicable period for exercise of the opportunity to purchase has expired pursuant to subsection (6) of this section.
+(11)Failure to complete transaction - affidavit of compliance. If the group or association of home owners or their assignees are not the successful purchaser of the park, the landlord shall provide evidence of compliance with this section by filing an affidavit of compliance with:
+(a) The municipality or, if the park is in an unincorporated area, the county, within which the park is located; and
+(b) The division of housing in the department of local affairs.
+(12)Exemptions from notice requirement. Notwithstanding any provision to the contrary, a landlord is not required to give notice or extend an opportunity to purchase to a group or association of home owners or their assignees if the sale, transfer, or conveyance of the mobile home park is:
+(a) To a spouse, a partner in a civil union, or a parent, sibling, aunt, uncle, first cousin, or legally recognized child of the landlord;
+(b) To a trust the beneficiaries of which are the spouse, partner in a civil union, or legally recognized children of the landlord;
+(c)
+(I) To a business entity or trust that the transferring business entity or trust controls, directly or indirectly.
+(II) As used in this subsection (12)(c), "controls" means:
+(A) Owns entirely as a subsidiary;
+(B) Owns a majority interest in; or
+(C) Owns as large an ownership interest as any other owner, with a minimum ownership interest of twenty-five percent.
+(d) To a family member who is included within the line of intestate succession if the landlord dies intestate;
+(e) Between joint tenants or tenants in common; or
+(f) Pursuant to eminent domain.
+(13) To qualify for an exemption under subsection (12) of this section, a transaction must not be made in bad faith, must be made for a legitimate business purpose or a legitimate familial purpose consistent with the exemptions listed in subsection (12) of this section, and must not be made for the primary purpose of avoiding the opportunity-to-purchase provisions set forth in this section.
+(14)Triggering events not essential.
+(a) A group or association of home owners or their assignees may submit an offer to purchase to a landlord at any time, even if none of the events listed in subsection (1)(a) of this section has occurred.
+(b) The landlord shall consider in good faith any offer made in accordance with subsection (14)(a) of this section.
+(15)Penalties and enforcement.
+(a)
+(I) For purposes of this title 38, the rights accorded to home owners in this section are property interests.
+(II) Any title transferred subsequent to the triggering events in subsection (1)(a) of this section is defective unless the property interests of the home owners as set forth in subsection (15)(a)(I) of this section are secured or until an equitable remedy has been provided.
+(b) If the division of housing in the department of local affairs receives a complaint filed in accordance with part 11 of this article 12, the division shall investigate the alleged violations at the division's discretion, and, if appropriate, facilitate negotiations between the complainant and respondent in accordance with part 11 of this article 12. The division may also investigate possible violations of this section upon its own initiative. In addition to the remedies described in section 38-12-1105, the division may:
+(I) Impose a fine on the seller of the mobile home park in an amount not to exceed thirty percent of the sale or listing price of the park, whichever is greater, which the division shall distribute to the home owners in the park; or
+(II) File a civil action for injunctive or other relief in the district court for the district in which the park is located.
+(c) Subject to available resources, the attorney general may investigate possible violations of this section. If the attorney general makes a preliminary finding that a landlord or seller of a mobile home park substantially failed to comply with this section, and if continuation of the sale is likely to result in significant harm to the property interests of the home owners as set forth in subsection (15)(a)(II) of this section, the attorney general:
+(I) Shall inform the registrar of titles that the home owners with property interests under this section have an adverse claim on the property, which must be recorded on the certificate of title;
+(II) May, pursuant to section 38-36-131 and subject to the time limits of section 38-36-132, issue an order providing temporary injunctive relief to preserve the ownership status quo if the order is issued prior to a transfer of title or to revert the ownership to status quo ante subject to the limitations of article 41 of this title 38 if the order is issued after the transfer of title; and
+(III) May continue to investigate, negotiate, and, if appropriate, file a civil action to secure and enforce the rights of home owners under this section or to secure an equitable remedy on their behalf.
+(d) One or more home owners or their assignees may file a civil action alleging a violation of this section pursuant to section 38-12-220.
+C.R.S. § 38-12-217
+
+Amended by 2024 Ch. 399,§ 14, eff. 6/4/2024.
+Amended by 2022 Ch. 255, § 16, eff. 10/1/2022.
+Amended by 2020 Ch. 196, § 2, eff. 6/30/2020.
+L. 87: Entire section added, p. 1316, § 1, effective July 1. L. 2005: Entire section amended, p. 110, § 3, effective August 8. L. 2010: (1)(a) and (2) amended, (SB 10-156), ch. 1590, p. 1590, § 9, effective July 1. L. 2020: Entire section R&RE, (HB 20-1201), ch. 930, p. 930, § 2, effective June 30.
+Subsections IP(7)(b), (7)(b)(I), (7)(b)(II), and (7)(b)(III) were numbered as subsections IP(7)(b)(I), (7)(b)(I)(A), (7)(b)(I)(B), and (7)(b)(I)(C), respectively, in HB 22-1287 but were renumbered on revision for ease of location.
+
+2022 Ch. 255, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+For the legislative declaration in HB 20-1201, see section 1 of chapter 196, Session Laws of Colorado 2020.
+Colo. Rev. Stat. § 38-12-218
+Current through 11/5/2024 election
+Section 38-12-218 - Mobile home owners - right to form a cooperative
+One or more members of a homeowners' association may, at any time, form a cooperative for the purposes of offering to purchase or finance a mobile home park. A home owner shall be a member of the homeowners' association in order to participate in the cooperative, and participation in the cooperative shall be voluntary.
+
+C.R.S. § 38-12-218
+
+L. 2005: Entire section added, p. 110, § 4, effective August 8.
+
+Colo. Rev. Stat. § 38-12-219
+Current through 11/5/2024 election
+Section 38-12-219 - Home owners' and landlords' rights
+(1) Every home owner and landlord has a private right of action pursuant to section 38-12-203 or 38-12-220 to enforce the following:
+(a) Protection from abuse or disregard of state or local law by the landlord and home owners. Abuse or disregard of state or local law includes, but is not limited to:
+(I) Oral or written statements that threaten eviction of a home owner for violations that are not grounds to terminate a tenancy under section 38-12-203;
+(II) Misleading a home owner about the home owner's obligation to sign a new lease or agreement; or
+(III) Taking, possessing, or depriving a home owner or resident of his or her property or property rights without due process of law, including the opportunity for a judicial or administrative hearing.
+(b) Peaceful enjoyment of the home owner's mobile home space, free from unreasonable, arbitrary, or capricious rules and enforcement thereof; and
+(c) Tenancy free from harassment or frivolous lawsuits by the landlord and home owners.
+(2) The rights and obligations set forth in subsections (1)(a)(III), (1)(b), and (1)(c) of this section are not subject to enforcement through the "Mobile Home Park Act Dispute Resolution and Enforcement Program" created in part 11 of this article 12.
+C.R.S. § 38-12-219
+
+Amended by 2022 Ch. 255, § 17, eff. 10/1/2022.
+L. 2005: Entire section added, p. 110, § 4, effective August 8.
+2022 Ch. 255, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+
+Colo. Rev. Stat. § 38-12-220
+Current through 11/5/2024 election
+Section 38-12-220 - Private civil right of action
+(1) A home owner, a resident, an association of home owners, or a landlord or the assignee of a home owner, a resident, an association of home owners, or a landlord may file a civil action alleging a violation of a rental agreement or of this article 12 or part 10 of article 8 of title 25.
+(2) In any such action, except as described in section 38-12-105 (4):
+(a) A court may award economic damages, any penalties authorized by this article 12, and such equitable and injunctive relief as is appropriate to protect the rights of the parties;
+(b) A court may award reasonable attorney fees and costs to a prevailing party; except that, in an action brought by a resident, a home owner, or an association of home owners a court shall not:
+(I) Award attorney fees to a landlord unless the court finds that the resident, a home owner, or an association of home owners filed a complaint that was frivolous, notwithstanding any agreement to the contrary; or
+(II) Require a bond to be paid into the court as a condition of filing the suit.
+(3) In an action alleging a violation of section 38-12-217:
+(a) A court may issue an order suspending the one-hundred-twenty-day periods described in sections 38-12-217 (4)(a) and (6)(b), staying or canceling the closing of any pending transaction, or providing such other equitable relief as the court deems necessary to protect the rights of the home owners under section 38-12-217; and
+(b) If the court finds the landlord violated section 38-12-217, in addition to all other remedies, the court shall award a statutory penalty of no less than twenty thousand dollars but no more than the dollar amount calculated to be thirty percent of the purchase or listing price of the park. The penalty authorized by this subsection (3)(b) is in addition to any fine or penalty imposed by or awarded to the division of housing under section 38-12-217 (15).
+(4) If a court determines that a landlord violated section 38-12-204 (4) or (5), in addition to all other remedies, the court shall award a statutory penalty of no less than fifteen thousand dollars but no more than fifty thousand dollars to each aggrieved party for each violation that occurred.
+(5) Repealed.
+(6)
+(a) A court has the discretion to order, after a review of the filings or at any point thereafter, that a landlord cease from increasing rent on a mobile home park lot or issuing a notice of a rent increase if the landlord has been named as a defendant in any pending lawsuit or administrative complaint that alleges:
+(I) A violation of the "Mobile Home Park Act", part 2 of this article 12, or a violation related to a mobile home park located in Colorado;
+(II) A violation of the federal "Fair Housing Act", 42 U.S.C. sec. 3601 et seq., as amended, or the fair housing provisions in part 5 of article 34 of title 24; or
+(III) A violation related to unlawful price fixing, illegal practices concerning rent, fees, consumer protection laws, anti-trust protections, or financial impropriety related to a mobile home park.
+(b) A court shall order that a landlord refund a homeowner or a resident any rent that the court determines was unlawfully collected or retained in addition to any other remedies or damages authorized under law.
+C.R.S. § 38-12-220
+
+Amended by 2024 Ch. 490,§ 74, eff. 8/7/2024.
+Amended by 2024 Ch. 399,§ 15, eff. 6/4/2024.
+Amended by 2023 Ch. 376,§ 10, eff. 6/5/2023.
+Amended by 2022 Ch. 255, § 18, eff. 10/1/2022.
+Amended by 2021 Ch. 349, § 11, eff. 10/1/2021.
+L. 2005: Entire section added, p. 110, § 4, effective August 8. L. 2010: Entire section amended, (SB 10-156), ch. 1591, p. 1591, § 10, effective July 1. L. 2021: Entire section amended, (SB 21-173), ch. 2268, p. 2268, § 11, effective October 1.
+2024 Ch. 490, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+2022 Ch. 255, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+2021 Ch. 349, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+
+Colo. Rev. Stat. § 38-12-221
+Current through 11/5/2024 election
+Section 38-12-221 - Access by counties and municipalities
+Notwithstanding any other provision of law, upon a finding that the utilities in a park create a significant health or safety danger to park residents, the landlord of a mobile home park shall grant county or municipal officers or employees access to the mobile home park for the purposes of investigating or conducting a study related to such danger.
+
+C.R.S. § 38-12-221
+
+L. 2010: Entire section added, (SB 10-156), ch. 343, p. 1591, §11, effective July 1.
+
+Colo. Rev. Stat. § 38-12-222
+Current through 11/5/2024 election
+Section 38-12-222 - Residents' right to privacy
+(1)
+(a) The management shall respect the privacy of home owners. Except as otherwise provided by law, the management has no right of entry to a mobile home:
+(I) Without first obtaining the written consent of the home owner;
+(II) As described in subsection (2) of this section;
+(III) In the case of an emergency; or
+(IV) When the mobile home has been abandoned.
+(b) A home owner may revoke consent in writing at any time.
+(2) Unless otherwise prohibited by law, the management has a right of entry to mobile home space to fulfill the duties described in section 38-12-212.3 and to ensure compliance with applicable codes, statutes, ordinances, and administrative rules; the rental agreement; and the rules and regulations of the park. A landlord shall not enter in a manner that interferes with a resident's peaceful enjoyment of the mobile home space, as described in section 38-12-219 (1)(b), except in the case of an emergency.
+(3) Except when posting notices that are required by law or by a rental agreement, the management shall make a reasonable effort to notify a resident of the management's intention to enter the mobile home space at least seventy-two hours before entry. The notification must include the date and approximate time of the planned entry and must be delivered in a manner that is reasonably likely to be seen or heard by the resident in a timely manner.
+C.R.S. § 38-12-222
+
+Amended by 2024 Ch. 113,§ 12, eff. 4/19/2024.
+Amended by 2022 Ch. 255, § 19, eff. 10/1/2022.
+Added by 2020 Ch. 195, § 14, eff. 6/30/2020.
+L. 2020: Entire section added, (HB 20-1196), ch. 926, p. 926, § 14, effective June 30.
+2022 Ch. 255, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+For the legislative declaration in HB 24-1098, see section 1 of chapter 113, Session Laws of Colorado 2024.
+
+Colo. Rev. Stat. § 38-12-223
+Current through 11/5/2024 election
+Section 38-12-223 - Tenancy and park sale records
+(1) A landlord shall retain records for each home owner and resident throughout the home owner's or resident's tenancy and for twelve months after the tenancy ends, including documentation of:
+(a) Each rental agreement signed by the home owner or resident and the current or previous landlord;
+(b) The date and amount of any change in rent during the home owner's or resident's tenancy;
+(c) Written rules and regulations adopted by the current or previous landlord during the home owner's or resident's tenancy;
+(d) Each request from the home owner or resident relating to the following, including whether the landlord at the time approved or disapproved each request:
+(I) Guests, roommates, occupants, co-lessees, or sub-lessees;
+(II) Pets or service animals;
+(III) Accessory buildings or structures, including sheds and carports;
+(IV) Decks, fences, wheelchair ramps, or other structural changes to the home or lot;
+(V) Use of property related to parking of vehicles and use of vehicles; and
+(VI) A request from the resident or home owner that notices, disclosures, or other communications be provided in a language other than English;
+(e) A payment ledger that documents any rent or other type of payment from a resident or home owner, the amount paid, and the date the payment was made; and
+(f) Written notices, disclosures, or other communications provided to residents and home owners who have requested that the landlord provide notices, disclosures, or other communications in a language other than English.
+(2) A landlord who is selling or transferring a mobile home park shall maintain all records related to compliance with section 38-12-217 for a minimum of forty-eight months after any sale or transfer of a mobile home park is complete, including but not limited to:
+(a) Notices mailed or given to home owners pursuant to sections 38-12-217 (1) and (2);
+(b) Postings pursuant to section 38-12-217 (1)(c), including any forms for home owners to provide notice that they do not wish to participate in efforts to purchase the community;
+(c) Signed writings provided by home owners to the park owner declining to participate in purchasing the park pursuant to section 38-12-217 (1)(c);
+(d) Offers to purchase and proposed purchase and sale agreements submitted to the landlord by a group or association of home owners or their assignees pursuant to section 38-12-217 (4);
+(e) Requests for information from a group or association of home owners or their assignees participating in the opportunity to purchase and the landlord's responses to the requests for information pursuant to section 38-12-217 (5)(a); and
+(f) Offers to purchase and any conditional and unconditional purchase and sale agreements submitted by the successful purchaser of the mobile home park.
+(3) Upon the sale or transfer of a mobile home park, the seller must transfer all records maintained under subsection (1) of this section to the new owner.
+(4) If an issue arises as to a resident's right to any of the matters described in subsection (1)(c) or (2) of this section and the landlord has not retained adequate records for that resident, the landlord shall be presumed to have violated this part 2 unless the landlord demonstrates compliance by a preponderance of the evidence.
+(5) The division may promulgate rules concerning the implementation of this section, including requirements concerning:
+(a) How a person may access or obtain copies of records retained pursuant to this section and any restrictions on who may access records retained pursuant to this section;
+(b) What fees or costs, if any, may be imposed for obtaining copies of records retained pursuant to this section;
+(c) Confidentiality protections for personally identifying information included in records retained pursuant to this section;
+(d) Secure destruction of records once the period of retention has passed; and
+(e) Penalties for violations of this section.
+(5.5) Notwithstanding the provisions of subsection (5) of this section, at any point during a tenancy or twelve months after a tenancy has ended, a resident may request a copy of their payment ledger and the landlord shall provide a copy within ten calendar days.
+(6) If a current or former management or landlord violates this section, a home owner may file a complaint pursuant to section 38-12-1105. On and after July 1, 2024, or earlier if allowed by the division, a resident who does not own a mobile home in the park, a local government, or a nonprofit may file such a complaint.
+C.R.S. § 38-12-223
+
+Amended by 2024 Ch. 399,§ 16, eff. 6/30/2024.
+Added by 2022 Ch. 255, § 20, eff. 10/1/2022.
+2022 Ch. 255, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+
+Colo. Rev. Stat. § 38-12-224
+Current through 11/5/2024 election
+Section 38-12-224 - Broadband internet service providers' access to property
+A provider may access and install any necessary broadband facilities to provide broadband service to any mobile home in a mobile home park pursuant to part 5 of article 27 of title 29. A property owner of a mobile home park is granted all rights afforded to a property owner in accordance with part 5 of article 27 of title 29.
+
+C.R.S. § 38-12-224
+
+Added by 2024 Ch. 218,§ 2, eff. 8/7/2024.
+2024 Ch. 218, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+

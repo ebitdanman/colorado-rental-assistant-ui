@@ -1,0 +1,70 @@
+Colo. Rev. Stat. § 38-12-505
+
+Current through 11/5/2024 election
+Section 38-12-505 - Uninhabitable residential premises - habitability procedures - rules - definition
+(1) A residential premises is deemed uninhabitable if:
+(a) There is mold that is associated with dampness, or there is any other condition causing the residential premises to be damp, which condition, if not remedied, would materially interfere with the health or safety of the tenant, excluding the presence of mold that is minor and found on surfaces that can accumulate moisture as part of their proper functioning and intended use;
+(b) It substantially lacks any of the following characteristics:
+(I) Functioning appliances that conformed to applicable law at the time of installation and that are maintained in good working order;
+(II) Waterproofing and weather protection of roof and exterior walls maintained in good working order, including unbroken windows and doors;
+(III) Plumbing or gas facilities that conformed to applicable law in effect at the time of installation and that are maintained in good working order;
+(IV) Running water at all times and hot water in an amount necessary for the tenant to perform all ordinary activities related to maintaining cleanliness and health, furnished to appropriate fixtures and connected to a sewage disposal system approved under applicable law;
+(V) Functioning heating facilities that conformed to applicable law at the time of installation and that are maintained in good working order;
+(VI) Electrical lighting, with wiring and electrical equipment that conformed to applicable law at the time of installation, maintained in good working order;
+(VII) Common areas and areas under the control of the landlord that are kept reasonably clean, sanitary, and free from all accumulations of debris, filth, rubbish, and garbage and that have appropriate extermination in response to the infestation of rodents, vermin, pests, or insects;
+(VIII) Appropriate extermination in response to the infestation of rodents, vermin, pests, or insects throughout a residential premises, including compliance with all requirements under part 10 of this article 12;
+(IX) An adequate number of appropriate exterior receptacles for garbage, waste, and rubbish, in good repair and scheduled to be serviced and emptied at sufficient intervals to ensure containment and proper disposal of all trash, waste, and rubbish;
+(X) Floors, stairways, elevators, and railings maintained in good repair;
+(XI) Locks on all exterior doors and locks or security devices on windows designed to be opened that are maintained in good working order;
+(XII) Compliance with all applicable building, housing, and health codes, the violation of which would constitute a condition that materially interferes with the life, health, or safety of the tenant;
+(XIII) Compliance with applicable standards from the American National Standards Institute, or its successor organization, and all applicable provisions of building, fire, health, and housing codes for the remediation and cleanup of a residential premises following an environmental public health event;
+(XIV) Remediation in compliance with article 18.5 of title 25 if the residential premises was used as an illegal drug laboratory, as defined in section 25-18.5-101 (8), involving methamphetamine.
+(XV) Compliance with all requirements in section 38-12-803; or
+(XVI) Compliance with all requirements related to cooling devices established in subsection (7) of this section; or
+(c) It is otherwise unfit for human habitation.
+(2) A deficiency in the common area shall not render a residential premises uninhabitable as set forth in subsection (1) of this section, unless it materially affects the tenant's use of the tenant's dwelling unit.
+(3)
+(a) Before a landlord leases a residential premises to a tenant, the landlord must ensure that the residential premises is fit for human habitation in accordance with section 38-12-503 (1) and that the residential premises is not in a condition described in subsection (1) of this section.
+(b) A landlord that leases a residential premises that is not in compliance with this section breaches the warranty of habitability pursuant to section 38-12-503 (1), and the tenant may pursue any remedy under section 38-12-507.
+(c) On and after January 1, 2025, every rental agreement between a landlord and tenant must include a statement in at least twelve-point, bold-faced type that states that every tenant is entitled to safe and healthy housing under Colorado's warranty of habitability and that a landlord is prohibited by law from retaliating against a tenant in any manner for reporting unsafe conditions in the tenant's residential premises, requesting repairs, or seeking to enjoy the tenant's right to safe and healthy housing.
+(d) On and after January 1, 2025, every rental agreement between a landlord and tenant must include a statement in English and Spanish and in at least twelve-point, bold-faced type that states an address where a tenant can mail or personally deliver written notice of an uninhabitable condition and an e-mail address or accessible online tenant portal or platform where a tenant can deliver written notice of an uninhabitable condition.
+(e) If a landlord provides a tenant with an online tenant portal or platform, the landlord must post in a conspicuous place in the online tenant portal or platform a statement in English and Spanish that states an address where a tenant can mail or personally deliver written notice of an uninhabitable condition and an e-mail address or accessible online portal or platform where a tenant can deliver written notice of an uninhabitable condition.
+(4) There is a rebuttable presumption that the following conditions at a residential premises materially interfere with a tenant's life, health, or safety pursuant to section 38-12-503 (2)(a)(II):
+(a) Lack of waterproofing and weather protection for the roof, exterior walls, exterior doors, and exterior windows of a dwelling unit so that weather-related elements can enter the dwelling unit;
+(b) Any hazardous condition of gas piping, gas facilities, gas appliances, or other gas equipment;
+(c) Inadequate running water or inadequate running hot water, except for temporary disruptions in water service due to necessary maintenance, repair, or construction that is being performed or temporary disruptions in water service that a landlord could not reasonably prevent or control;
+(d) Lack of functioning heating facilities and equipment fixtures that are installed and operating in compliance with applicable law at the time of installation and that are maintained in good working order from October through April of each year;
+(e) Any hazardous condition of electrical wiring, electrical facilities, electrical appliances, or other electrical equipment;
+(f) Lack of electricity or disruptions of electricity that are caused by a landlord's failure to maintain electrical wiring, electrical facilities, electrical appliances, or electrical equipment;
+(g) Lack of working locks or security devices on all exterior doors that allow entry into a residential premises or a dwelling unit and all exterior windows that are designed to be opened;
+(h) Lack of working plumbing or sewage disposal or any condition that allows sewage, water, moisture, or other contaminants to enter the residential premises other than through properly working plumbing and sewage disposal systems;
+(i) An infestation of rodents, vermin, pests, or insects;
+(j) Any inaccessible fire exits or egress in accordance with applicable building, housing, fire, and health codes;
+(k) Any missing, damaged, improper, or misaligned chimney or venting on any fuel-fired heating, ventilation, or cooling system; or
+(l) An inoperable elevator when the tenant has a disability that prevents the tenant from being able to use the stairs to access the tenant's dwelling unit or the tenant relies on an elevator to access the tenant's dwelling unit and there are no other operable elevators that provide access to the tenant's unit.
+(5) A landlord may rebut the presumption in subsection (4) of this section by demonstrating, through clear and convincing evidence, that a condition listed in subsection (4) of this section does not materially interfere with a tenant's life, health, or safety.
+(6) Nothing in this section prevents a court or jury from finding that any condition or combination of conditions described in this section materially interferes with a tenant's life, health, or safety.
+(7)
+(a) A landlord shall not prohibit or restrict a tenant from installing or using a portable cooling device, including under any rental agreement or other agreement between the landlord and the tenant; except that the landlord may prohibit or restrict the installation or use of a portable cooling device if the installation or use of the portable cooling device would:
+(I) Violate any building codes, state law, or federal law;
+(II) Violate the portable cooling device manufacturer's written safety guidelines for installing or using the device;
+(III) Damage the premises or render the premises uninhabitable; or
+(IV) Require more amperage to power the portable cooling device than can be accommodated by the residential premises', dwelling unit's, or circuit's electrical capacity.
+(b) A landlord that restricts the installation or use of portable cooling devices at a residential premises with multiple dwelling units under subsection (7)(a)(IV) of this section shall prioritize a tenant who requests the installation or usage of a portable cooling device to accommodate the tenant's disability over other tenants' requests to install or use a portable cooling device.
+(c) A landlord that restricts the installation or use of a portable cooling device at a residential premises under subsection (7)(a) of this section shall:
+(I) Disclose any restrictions on the installation or use of portable cooling devices to a tenant or prospective tenant in writing;
+(II) Provide information about whether the landlord intends to operate one or more common spaces at the residential premises that will be cooled by a portable cooling device or permanent cooling device and available to the tenant during an extreme heat event; and
+(III) If the landlord does not intend to operate common spaces at the residential premises that will be cooled by a portable cooling device or permanent cooling device, provide information on community cooling spaces that are located near the residential premises and accessible to the tenant during an extreme heat event; except that a landlord is not required to provide information on community cooling spaces if there are no known community cooling spaces within ten miles of the residential premises.
+(d)
+(I) As used in this subsection (7), unless the context otherwise requires, "community cooling spaces" means public spaces that are available to a tenant and that are located on or near the residential premises and that maintain a temperature that is not higher than eighty degrees Fahrenheit.
+(II) "Community cooling spaces" may include recreation centers, community centers, and public libraries.
+(e) Nothing in this subsection (7) modifies a landlord's obligation to permit reasonable modifications and reasonable accommodations for individuals with a disability under section 24-34-502.2.
+C.R.S. § 38-12-505
+Amended by 2024 Ch. 158,§ 5, eff. 5/3/2024, app. to actions related to violations of part 5 of article 12 of title 38 that are filed on or after the effective date.
+Amended by 2023 Ch. 326,§ 4, eff. 8/7/2023.
+Amended by 2023 Ch. 169,§ 4, eff. 5/12/2023.
+Amended by 2019 Ch. 229, § 4, eff. 8/2/2019.
+L. 2008: Entire part added, p. 1822, § 3, effective September 1.
+Section 15 of chapter 158 (SB 24-094), Session Laws of Colorado 2024, provides that the act changing this section applies to actions related to violations of this part 5 that are filed on or after May 3, 2024.
+2023 Ch. 326, was passed without a safety clause. See Colo. Const. art. V, § 1(3).
+For the legislative declaration in HB 23-1254, see section 1 of chapter 169, Session Laws of Colorado 2023.
