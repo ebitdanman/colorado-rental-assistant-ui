@@ -9,44 +9,43 @@ dotenv.config();
 
 const app = express();
 
-// CORS headers middleware
+// Define allowed origins
+const allowedOrigins = [
+  'https://colorado-rental-assistant-ui.vercel.app',
+  'https://colorado-rental-assistant-1ahehiciv-dans-projects-d49e63a0.vercel.app'
+];
+
+// CORS middleware - must be first
 app.use((req, res, next) => {
-  const allowedOrigins = [
-    'https://colorado-rental-assistant-ui.vercel.app',
-    'https://colorado-rental-assistant-1ahehiciv-dans-projects-d49e63a0.vercel.app'
-  ];
-  
   const origin = req.headers.origin;
+  
+  // Log the request details for debugging
+  console.log('Request:', {
+    method: req.method,
+    path: req.path,
+    origin: origin,
+    headers: req.headers
+  });
+
+  // Set CORS headers
   if (origin && allowedOrigins.includes(origin)) {
     res.setHeader('Access-Control-Allow-Origin', origin);
+    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
+    res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization, Accept, Origin');
+    res.setHeader('Access-Control-Allow-Credentials', 'true');
+    res.setHeader('Access-Control-Max-Age', '86400');
   }
-  
-  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
-  res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization, Accept, Origin');
-  res.setHeader('Access-Control-Allow-Credentials', 'true');
-  res.setHeader('Access-Control-Max-Age', '86400');
+
+  // Handle preflight requests
+  if (req.method === 'OPTIONS') {
+    res.status(204).end();
+    return;
+  }
+
   next();
 });
 
-// Handle preflight requests
-app.options('*', (req, res) => {
-  const allowedOrigins = [
-    'https://colorado-rental-assistant-ui.vercel.app',
-    'https://colorado-rental-assistant-1ahehiciv-dans-projects-d49e63a0.vercel.app'
-  ];
-  
-  const origin = req.headers.origin;
-  if (origin && allowedOrigins.includes(origin)) {
-    res.setHeader('Access-Control-Allow-Origin', origin);
-  }
-  
-  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
-  res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization, Accept, Origin');
-  res.setHeader('Access-Control-Allow-Credentials', 'true');
-  res.setHeader('Access-Control-Max-Age', '86400');
-  res.status(204).end();
-});
-
+// Body parser middleware
 app.use(express.json());
 
 const documentProcessor = new DocumentProcessor();
