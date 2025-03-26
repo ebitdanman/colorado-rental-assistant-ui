@@ -18,8 +18,6 @@ import ArticlesSection from "./components/ArticlesSection";
 import ArticleView from "./components/ArticleView";
 import { getArticles } from "./utils/articleLoader";
 
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3000';
-
 function App() {
   const [result, setResult] = useState("");
   const [isLoading, setIsLoading] = useState(false);
@@ -29,13 +27,11 @@ function App() {
   const handleSearch = async (query: string) => {
     setIsLoading(true);
     try {
-      const response = await fetch(`${API_URL}/api/search`, {
+      const response = await fetch(`/api/search`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
         },
-        
-        credentials: "include", // Add this for cookies/auth if needed
         body: JSON.stringify({ query }),
       });
 

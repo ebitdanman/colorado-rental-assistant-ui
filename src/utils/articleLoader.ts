@@ -1,6 +1,7 @@
 import { Article, ArticleMetadata } from '../types/article';
 
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3000';
+// Remove API_URL constant since we're using relative paths
+// const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3000';
 
 // In a real application, this would be dynamic using something like Vite's import.meta.glob
 const articles: ArticleMetadata[] = [
@@ -38,25 +39,28 @@ const articles: ArticleMetadata[] = [
   }
 ];
 
-export const getArticles = (): ArticleMetadata[] => {
-  console.log("Getting articles:", articles);
-  return articles;
-};
-
-export const getArticleBySlug = async (slug: string): Promise<Article | null> => {
-  const metadata = articles.find(article => article.slug === slug);
-  if (!metadata) return null;
-
+export async function getArticles() {
   try {
-    const response = await fetch(`${API_URL}/articles/${slug}.md`);
-    const content = await response.text();
-    
-    return {
-      ...metadata,
-      content
-    };
+    const response = await fetch(`/api/articles`);
+    if (!response.ok) {
+      throw new Error('Failed to fetch articles');
+    }
+    return await response.json();
   } catch (error) {
-    console.error('Error loading article:', error);
+    console.error('Error fetching articles:', error);
+    return [];
+  }
+}
+
+export async function getArticle(slug: string) {
+  try {
+    const response = await fetch(`/api/articles/${slug}`);
+    if (!response.ok) {
+      throw new Error('Failed to fetch article');
+    }
+    return await response.json();
+  } catch (error) {
+    console.error('Error fetching article:', error);
     return null;
   }
-}; 
+} 
