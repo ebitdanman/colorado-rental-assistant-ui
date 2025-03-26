@@ -1,12 +1,4 @@
-console.log("=================================================================");
-console.log("SERVER STARTING - THIS SHOULD APPEAR IN RAILWAY LOGS");
-console.log("=================================================================");
-
-console.error('==== SERVER STARTUP ====');
-console.error('Current working directory:', process.cwd());
-console.error('Data directory path:', path.join(process.cwd(), 'data'));
-console.error('Alternative data path:', path.join(process.cwd(), '..', 'data'));
-
+// Import statements must come first
 import express from 'express';
 import cors from 'cors';
 import type { Request, Response, RequestHandler } from 'express';
@@ -15,7 +7,22 @@ import { DocumentProcessor } from './src/utils/documentProcessor';
 import path from 'path';
 import fs from 'fs';
 
+// Initialize environment variables
 dotenv.config();
+
+// Initialize path variables
+const dataPath = path.join(process.cwd(), 'data');
+const altDataPath = path.join(process.cwd(), '..', 'data');
+
+// Log startup information
+console.log("=================================================================");
+console.log("SERVER STARTING - THIS SHOULD APPEAR IN RAILWAY LOGS");
+console.log("=================================================================");
+
+console.error('==== SERVER STARTUP ====');
+console.error('Current working directory:', process.cwd());
+console.error('Data directory path:', dataPath);
+console.error('Alternative data path:', altDataPath);
 
 const app = express();
 
