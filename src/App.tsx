@@ -34,6 +34,7 @@ function App() {
         headers: {
           "Content-Type": "application/json",
         },
+        credentials: "include", // Add this for cookies/auth if needed
         body: JSON.stringify({ query }),
       });
 

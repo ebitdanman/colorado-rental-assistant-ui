@@ -1,3 +1,7 @@
+console.log('Current working directory:', process.cwd());
+console.log('Data directory path:', path.join(process.cwd(), 'data'));
+console.log('Alternative data path:', path.join(process.cwd(), '..', 'data'));
+
 import express from 'express';
 import type { Request, Response, RequestHandler } from 'express';
 import * as dotenv from 'dotenv';
@@ -15,25 +19,25 @@ const corsOptions: cors.CorsOptions = {
   origin: function (origin, callback) {
     console.log('CORS request from origin:', origin);
     
-    // Always allow the requests while in development
-    callback(null, true);
+    // List of allowed origins - include your Vercel frontend
+    const allowedOrigins = [
+      'https://colorado-rental-assistant-ui.vercel.app',
+      'http://localhost:3000',
+      'http://localhost:5173'
+    ];
     
-    // Alternatively, use this for stricter checking once it's working:
-    /*
-    if (!origin || allowedOrigins.indexOf(origin) !== -1) {
+    // When using credentials, we need to specify the exact origin (not '*')
+    if (!origin || allowedOrigins.includes(origin)) {
       callback(null, true);
     } else {
       console.log('Origin rejected by CORS:', origin);
       callback(new Error('Not allowed by CORS'));
     }
-    */
   },
   credentials: true,
   methods: ['GET', 'POST', 'OPTIONS', 'PUT', 'DELETE'],
   allowedHeaders: ['Content-Type', 'Authorization', 'Accept', 'Origin', 'X-Requested-With'],
-  exposedHeaders: ['Access-Control-Allow-Origin'],
-  optionsSuccessStatus: 200,
-  preflightContinue: false
+  optionsSuccessStatus: 200
 };
 
 // Add this debugging middleware before your other middleware
@@ -67,7 +71,7 @@ app.use((err: Error, req: Request, res: Response, next: any) => {
 app.get('/articles/:slug.md', (req, res) => {
   try {
     const { slug } = req.params;
-    const articlePath = path.join(process.cwd(), 'data', 'articles', `${slug}.md`);
+    const articlePath = path.join(process.cwd(), '..', 'data', 'articles', `${slug}.md`);
     
     if (!fs.existsSync(articlePath)) {
       res.status(404).json({ error: 'Article not found' });
@@ -86,7 +90,7 @@ app.get('/articles/:slug.md', (req, res) => {
 app.get('/articles/:slug.metadata.json', (req, res) => {
   try {
     const { slug } = req.params;
-    const metadataPath = path.join(process.cwd(), 'data', 'articles', `${slug}.metadata.json`);
+    const metadataPath = path.join(process.cwd(), '..', 'data', 'articles', `${slug}.metadata.json`);
     
     if (!fs.existsSync(metadataPath)) {
       res.status(404).json({ error: 'Article metadata not found' });

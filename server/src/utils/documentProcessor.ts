@@ -24,7 +24,7 @@ export class DocumentProcessor {
   private loadDocuments() {
     try {
       // Load .txt files from data directory
-      const dataDir = path.join(process.cwd(), 'data');
+      const dataDir = path.join(process.cwd(), '..', 'data');
       const files = fs.readdirSync(dataDir);
       
       for (const file of files) {
@@ -36,7 +36,7 @@ export class DocumentProcessor {
       }
 
       // Load .md files from data/articles directory
-      const articlesDir = path.join(dataDir, 'articles');
+      const articlesDir = path.join(process.cwd(), '..', 'data', 'articles');
       if (fs.existsSync(articlesDir)) {
         const articleFiles = fs.readdirSync(articlesDir);
         for (const file of articleFiles) {
@@ -63,9 +63,9 @@ export class DocumentProcessor {
       .filter(word => word.length > 2 && !commonWords.has(word));
   }
 
-  private searchDocuments(query: string): { content: string; relevance: number }[] {
+  private searchDocuments(query: string): { name: string; content: string; relevance: number }[] {
     const keyTerms = this.extractKeyTerms(query);
-    const relevantDocs: { content: string; relevance: number }[] = [];
+    const relevantDocs: { name: string; content: string; relevance: number }[] = [];
 
     for (const doc of this.documents) {
       const content = doc.content.toLowerCase();
@@ -74,7 +74,7 @@ export class DocumentProcessor {
       if (matches.length > 0) {
         // Calculate relevance score based on number of matches and document length
         const relevance = matches.length / Math.log(content.length);
-        relevantDocs.push({ content: doc.content, relevance });
+        relevantDocs.push({ name: doc.name, content: doc.content, relevance });
       }
     }
 
@@ -145,6 +145,14 @@ export class DocumentProcessor {
     }));
 
     const context = truncatedDocs.map(doc => doc.content).join('\n\n');
+    
+    // Log what we're sending to GPT
+    console.log('Sending to GPT:');
+    console.log('Query:', query);
+    console.log('Context length:', context.length);
+    console.log('Number of documents:', truncatedDocs.length);
+    console.log('Document names:', truncatedDocs.map(doc => doc.name));
+    console.log('First 500 chars of context:', context.substring(0, 500));
     
     try {
       console.log('Making API request to:', this.openai.baseURL);
