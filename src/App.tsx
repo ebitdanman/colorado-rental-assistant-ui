@@ -14,12 +14,14 @@ import {
   Spacer,
   HStack,
 } from "@chakra-ui/react";
+import { BrowserRouter as Router, Routes, Route, Link as RouterLink } from "react-router-dom";
 import ArticlesSection from "./components/ArticlesSection";
 import ArticleView from "./components/ArticleView";
+import TermsOfService from "./pages/TermsOfService";
 import { getArticles } from "./utils/articleLoader";
 import { ArticleMetadata } from "./types/article";
 
-function App() {
+function MainContent() {
   const [result, setResult] = useState("");
   const [isLoading, setIsLoading] = useState(false);
   const [selectedArticle, setSelectedArticle] = useState<string | null>(null);
@@ -92,79 +94,57 @@ function App() {
   };
 
   return (
-    <Box minH="100vh" bg="gray.50" display="flex" flexDirection="column">
-      {/* Header */}
-      <Flex 
-        as="header" 
-        bg="blue.700" 
-        color="white" 
-        p={4} 
-        alignItems="center" 
-        boxShadow="sm"
-      >
-        <Container maxW="container.xl" display="flex" alignItems="center">
-          <Link href="/" _hover={{ textDecoration: 'none' }}>
-            <Heading size="md" cursor="pointer">Colorado Rental Assistant</Heading>
-          </Link>
-          <Spacer />
-        </Container>
-      </Flex>
-
-      {/* Hero section with search - only show on homepage */}
-      {!selectedArticle && (
-        <Box bg="blue.600" py={12}>
-          <Container maxW="container.xl">
-            <VStack spacing={8} align="stretch">
-              <Heading textAlign="center" color="white" size="2xl">
-                Colorado Rental Assistant
-              </Heading>
-              <Text textAlign="center" color="white" fontSize="xl">
-                Ask questions about Colorado rental regulations and get accurate answers from Colorado state law.
-              </Text>
-              <Box 
-                as="form" 
-                onSubmit={(e: React.FormEvent) => {
-                  e.preventDefault();
-                  const form = e.target as HTMLFormElement;
-                  const input = form.querySelector("input") as HTMLInputElement;
-                  if (input.value.trim()) {
-                    handleSearch(input.value);
-                  }
-                }}
-                width="100%"
-                maxW="800px"
-                mx="auto"
-              >
-                <VStack spacing={4}>
-                  <FormControl>
-                    <Input
-                      placeholder="Ask a question about Colorado rental regulations..."
-                      size="lg"
-                      bg="white"
-                      _hover={{ bg: "white" }}
-                      _focus={{ bg: "white", borderColor: "blue.300" }}
-                    />
-                  </FormControl>
-                  <Button
-                    type="submit"
-                    colorScheme="blue"
-                    isLoading={isLoading}
-                    loadingText="Searching..."
+    <>
+      <Box bg="blue.600" py={12}>
+        <Container maxW="container.xl">
+          <VStack spacing={8} align="stretch">
+            <Heading textAlign="center" color="white" size="2xl">
+              Colorado Rental Assistant
+            </Heading>
+            <Text textAlign="center" color="white" fontSize="xl">
+              Ask questions about Colorado rental regulations and get accurate answers from Colorado state law.
+            </Text>
+            <Box 
+              as="form" 
+              onSubmit={(e: React.FormEvent) => {
+                e.preventDefault();
+                const form = e.target as HTMLFormElement;
+                const input = form.querySelector("input") as HTMLInputElement;
+                if (input.value.trim()) {
+                  handleSearch(input.value);
+                }
+              }}
+              width="100%"
+              maxW="800px"
+              mx="auto"
+            >
+              <VStack spacing={4}>
+                <FormControl>
+                  <Input
+                    placeholder="Ask a question about Colorado rental regulations..."
                     size="lg"
-                    width="200px"
-                    bg="blue.500"
-                    _hover={{ bg: "blue.600" }}
-                  >
-                    Search
-                  </Button>
-                </VStack>
-              </Box>
-            </VStack>
-          </Container>
-        </Box>
-      )}
-
-      {/* Main Content */}
+                    bg="white"
+                    _hover={{ bg: "white" }}
+                    _focus={{ bg: "white", borderColor: "blue.300" }}
+                  />
+                </FormControl>
+                <Button
+                  type="submit"
+                  colorScheme="blue"
+                  isLoading={isLoading}
+                  loadingText="Searching..."
+                  size="lg"
+                  width="200px"
+                  bg="blue.500"
+                  _hover={{ bg: "blue.600" }}
+                >
+                  Search
+                </Button>
+              </VStack>
+            </Box>
+          </VStack>
+        </Container>
+      </Box>
       <Box flex="1">
         {/* Search Results */}
         {result && (
@@ -199,33 +179,64 @@ function App() {
           </Container>
         )}
       </Box>
+    </>
+  );
+}
 
-      {/* Footer */}
-      <Box as="footer" bg="gray.100" py={8} mt="auto">
-        <Container maxW="container.xl">
-          <Flex direction={{ base: "column", md: "row" }} justify="space-between" align="center">
-            <Box mb={{ base: 4, md: 0 }}>
-              <Text fontSize="sm" color="gray.500">
-                © 2024 Colorado Rental Assistant. All rights reserved.
-              </Text>
-              {/* Add the Flaticon attribution here */}
-              <Text fontSize="xs" color="gray.500" mt={1}>
-                <Box 
-                  dangerouslySetInnerHTML={{
-                    __html: '<a href="https://www.flaticon.com/free-icons/buildings" title="buildings icons">Buildings icons created by Freepik - Flaticon</a>'
-                  }} 
-                />
-              </Text>
-            </Box>
-            <HStack spacing={4}>
-              <Link fontSize="sm" color="gray.500" href="#">Privacy Policy</Link>
-              <Link fontSize="sm" color="gray.500" href="#">Terms of Service</Link>
-              <Link fontSize="sm" color="gray.500" href="mailto:dan@proplaws.com">Contact Us</Link>
-            </HStack>
-          </Flex>
-        </Container>
+function App() {
+  return (
+    <Router>
+      <Box minH="100vh" bg="gray.50" display="flex" flexDirection="column">
+        {/* Header */}
+        <Flex 
+          as="header" 
+          bg="blue.700" 
+          color="white" 
+          p={4} 
+          alignItems="center" 
+          boxShadow="sm"
+        >
+          <Container maxW="container.xl" display="flex" alignItems="center">
+            <Link as={RouterLink} to="/" _hover={{ textDecoration: 'none' }}>
+              <Heading size="md" cursor="pointer">Colorado Rental Assistant</Heading>
+            </Link>
+            <Spacer />
+          </Container>
+        </Flex>
+
+        {/* Routes */}
+        <Routes>
+          <Route path="/terms" element={<TermsOfService />} />
+          <Route path="/" element={<MainContent />} />
+        </Routes>
+
+        {/* Footer */}
+        <Box as="footer" bg="gray.100" py={8} mt="auto">
+          <Container maxW="container.xl">
+            <Flex direction={{ base: "column", md: "row" }} justify="space-between" align="center">
+              <Box mb={{ base: 4, md: 0 }}>
+                <Text fontSize="sm" color="gray.500">
+                  © 2024 Colorado Rental Assistant. All rights reserved.
+                </Text>
+                {/* Add the Flaticon attribution here */}
+                <Text fontSize="xs" color="gray.500" mt={1}>
+                  <Box 
+                    dangerouslySetInnerHTML={{
+                      __html: '<a href="https://www.flaticon.com/free-icons/buildings" title="buildings icons">Buildings icons created by Freepik - Flaticon</a>'
+                    }} 
+                  />
+                </Text>
+              </Box>
+              <HStack spacing={4}>
+                <Link as={RouterLink} fontSize="sm" color="gray.500" to="/privacy">Privacy Policy</Link>
+                <Link as={RouterLink} fontSize="sm" color="gray.500" to="/terms">Terms of Service</Link>
+                <Link fontSize="sm" color="gray.500" href="mailto:dan@proplaws.com">Contact Us</Link>
+              </HStack>
+            </Flex>
+          </Container>
+        </Box>
       </Box>
-    </Box>
+    </Router>
   );
 }
 
