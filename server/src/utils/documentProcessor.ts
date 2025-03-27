@@ -23,29 +23,47 @@ export class DocumentProcessor {
 
   private loadDocuments() {
     try {
-      // Load .txt files from data directory
-      const dataDir = path.join(process.cwd(), '..', 'data');
-      const files = fs.readdirSync(dataDir);
+      // Updated paths to look in server/data instead of ../data
+      const dataDir = path.join(process.cwd(), 'data');
       
-      for (const file of files) {
-        if (file.endsWith('.txt')) {
-          const content = fs.readFileSync(path.join(dataDir, file), 'utf-8');
-          this.documents.push({ name: file, content });
-          console.log(`Loaded document: ${file}`);
+      console.log('Looking for documents in:', dataDir);
+      
+      if (!fs.existsSync(dataDir)) {
+        console.error(`Data directory not found: ${dataDir}`);
+        return;
+      }
+      
+      // Load .txt files from regulations directory
+      const regulationsDir = path.join(dataDir, 'regulations');
+      if (fs.existsSync(regulationsDir)) {
+        const files = fs.readdirSync(regulationsDir);
+        
+        for (const file of files) {
+          if (file.endsWith('.txt')) {
+            const filePath = path.join(regulationsDir, file);
+            const content = fs.readFileSync(filePath, 'utf-8');
+            this.documents.push({ name: file, content });
+            console.log(`Loaded regulation: ${file}`);
+          }
         }
+      } else {
+        console.log(`Regulations directory not found: ${regulationsDir}`);
       }
 
       // Load .md files from data/articles directory
-      const articlesDir = path.join(process.cwd(), '..', 'data', 'articles');
+      const articlesDir = path.join(dataDir, 'articles');
       if (fs.existsSync(articlesDir)) {
         const articleFiles = fs.readdirSync(articlesDir);
         for (const file of articleFiles) {
           if (file.endsWith('.md')) {
-            const content = fs.readFileSync(path.join(articlesDir, file), 'utf-8');
+            const filePath = path.join(articlesDir, file);
+            const content = fs.readFileSync(filePath, 'utf-8');
             this.documents.push({ name: file, content });
             console.log(`Loaded article: ${file}`);
           }
         }
+      } else {
+        console.log(`Articles directory not found: ${articlesDir}`);
       }
       
       console.log(`Loaded ${this.documents.length} documents`);
@@ -132,6 +150,10 @@ export class DocumentProcessor {
   }
 
   async searchAndGenerateAnswer(query: string): Promise<string> {
+    if (this.documents.length === 0) {
+      return "No documents have been loaded. Please check the server configuration.";
+    }
+    
     const relevantDocs = this.searchDocuments(query);
     
     if (relevantDocs.length === 0) {
