@@ -208,6 +208,14 @@ function App() {
               <Text fontSize="sm" color="gray.500">
                 © 2024 Colorado Rental Assistant. All rights reserved.
               </Text>
+              {/* Add the Flaticon attribution here */}
+              <Text fontSize="xs" color="gray.500" mt={1}>
+                <Box 
+                  dangerouslySetInnerHTML={{
+                    __html: '<a href="https://www.flaticon.com/free-icons/buildings" title="buildings icons">Buildings icons created by Freepik - Flaticon</a>'
+                  }} 
+                />
+              </Text>
             </Box>
             <HStack spacing={4}>
               <Link fontSize="sm" color="gray.500" href="#">Privacy Policy</Link>
