@@ -220,7 +220,7 @@ function App() {
             <HStack spacing={4}>
               <Link fontSize="sm" color="gray.500" href="#">Privacy Policy</Link>
               <Link fontSize="sm" color="gray.500" href="#">Terms of Service</Link>
-              <Link fontSize="sm" color="gray.500" href="#">Contact Us</Link>
+              <Link fontSize="sm" color="gray.500" href="mailto:dan@proplaws.com">Contact Us</Link>
             </HStack>
           </Flex>
         </Container>

@@ -51,7 +51,7 @@ const ArticlesSection: React.FC<ArticlesSectionProps> = ({ articles, onArticleCl
               </Heading>
             </CardHeader>
             <CardBody>
-              <VStack spacing={4} align="stretch">
+              <VStack spacing={2.67} align="stretch">
                 {categoryArticles.map((article) => (
                   <Box 
                     key={article.id}
