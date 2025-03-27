@@ -12,7 +12,6 @@ dotenv.config();
 
 // Initialize path variables
 const dataPath = path.join(process.cwd(), 'data');
-const altDataPath = path.join(process.cwd(), '..', 'data');
 
 // Log startup information
 console.log("=================================================================");
@@ -22,7 +21,6 @@ console.log("=================================================================")
 console.error('==== SERVER STARTUP ====');
 console.error('Current working directory:', process.cwd());
 console.error('Data directory path:', dataPath);
-console.error('Alternative data path:', altDataPath);
 
 const app = express();
 
@@ -122,11 +120,114 @@ app.get('/api/diagnostic-test', (req, res) => {
   });
 });
 
+// Define interface for article metadata
+interface ArticleMetadata {
+  title: string;
+  description?: string;
+  category?: string;
+}
+
+// UPDATED: Serve all articles as a list
+app.get('/api/articles', (req, res) => {
+  try {
+    const articlesDir = path.join(process.cwd(), 'data', 'articles');
+    
+    // Verify directory exists
+    if (!fs.existsSync(articlesDir)) {
+      console.error(`Articles directory not found: ${articlesDir}`);
+      res.status(404).json({ error: 'Articles directory not found' });
+      return;
+    }
+    
+    const files = fs.readdirSync(articlesDir);
+    const articles = [];
+    
+    // Get MD files only (not metadata files)
+    const mdFiles = files.filter(file => file.endsWith('.md'));
+    
+    for (const file of mdFiles) {
+      const slug = file.replace('.md', '');
+      const filePath = path.join(articlesDir, file);
+      const metadataPath = path.join(articlesDir, `${slug}.metadata.json`);
+      
+      const content = fs.readFileSync(filePath, 'utf-8');
+      
+      let metadata: ArticleMetadata = { title: slug };
+      if (fs.existsSync(metadataPath)) {
+        try {
+          const metadataContent = fs.readFileSync(metadataPath, 'utf-8');
+          metadata = JSON.parse(metadataContent) as ArticleMetadata;
+        } catch (err) {
+          console.error(`Error parsing metadata for ${slug}:`, err);
+        }
+      }
+      
+      articles.push({
+        id: slug,
+        content,
+        ...metadata
+      });
+    }
+    
+    console.log(`Sending ${articles.length} articles`);
+    res.json(articles);
+  } catch (error: unknown) {
+    console.error('Error serving articles:', error instanceof Error ? error.message : String(error));
+    res.status(500).json({ error: 'Internal server error' });
+  }
+});
+
+// UPDATED: Serve a specific article by ID
+app.get('/api/articles/:id', (req, res) => {
+  try {
+    const { id } = req.params;
+    console.log(`Fetching article with ID: ${id}`);
+    
+    const articlesDir = path.join(process.cwd(), 'data', 'articles');
+    
+    // Handle special case where the frontend sends id with ":1" suffix
+    const slug = id.includes(':') ? id.split(':')[0] : id;
+    
+    const filePath = path.join(articlesDir, `${slug}.md`);
+    const metadataPath = path.join(articlesDir, `${slug}.metadata.json`);
+    
+    console.log(`Looking for file at: ${filePath}`);
+    
+    if (!fs.existsSync(filePath)) {
+      console.error(`Article not found: ${filePath}`);
+      res.status(404).json({ error: 'Article not found' });
+      return;
+    }
+
+    const content = fs.readFileSync(filePath, 'utf-8');
+    
+    let metadata: ArticleMetadata = { title: slug };
+    if (fs.existsSync(metadataPath)) {
+      try {
+        const metadataContent = fs.readFileSync(metadataPath, 'utf-8');
+        metadata = JSON.parse(metadataContent) as ArticleMetadata;
+      } catch (err) {
+        console.error(`Error parsing metadata for ${slug}:`, err);
+      }
+    }
+    
+    res.json({
+      id: slug,
+      content,
+      ...metadata
+    });
+  } catch (error: unknown) {
+    console.error('Error serving article:', error instanceof Error ? error.message : String(error));
+    res.status(500).json({ error: 'Internal server error' });
+  }
+});
+
 // Serve article files
 app.get('/articles/:slug.md', (req, res) => {
   try {
     const { slug } = req.params;
     const articlePath = path.join(process.cwd(), '..', 'data', 'articles', `${slug}.md`);
+    const metadataPath = path.join(process.cwd(), '..', 'data', 'articles', `${slug}.metadata.json`);
     
     if (!fs.existsSync(articlePath)) {
       res.status(404).json({ error: 'Article not found' });
@@ -134,9 +235,17 @@ app.get('/articles/:slug.md', (req, res) => {
     }
 
     const content = fs.readFileSync(articlePath, 'utf-8');
+    let metadata: ArticleMetadata = { title: slug };
+    
+    if (fs.existsSync(metadataPath)) {
+      const metadataContent = fs.readFileSync(metadataPath, 'utf-8');
+      const parsedMetadata = JSON.parse(metadataContent) as ArticleMetadata;
+      metadata = parsedMetadata;
+    }
+
     res.type('text/markdown').send(content);
-  } catch (error) {
-    console.error('Error serving article:', error);
+  } catch (error: unknown) {
+    console.error('Error serving article:', error instanceof Error ? error.message : String(error));
     res.status(500).json({ error: 'Internal server error' });
   }
 });
@@ -153,9 +262,10 @@ app.get('/articles/:slug.metadata.json', (req, res) => {
     }
 
     const content = fs.readFileSync(metadataPath, 'utf-8');
+    const metadata = JSON.parse(content) as ArticleMetadata;
     res.type('application/json').send(content);
-  } catch (error) {
-    console.error('Error serving article metadata:', error);
+  } catch (error: unknown) {
+    console.error('Error serving article metadata:', error instanceof Error ? error.message : String(error));
     res.status(500).json({ error: 'Internal server error' });
   }
 });
