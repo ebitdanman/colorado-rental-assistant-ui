@@ -13,7 +13,10 @@ import {
   Link,
   Spacer,
   HStack,
+  InputGroup,
+  InputLeftElement,
 } from "@chakra-ui/react";
+import { SearchIcon } from "@chakra-ui/icons";
 import { BrowserRouter as Router, Routes, Route, Link as RouterLink } from "react-router-dom";
 import ArticlesSection from "./components/ArticlesSection";
 import ArticleView from "./components/ArticleView";
@@ -54,19 +57,15 @@ function MainContent() {
   const handleSearch = async (query: string) => {
     setIsLoading(true);
     try {
-      console.log('About to fetch from:', '/api/search');
       const response = await fetch(`/api/search`, {
         method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
+        headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ query }),
       });
 
       if (!response.ok) {
         throw new Error("Search request failed");
       }
-      console.log('Response from:', response.url);
 
       const data = await response.json();
       setResult(data.answer);
@@ -85,7 +84,6 @@ function MainContent() {
 
   const handleArticleClick = (slug: string) => {
     setSelectedArticle(slug);
-    // When viewing an article, clear any search results
     setResult("");
   };
 
@@ -104,8 +102,11 @@ function MainContent() {
             <Text textAlign="center" color="white" fontSize="xl">
               Ask questions about Colorado rental regulations and get accurate answers from Colorado state law.
             </Text>
+            <Text textAlign="center" color="whiteAlpha.800" fontSize="sm">
+              Powered by official statutes • Updated March 2025
+            </Text>
             <Box 
-              as="form" 
+              as="form"
               onSubmit={(e: React.FormEvent) => {
                 e.preventDefault();
                 const form = e.target as HTMLFormElement;
@@ -120,13 +121,17 @@ function MainContent() {
             >
               <VStack spacing={4}>
                 <FormControl>
-                  <Input
-                    placeholder="Ask a question about Colorado rental regulations..."
-                    size="lg"
-                    bg="white"
-                    _hover={{ bg: "white" }}
-                    _focus={{ bg: "white", borderColor: "blue.300" }}
-                  />
+                  <InputGroup size="lg">
+                    <InputLeftElement pointerEvents="none">
+                      <SearchIcon color="gray.400" />
+                    </InputLeftElement>
+                    <Input
+                      placeholder="e.g. Can I charge a non-refundable pet deposit?"
+                      bg="white"
+                      _hover={{ bg: "white" }}
+                      _focus={{ bg: "white", borderColor: "blue.300" }}
+                    />
+                  </InputGroup>
                 </FormControl>
                 <Button
                   type="submit"
@@ -145,33 +150,22 @@ function MainContent() {
           </VStack>
         </Container>
       </Box>
+
       <Box flex="1">
-        {/* Search Results */}
         {result && (
           <Container maxW="container.xl" mt={8}>
-            <Box 
-              p={6} 
-              borderWidth={1} 
-              borderRadius="lg" 
-              bg="white" 
-              boxShadow="sm" 
-              mb={8}
-            >
+            <Box p={6} borderWidth={1} borderRadius="lg" bg="white" boxShadow="sm" mb={8}>
               <Text fontSize="lg" fontWeight="bold" mb={4} color="blue.700">Answer:</Text>
               <Text whiteSpace="pre-wrap">{result}</Text>
             </Box>
           </Container>
         )}
 
-        {/* Article Content or Articles List */}
         {selectedArticle ? (
-          <ArticleView 
-            slug={selectedArticle} 
-            onBack={handleBackToArticles} 
-          />
+          <ArticleView slug={selectedArticle} onBack={handleBackToArticles} />
         ) : (
           <Container maxW="container.xl" py={10}>
-            <ArticlesSection 
+            <ArticlesSection
               articles={articles}
               onArticleClick={handleArticleClick}
               isLoading={isLoadingArticles}
@@ -187,15 +181,7 @@ function App() {
   return (
     <Router>
       <Box minH="100vh" bg="gray.50" display="flex" flexDirection="column">
-        {/* Header */}
-        <Flex 
-          as="header" 
-          bg="blue.700" 
-          color="white" 
-          p={4} 
-          alignItems="center" 
-          boxShadow="sm"
-        >
+        <Flex as="header" bg="blue.700" color="white" p={4} alignItems="center" boxShadow="sm">
           <Container maxW="container.xl" display="flex" alignItems="center">
             <Link as={RouterLink} to="/" _hover={{ textDecoration: 'none' }}>
               <Heading size="md" cursor="pointer">Colorado Rental Assistant</Heading>
@@ -204,13 +190,11 @@ function App() {
           </Container>
         </Flex>
 
-        {/* Routes */}
         <Routes>
           <Route path="/terms" element={<TermsOfService />} />
           <Route path="/" element={<MainContent />} />
         </Routes>
 
-        {/* Footer */}
         <Box as="footer" bg="gray.100" py={8} mt="auto">
           <Container maxW="container.xl">
             <Flex direction={{ base: "column", md: "row" }} justify="space-between" align="center">
@@ -218,12 +202,11 @@ function App() {
                 <Text fontSize="sm" color="gray.500">
                   © 2024 Colorado Rental Assistant. All rights reserved.
                 </Text>
-                {/* Add the Flaticon attribution here */}
                 <Text fontSize="xs" color="gray.500" mt={1}>
-                  <Box 
+                  <Box
                     dangerouslySetInnerHTML={{
                       __html: '<a href="https://www.flaticon.com/free-icons/buildings" title="buildings icons">Buildings icons created by Freepik - Flaticon</a>'
-                    }} 
+                    }}
                   />
                 </Text>
               </Box>

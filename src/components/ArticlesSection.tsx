@@ -10,7 +10,9 @@ import {
   CardBody,
   Spinner,
   Center,
+  Icon,
 } from "@chakra-ui/react";
+import { FiFileText } from "react-icons/fi";
 import { ArticleMetadata } from '../types/article';
 
 interface ArticlesSectionProps {
@@ -38,40 +40,39 @@ const ArticlesSection: React.FC<ArticlesSectionProps> = ({ articles, onArticleCl
   }, {} as Record<string, ArticleMetadata[]>);
 
   return (
-    <Box maxW="container.lg" mx="auto" mt={8}>
-      <Heading as="h2" size="xl" mb={8}>
+    <Box maxW="container.lg" mx="auto" mt={4}>
+      <Heading as="h2" size="xl" mb={6}>
         Knowledge Base
       </Heading>
       <SimpleGrid columns={{ base: 1, md: 2 }} spacing={6}>
         {Object.entries(articlesByCategory).map(([category, categoryArticles]) => (
-          <Card key={category} variant="outline" borderRadius="lg">
-            <CardHeader>
-              <Heading size="lg" mb={4}>
+          <Card key={category} variant="outline" borderRadius="lg" boxShadow="sm">
+            <CardHeader pb={2}>
+              <Heading size="md" mb={0} color="gray.700">
                 {category}
               </Heading>
             </CardHeader>
-            <CardBody>
-              <VStack spacing={2.67} align="stretch">
+            <CardBody pt={2}>
+              <VStack spacing={5} align="stretch">
                 {categoryArticles.map((article) => (
-                  <Box 
+                  <Box
                     key={article.id}
                     id={article.slug}
                     onClick={() => onArticleClick(article.slug)}
-                    _hover={{ 
+                    _hover={{
                       cursor: 'pointer',
                       transform: 'translateY(-2px)',
-                      transition: 'all 0.2s'
+                      transition: 'all 0.2s',
+                      bg: 'gray.50',
+                      borderRadius: 'md',
+                      px: 2,
+                      py: 1
                     }}
                   >
-                    <Text 
-                      fontSize="lg" 
-                      fontWeight="medium" 
-                      color="blue.600"
-                      mb={2}
-                    >
-                      {article.title}
+                    <Text fontSize="md" fontWeight="semibold" color="blue.600" mb={1} display="flex" alignItems="center">
+                      <Icon as={FiFileText} boxSize={4} mr={2} /> {article.title}
                     </Text>
-                    <Text color="gray.600">
+                    <Text color="gray.600" fontSize="sm">
                       {article.description}
                     </Text>
                   </Box>
@@ -85,4 +86,4 @@ const ArticlesSection: React.FC<ArticlesSectionProps> = ({ articles, onArticleCl
   );
 };
 
-export default ArticlesSection; 
+export default ArticlesSection;
