@@ -93,20 +93,18 @@ function MainContent() {
 
   return (
     <>
-      <div style={{padding: '20px', background: 'red', color: 'white'}}>
-      DEBUG: React is rendering
-    </div>
-      <Box bg="blue.600" py={12}>
+      {/* Search Section */}
+      <Box bg="brand.800" py={12} borderBottom="1px" borderColor="brand.900">
         <Container maxW="container.xl">
           <VStack spacing={8} align="stretch">
-            <Heading textAlign="center" color="white" size="2xl">
+            <Heading textAlign="center" color="white" size="2xl" fontFamily="heading">
               Colorado Rental Assistant
             </Heading>
             <Text textAlign="center" color="white" fontSize="xl">
               Ask questions about Colorado rental regulations and get accurate answers from Colorado state law.
             </Text>
             <Text textAlign="center" color="whiteAlpha.800" fontSize="sm">
-              Powered by official statutes • Updated March 2025
+              Informed by Colorado statutes §§ 38-12 - Tenants and Landlords • Updated March 2025
             </Text>
             <Box 
               as="form"
@@ -132,19 +130,17 @@ function MainContent() {
                       placeholder="e.g. Can I charge a non-refundable pet deposit?"
                       bg="white"
                       _hover={{ bg: "white" }}
-                      _focus={{ bg: "white", borderColor: "blue.300" }}
+                      _focus={{ bg: "white", borderColor: "brand.500" }}
                     />
                   </InputGroup>
                 </FormControl>
                 <Button
                   type="submit"
-                  colorScheme="blue"
+                  variant="accent"
                   isLoading={isLoading}
                   loadingText="Searching..."
                   size="lg"
                   width="200px"
-                  bg="blue.500"
-                  _hover={{ bg: "blue.600" }}
                 >
                   Search
                 </Button>
@@ -154,20 +150,27 @@ function MainContent() {
         </Container>
       </Box>
 
-      <Box flex="1">
-        {result && (
-          <Container maxW="container.xl" mt={8}>
-            <Box p={6} borderWidth={1} borderRadius="lg" bg="white" boxShadow="sm" mb={8}>
-              <Text fontSize="lg" fontWeight="bold" mb={4} color="blue.700">Answer:</Text>
+      {/* Answer Section - Moved directly below the search section */}
+      {result && (
+        <Box bg="white" py={6} boxShadow="sm" borderBottom="1px" borderColor="slate.200">
+          <Container maxW="container.xl">
+            <Box p={6} borderRadius="lg" bg="white" boxShadow="md">
+              <Text fontSize="lg" fontWeight="bold" mb={4} color="brand.600">Answer:</Text>
               <Text whiteSpace="pre-wrap">{result}</Text>
             </Box>
           </Container>
-        )}
+        </Box>
+      )}
 
+      {/* Knowledge Base Section */}
+      <Box flex="1" bg="slate.50">
         {selectedArticle ? (
           <ArticleView slug={selectedArticle} onBack={handleBackToArticles} />
         ) : (
           <Container maxW="container.xl" py={10}>
+            <Heading as="h2" size="xl" mb={6} fontFamily="heading" color="brand.700">
+              Knowledge Base
+            </Heading>
             <ArticlesSection
               articles={articles}
               onArticleClick={handleArticleClick}
@@ -183,11 +186,11 @@ function MainContent() {
 function App() {
   return (
     <Router>
-      <Box minH="100vh" bg="gray.50" display="flex" flexDirection="column">
-        <Flex as="header" bg="blue.700" color="white" p={4} alignItems="center" boxShadow="sm">
+      <Box minH="100vh" bg="slate.50" display="flex" flexDirection="column">
+        <Flex as="header" bg="brand.700" color="white" p={4} alignItems="center" boxShadow="sm">
           <Container maxW="container.xl" display="flex" alignItems="center">
             <Link as={RouterLink} to="/" _hover={{ textDecoration: 'none' }}>
-              <Heading size="md" cursor="pointer">Colorado Rental Assistant</Heading>
+              <Heading size="md" cursor="pointer" fontFamily="heading">Colorado Rental Assistant</Heading>
             </Link>
             <Spacer />
           </Container>
@@ -198,14 +201,14 @@ function App() {
           <Route path="/" element={<MainContent />} />
         </Routes>
 
-        <Box as="footer" bg="gray.100" py={8} mt="auto">
+        <Box as="footer" bg="slate.100" py={8} mt="auto" borderTop="1px" borderColor="slate.200">
           <Container maxW="container.xl">
             <Flex direction={{ base: "column", md: "row" }} justify="space-between" align="center">
               <Box mb={{ base: 4, md: 0 }}>
-                <Text fontSize="sm" color="gray.500">
+                <Text fontSize="sm" color="slate.500">
                   © 2024 Colorado Rental Assistant. All rights reserved.
                 </Text>
-                <Text fontSize="xs" color="gray.500" mt={1}>
+                <Text fontSize="xs" color="slate.500" mt={1}>
                   <Box
                     dangerouslySetInnerHTML={{
                       __html: '<a href="https://www.flaticon.com/free-icons/buildings" title="buildings icons">Buildings icons created by Freepik - Flaticon</a>'
@@ -214,9 +217,9 @@ function App() {
                 </Text>
               </Box>
               <HStack spacing={4}>
-                <Link as={RouterLink} fontSize="sm" color="gray.500" to="/privacy">Privacy Policy</Link>
-                <Link as={RouterLink} fontSize="sm" color="gray.500" to="/terms">Terms of Service</Link>
-                <Link fontSize="sm" color="gray.500" href="mailto:dan@proplaws.com">Contact Us</Link>
+                <Link as={RouterLink} fontSize="sm" color="slate.500" to="/privacy">Privacy Policy</Link>
+                <Link as={RouterLink} fontSize="sm" color="slate.500" to="/terms">Terms of Service</Link>
+                <Link fontSize="sm" color="slate.500" href="mailto:dan@proplaws.com">Contact Us</Link>
               </HStack>
             </Flex>
           </Container>
