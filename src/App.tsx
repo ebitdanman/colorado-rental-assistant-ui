@@ -93,6 +93,9 @@ function MainContent() {
 
   return (
     <>
+      <div style={{padding: '20px', background: 'red', color: 'white'}}>
+      DEBUG: React is rendering
+    </div>
       <Box bg="blue.600" py={12}>
         <Container maxW="container.xl">
           <VStack spacing={8} align="stretch">
