@@ -97,15 +97,36 @@ function MainContent() {
       <Box bg="brand.800" py={12} borderBottom="1px" borderColor="brand.900">
         <Container maxW="container.xl">
           <VStack spacing={8} align="stretch">
-            <Heading textAlign="center" color="white" size="2xl" fontFamily="heading">
-              Colorado Rental Assistant
-            </Heading>
-            <Text textAlign="center" color="white" fontSize="xl">
-              Ask questions about Colorado rental regulations and get accurate answers from Colorado state law.
-            </Text>
-            <Text textAlign="center" color="whiteAlpha.800" fontSize="sm">
-              Informed by Colorado statutes §§ 38-12 - Tenants and Landlords • Updated March 2025
-            </Text>
+          <Heading 
+            textAlign="center" 
+            color="white" 
+            size="2xl" 
+            fontFamily="heading"
+            fontWeight="700"
+            letterSpacing="-0.02em"
+          >
+            Colorado Rental Assistant
+          </Heading>
+
+          <Text 
+            textAlign="center" 
+            color="white" 
+            fontSize="xl"
+            fontWeight="400"
+            lineHeight="1.6"
+          >
+            Ask questions about Colorado rental regulations and get accurate answers from Colorado state law.
+          </Text>
+
+          <Text 
+            textAlign="center" 
+            color="whiteAlpha.800" 
+            fontSize="sm"
+            letterSpacing="0.01em"
+          >
+            Informed by Colorado statutes §§ 38-12 - Tenants and Landlords • Updated March 2025
+          </Text>
+
             <Box 
               as="form"
               onSubmit={(e: React.FormEvent) => {
@@ -150,13 +171,27 @@ function MainContent() {
         </Container>
       </Box>
 
-      {/* Answer Section - Moved directly below the search section */}
+      {/* Answer Section*/}
       {result && (
         <Box bg="white" py={6} boxShadow="sm" borderBottom="1px" borderColor="slate.200">
           <Container maxW="container.xl">
             <Box p={6} borderRadius="lg" bg="white" boxShadow="md">
-              <Text fontSize="lg" fontWeight="bold" mb={4} color="brand.600">Answer:</Text>
-              <Text whiteSpace="pre-wrap">{result}</Text>
+            <Text 
+              fontSize="lg" 
+              fontWeight="700" 
+              mb={4} 
+              color="brand.600"
+              fontFamily="heading"
+            >
+              Answer:
+            </Text>
+            <Text 
+              whiteSpace="pre-wrap"
+              fontSize="md"
+              lineHeight="1.7"
+            >
+              {result}
+            </Text>
             </Box>
           </Container>
         </Box>
@@ -168,9 +203,6 @@ function MainContent() {
           <ArticleView slug={selectedArticle} onBack={handleBackToArticles} />
         ) : (
           <Container maxW="container.xl" py={10}>
-            <Heading as="h2" size="xl" mb={6} fontFamily="heading" color="brand.700">
-              Knowledge Base
-            </Heading>
             <ArticlesSection
               articles={articles}
               onArticleClick={handleArticleClick}
@@ -190,7 +222,14 @@ function App() {
         <Flex as="header" bg="brand.700" color="white" p={4} alignItems="center" boxShadow="sm">
           <Container maxW="container.xl" display="flex" alignItems="center">
             <Link as={RouterLink} to="/" _hover={{ textDecoration: 'none' }}>
-              <Heading size="md" cursor="pointer" fontFamily="heading">Colorado Rental Assistant</Heading>
+              <Heading 
+                size="md" 
+                cursor="pointer" 
+                fontFamily="heading"
+                fontWeight="600"
+              >
+                Colorado Rental Assistant
+              </Heading>
             </Link>
             <Spacer />
           </Container>
@@ -205,9 +244,13 @@ function App() {
           <Container maxW="container.xl">
             <Flex direction={{ base: "column", md: "row" }} justify="space-between" align="center">
               <Box mb={{ base: 4, md: 0 }}>
-                <Text fontSize="sm" color="slate.500">
-                  © 2024 Colorado Rental Assistant. All rights reserved.
-                </Text>
+                  <Text 
+                    fontSize="sm" 
+                    color="slate.500"
+                    lineHeight="1.5"
+                  >
+                    © 2024 Colorado Rental Assistant. All rights reserved.
+                  </Text>
                 <Text fontSize="xs" color="slate.500" mt={1}>
                   <Box
                     dangerouslySetInnerHTML={{
